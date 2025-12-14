@@ -25,7 +25,7 @@ class Config:
         path = Path(self.data_base_path or "")
         if not path.is_dir():
             self._change_config("DATA_BASE_PATH", self.default_env_dict["DATA_BASE_PATH"])
-        for key, value in self.get.items():
+        for index,(key, value) in enumerate(self.get):
             if value is None:
                 self._change_config(key, self.default_env_dict[key])
 
@@ -37,6 +37,7 @@ class Config:
     def get(self):
         return {
             "DATA_BASE_PATH": self.data_base_path,
+            "SCOPE_DIRECOTRY": self.scope_diretory,
             "ACCESS_HIDDEN_FILES": self.access_hidden_files,
             "DEBUG": self.debug
         }

@@ -1,6 +1,7 @@
 from pathlib import Path
 from .utils import _hr_time_stamp
 import hashlib
+import random
 
 class File:
     def __init__(self,file_path:Path) -> None:
@@ -10,13 +11,13 @@ class File:
         self.last_modified = info.st_mtime
         self.hr_last_modifed = _hr_time_stamp(self.last_modified)
         file = open(str(self.path),"rb")
-        self.sha256 = hashlib.sha256(file.read())
+        self.sha256 = hashlib.sha256(file.read()).hexdigest()
         file.close()
     
     @property
     def dict(self):
         return {
-            "path": str(self.path),
+            "path": str(self.path.resolve()),
             "size": self.data_base_size,
             "last_modified": self.last_modified,
             "hr_last_modified": self.hr_last_modifed,

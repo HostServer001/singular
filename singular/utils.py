@@ -9,11 +9,11 @@ from .config import Config
 config = Config()
 
 def _get_file_paths(
-        SCOPED_DIRECOTRY:Path,
+        SCOPE_DIRECOTRY:Path,
         list_to_store:list
         )->list:
     "Implementation of recursive file listing"
-    for item in SCOPED_DIRECOTRY.iterdir():
+    for item in SCOPE_DIRECOTRY.iterdir():
         try:
             
             if item.is_dir():
@@ -40,9 +40,9 @@ def _process_chunk(chunk:list)->dict:
     hash_dict = {str(_genrate_hash(file)):str(file) for file in chunk}
     return hash_dict
 
-def _get_chuncked_files(SCOPED_DIRECOTRY:Path)->list:
+def _get_chuncked_files(SCOPE_DIRECOTRY:Path)->list:
     files_to_hash = []
-    _get_file_paths(SCOPED_DIRECOTRY,files_to_hash)
+    _get_file_paths(SCOPE_DIRECOTRY,files_to_hash)
     file_list = [
         files_to_hash[n:n+round(len(files_to_hash)/4)] 
         for n in range(
