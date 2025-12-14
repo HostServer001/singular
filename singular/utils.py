@@ -9,11 +9,11 @@ from .config import Config
 config = Config()
 
 def _get_file_paths(
-        SCOPE_DIRECOTRY:Path,
+        SCOPE_DIRECTORY:Path,
         list_to_store:list
         )->list:
     "Implementation of recursive file listing"
-    for item in SCOPE_DIRECOTRY.iterdir():
+    for item in SCOPE_DIRECTORY.iterdir():
         try:
             
             if item.is_dir():

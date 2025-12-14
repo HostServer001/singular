@@ -25,9 +25,9 @@ class Config:
         path = Path(self.data_base_path or "")
         if not path.is_dir():
             self._change_config("DATA_BASE_PATH", self.default_env_dict["DATA_BASE_PATH"])
-        for index,(key, value) in enumerate(self.get):
+        for key, value in self.get.items():
             if value is None:
-                self._change_config(key, self.default_env_dict[key])
+                self._change_config(key, self.default_env_dict.get(key))
 
     def _change_config(self, key, value):
         set_key(find_dotenv(), key, value)

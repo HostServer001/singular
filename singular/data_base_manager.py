@@ -5,7 +5,7 @@ import logging
 
 logger = logging.getLogger()
 config = Config()
-if config.get["DEBUG"] == True:
+if config.get["DEBUG"] == "True":
     logger.setLevel(logging.DEBUG)
 else:
     logger.setLevel(logging.INFO)

@@ -1,7 +1,6 @@
 from pathlib import Path
 from .utils import _hr_time_stamp
 import hashlib
-import random
 
 class File:
     def __init__(self,file_path:Path) -> None:
