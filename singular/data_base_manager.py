@@ -1,14 +1,11 @@
 from pathlib import Path
 from .config import Config
 from .utils import _hr_time_stamp
-import logging
+from .logger import Logger
+import json
 
-logger = logging.getLogger()
+logger = Logger()
 config = Config()
-if config.get["DEBUG"] == "True":
-    logger.setLevel(logging.DEBUG)
-else:
-    logger.setLevel(logging.INFO)
 
 class DataBase:
     def __init__(self) -> None:
@@ -29,6 +26,25 @@ class DataBase:
         if "FileSystemDataBase.json" in [child.name for child in self.data_base_folder.iterdir()]:
             pass
         else:
-            file = open(str(self.data_base_folder/"FileSystemDataBase.json"))
+            file = open(str(self.data_base_folder/"FileSystemDataBase.json"),"w")
             file.close()
     
+    def get(self)->dict:
+        db = open(self.data_base_file,"r")
+        db_dict = json.load(db)
+        db.close()
+        return db_dict
+    
+    def set_key(self,key,value):
+        db = open(self.data_base_file,"r")
+        db_dict = json.load(db)
+        db.close()
+        
+        db_dict[key] = value
+        
+        db = open(self.data_base_file,"w")
+        json.dump(db_dict,db)
+        db.close()
+        self.lazy_load()
+
+        logger.info(f"Succefull key insertion : {key}")

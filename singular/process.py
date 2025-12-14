@@ -1,46 +1,56 @@
 from pathlib import Path
 from .config import Config
 from multiprocessing import Pool,cpu_count
-from .utils import _get_chuncked_files,_process_chunk,_get_file_paths,_genrate_hash
-import logging
-
+from .utils import _get_chuncked_files
+from .logger import Logger
+from .data_base_manager import DataBase
+from .file import File
 
 config = Config()
-logger = logging.getLogger()
+logger = Logger()
+data_base = DataBase()
 
-SCOPE_DIRECTORY = config.get["SCOPE_DIRECTORY"]
-if SCOPE_DIRECTORY == "" or SCOPE_DIRECTORY == "/" or SCOPE_DIRECTORY == "None":
-    raise ValueError("Scope direcotry cannot be empty")
-
-SCOPE_DIRECTORY = Path(str(SCOPE_DIRECTORY))
-
-if config.get["DEBUG"] == "True":
-    logger.setLevel(logging.DEBUG)
-
+def _process_chunk(chunk:list)->dict:
+    final_dict = dict()
+    for path in chunk:
+        file = File(path)
+        final_dict.update(file.dict)
+    return final_dict
 
 
-def paralle_process()->dict: #type:ignore
+
+def _clean_chunk(file_list)->list:
+    db_dict = data_base.get()
+    registered_files = db_dict.keys()
+    clean_list = []
+    for file in file_list:
+        info = file.stat()
+        if file not in registered_files:
+            clean_list.append(file)
+        elif file in registered_files and (info.st_size != db_dict[file]["size"] or info.st_mtime != db_dict[file]["last_modified"]):
+            clean_list.append(file)
+    return clean_list
+
+
+def paralle_process(SCOPE_DIRECTORY): #type:ignore
     try:
-        chunked_file_list = _get_chuncked_files(SCOPE_DIRECTORY) # type: ignore
+        chunked_file_list = _clean_chunk(_get_chuncked_files(SCOPE_DIRECTORY)) # type: ignore
         final_dict = {}
         with Pool(cpu_count()) as p:
             dicts_list = p.map(_process_chunk,chunked_file_list)
             for sub_dict in dicts_list:
                 final_dict.update(sub_dict)
-        return final_dict
+        for key in final_dict.keys():
+            data_base.set_key(key,final_dict.get(key))
+        # return final_dict
     except Exception as e:
-        logger.error(e)
+        logger.error(f"Error in paralle process : {e}")
         
 
-def qued_proccess()->dict: #type:ignore
-    try:
-        files = _get_file_paths(SCOPE_DIRECTORY, []) # type: ignore
-        final_dict = {}
-
-        for file in files:
-            file_hash = _genrate_hash(file)
-            final_dict[str(file_hash)] = str(file)
-
-        return final_dict
-    except Exception as e:
-        logger.error(e)
+# def qued_proccess()->dict: #type:ignore
+#     try:
+#         files = _get_file_paths(SCOPE_DIRECTORY, []) # type: ignore
+#         final_dict = _process_chunk(files)
+#         return final_dict
+#     except Exception as e:
+#         logger.error(f"Error in qued process : {e}")

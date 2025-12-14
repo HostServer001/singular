@@ -16,9 +16,10 @@ class File:
     @property
     def dict(self):
         return {
-            "path": str(self.path.resolve()),
-            "size": self.data_base_size,
-            "last_modified": self.last_modified,
-            "hr_last_modified": self.hr_last_modifed,
-            "sha256": self.sha256,
+            str(self.path.resolve()):{
+                "size": self.data_base_size,
+                "last_modified": self.last_modified,
+                "hr_last_modified": self.hr_last_modifed,
+                "sha256": self.sha256
+                }
         }
