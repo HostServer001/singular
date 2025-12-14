@@ -1,9 +1,8 @@
 import time
 import json
 import hashlib
-import math
 from pathlib import Path
-from multiprocessing import Pool, cpu_count
+from multiprocessing import Pool
 from datetime import datetime
 from .config import Config
 
@@ -16,28 +15,26 @@ def _get_file_paths(
     "Implementation of recursive file listing"
     for item in SCOPE_DIRECTORY.iterdir():
         try:
-
+            
             if item.is_dir():
-                if item.name.startswith(".") and not config.get["ACCESS_HIDDEN_FILES"]:
+                if item.name.startswith(".") and config.get["ACCESS_HIDDEN_FILES"] == "False":
                     continue
-                _get_file_paths(item, list_to_store)
-
+                _get_file_paths(item,list_to_store)
+            
             elif item.is_file():
-                if item.name.startswith(".") and not config.get["ACCESS_HIDDEN_FILES"]:
+                if item.name.startswith(".") and config.get["ACCESS_HIDDEN_FILES"] == "False":
                     continue
                 list_to_store.append(item.resolve())
-
+        
         except PermissionError:
             continue
-
+    
     return list_to_store
 
 def _genrate_hash(file:Path)->str:
-    h = hashlib.sha256()
-    with open(str(file), "rb") as f:
-        for chunk in iter(lambda: f.read(8192), b""):
-            h.update(chunk)
-    return h.hexdigest()
+    with open(str(file),"rb") as file_content:
+        hash = hashlib.sha256(file_content.read())
+        return hash.hexdigest()
 
 # def _process_chunk(chunk:list)->dict:
 #     hash_dict = {str(_genrate_hash(file)):str(file) for file in chunk}
@@ -51,14 +48,17 @@ def _genrate_hash(file:Path)->str:
 #     return final_dict
 
 
-def _get_chuncked_files(SCOPE_DIRECTORY:Path)->list:
+def _get_chuncked_files(SCOPE_DIRECOTRY:Path)->list:
     files_to_hash = []
-    _get_file_paths(SCOPE_DIRECTORY, files_to_hash)
-    if not files_to_hash:
-        return []
-    num_workers = max(1, min(4, cpu_count()))
-    chunk_size = max(1, math.ceil(len(files_to_hash) / num_workers))
-    file_list = [files_to_hash[n:n+chunk_size] for n in range(0, len(files_to_hash), chunk_size)]
+    _get_file_paths(SCOPE_DIRECOTRY,files_to_hash)
+    file_list = [
+        files_to_hash[n:n+round(len(files_to_hash)/4)] 
+        for n in range(
+            0,
+            len(files_to_hash),
+            round(len(files_to_hash)/4)
+            )
+        ]
     return file_list
 
 # def paralle_process()->dict:
@@ -127,7 +127,7 @@ def dump_dict_to_json(data: dict, output_file: str):
     # Convert Path objects to strings
 
     with open(output_file, "w") as f:
-        json.dump(data, f, indent=4, default=str)
+        json.dump(data, f, indent=4)
 
     print(f"Dictionary dumped to {output_file}")
 
