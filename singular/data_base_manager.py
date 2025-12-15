@@ -36,6 +36,9 @@ class DataBase:
                 file = open(str(self.data_base_folder/"FileSystemDataBase.json"),"w")
                 json.dump(dict(),file)
                 file.close()
+                self.data_base_path = config.get["DATA_BASE_PATH"]
+                logger.info(f"DATA_BASE_PATH  we got {self.data_base_path}")
+                self.data_base_folder = Path(str(self.data_base_path))
         except FileNotFoundError as e:
             logger.error(str(e))
             quit()
