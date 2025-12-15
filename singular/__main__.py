@@ -1,3 +1,4 @@
+import time
 from pathlib import Path
 from .logger import Logger
 from .config import Config
@@ -17,3 +18,12 @@ def main():
     running = True
     while running:
         paralle_process(SCOPE_DIRECTORY)
+        logger.info("Sleeping for 15 mins")
+        time.sleep(15*60)
+
+if __name__ == "__main__":
+    try:
+        main()
+    except KeyboardInterrupt:
+        logger.info("Quitting")
+        quit()

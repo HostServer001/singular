@@ -9,7 +9,9 @@ config = Config()
 
 class DataBase:
     def __init__(self) -> None:
+        logger.info(str(config.get))
         self.data_base_path = config.get["DATA_BASE_PATH"]
+        logger.info(f"DATA_BASE_PATH  we got {self.data_base_path}")
         self.data_base_folder = Path(str(self.data_base_path))
         self._check_db_health()
         self.lazy_load()
@@ -23,14 +25,20 @@ class DataBase:
         logger.info("Data base loaded")
 
     def _check_db_health(self):
-        if "FileSystemDataBase.json" in [child.name for child in self.data_base_folder.iterdir()]:
-            pass
-        else:
-            file = open(str(self.data_base_folder/"FileSystemDataBase.json"),"w")
-            file.close()
+        try:
+            if "FileSystemDataBase.json" in [child.name for child in self.data_base_folder.iterdir()]:
+                pass
+            else:
+                file = open(str(self.data_base_folder/"FileSystemDataBase.json"),"w")
+                json.dump(dict(),file)
+                file.close()
+        except FileNotFoundError as e:
+            logger.error(str(e))
+            quit()
+
     
     def get(self)->dict:
-        db = open(self.data_base_file,"r")
+        db = open(str(self.data_base_file),"r")
         db_dict = json.load(db)
         db.close()
         return db_dict
@@ -43,7 +51,7 @@ class DataBase:
         db_dict[key] = value
         
         db = open(self.data_base_file,"w")
-        json.dump(db_dict,db)
+        json.dump(db_dict,db,indent=4)
         db.close()
         self.lazy_load()
 

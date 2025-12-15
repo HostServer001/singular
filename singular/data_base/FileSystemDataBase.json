@@ -1,0 +1,3692 @@
+{
+    "/home/jvk/Vlogs/debian_parrot_fedora_installation problem.mkv": {
+        "size": 248919417,
+        "last_modified": 1764672487.2093709,
+        "hr_last_modified": "2025-12-02 16:18:07",
+        "sha256": "0f3ce6d76625345e9fe228efe042a7d354b7a3864faf7bbe9bf944393ee9d993"
+    },
+    "/home/jvk/Study/chemical-bonding-skim/dipole-moment.pdf": {
+        "size": 881138,
+        "last_modified": 1764703980.026804,
+        "hr_last_modified": "2025-12-03 01:03:00",
+        "sha256": "445d531d141abd309e021e5c9da631182b99c1665e3893226f2d079f470f9cfc"
+    },
+    "/home/jvk/Study/chemical-bonding-skim/molecular-orbital-theory.pdf": {
+        "size": 909299,
+        "last_modified": 1764703980.5947533,
+        "hr_last_modified": "2025-12-03 01:03:00",
+        "sha256": "1ed1d476917617254d7300d654d8508186d1ac768a0ef05904ede9b474e94dae"
+    },
+    "/home/jvk/Study/chemical-bonding-skim/lewis-theory.pdf": {
+        "size": 263811,
+        "last_modified": 1764703980.506761,
+        "hr_last_modified": "2025-12-03 01:03:00",
+        "sha256": "e9c2ff736405af534e6b754cabb28284e3ec964cadd0c040f280f97c4cb7fb08"
+    },
+    "/home/jvk/Study/chemical-bonding-skim/ionic-bond.pdf": {
+        "size": 118502,
+        "last_modified": 1764703980.4107697,
+        "hr_last_modified": "2025-12-03 01:03:00",
+        "sha256": "2b18a65117e2e02de53e29517edba9ea40a265ef65fbeb7f2fbf7251dc0a8956"
+    },
+    "/home/jvk/Study/chemical-bonding-skim/covalent-and-co-ordinate-bond.pdf": {
+        "size": 89220,
+        "last_modified": 1764703979.9068146,
+        "hr_last_modified": "2025-12-03 01:02:59",
+        "sha256": "fbaed60b3191eb67b2aa0b8829c56f98e0716f2750965f59774fb27490ecdd30"
+    },
+    "/home/jvk/Study/chemical-bonding-skim/bond-parameters.pdf": {
+        "size": 334893,
+        "last_modified": 1764703979.8588188,
+        "hr_last_modified": "2025-12-03 01:02:59",
+        "sha256": "d96eabbb4d95c962ceb7a458b92a0cc5c5489f56e72815c816c96362ac4ade70"
+    },
+    "/home/jvk/Study/chemical-bonding-skim/hybridization-and-vsepr-theory.pdf": {
+        "size": 5194798,
+        "last_modified": 1764703980.2987797,
+        "hr_last_modified": "2025-12-03 01:03:00",
+        "sha256": "67035ad272087606ecfeac3dde4982614d54f4b1d7abb7cb84aa778bf9f3abe8"
+    },
+    "/home/jvk/Study/chemical-bonding-skim/hydrolysis.pdf": {
+        "size": 101142,
+        "last_modified": 1764703980.3707733,
+        "hr_last_modified": "2025-12-03 01:03:00",
+        "sha256": "5bdb952011d142d9c26cf074886d499903ee7d20ae6e46f30cf1f5bf337cf691"
+    },
+    "/home/jvk/Study/chemical-bonding-skim/hydrogen-bonding.pdf": {
+        "size": 438938,
+        "last_modified": 1764703980.3347764,
+        "hr_last_modified": "2025-12-03 01:03:00",
+        "sha256": "4481f39e3355fe870152eb3f458ef31a5ad766e41b07c8ed4a78c94aff8bb36e"
+    },
+    "/home/jvk/Study/chemical-bonding-skim/resonance.pdf": {
+        "size": 70977,
+        "last_modified": 1764703980.6347497,
+        "hr_last_modified": "2025-12-03 01:03:00",
+        "sha256": "39b9598b503dcd2f97b0aa909c7e0bf7e33c103a6559c81c6be9649b65b0e251"
+    },
+    "/home/jvk/Study/chemical-bonding-skim/valence-bond-theory.pdf": {
+        "size": 41606,
+        "last_modified": 1764703980.6627474,
+        "hr_last_modified": "2025-12-03 01:03:00",
+        "sha256": "73aa4f36b9b84e0348193af4527043c10ea4260954d8f1196031e8cf6e6c3f54"
+    },
+    "/home/jvk/idk/gwh_0.7.9-1.debian.tar.xz": {
+        "size": 1768,
+        "last_modified": 1765054420.8456752,
+        "hr_last_modified": "2025-12-07 02:23:40",
+        "sha256": "4a9d5b10d55580f6e68f6e286b993a2f3f27adf19f6ae21c3e779f75a89cd86d"
+    },
+    "/home/jvk/idk/gwh_0.7.9-1_amd64.build": {
+        "size": 1830,
+        "last_modified": 1765054432.1566162,
+        "hr_last_modified": "2025-12-07 02:23:52",
+        "sha256": "b73a3482e1001db2b2fcb2cdc2053e22bc37c72432e87861b64d0c5a344f7672"
+    },
+    "/home/jvk/idk/gwh_0.7.9-1_amd64.changes": {
+        "size": 1753,
+        "last_modified": 1765054423.881391,
+        "hr_last_modified": "2025-12-07 02:23:43",
+        "sha256": "09fd0f1a242026b169edc8c780189da3e65c7c426741653b40ca3a9a81cc0a00"
+    },
+    "/home/jvk/idk/gwh_0.7.9-1.dsc": {
+        "size": 875,
+        "last_modified": 1765054420.8456752,
+        "hr_last_modified": "2025-12-07 02:23:40",
+        "sha256": "183b874e385b46a36a80491c4dd311bd9e5f3d3599744f16d357c64cb8914a39"
+    },
+    "/home/jvk/idk/gwh_0.7.9-1_all.deb": {
+        "size": 9944,
+        "last_modified": 1765054423.4814284,
+        "hr_last_modified": "2025-12-07 02:23:43",
+        "sha256": "fc934f385a599ea3c608e26a9e399987e0dbdc4da2f6fd43ff883946161b2716"
+    },
+    "/home/jvk/idk/gwh/bash-completion": {
+        "size": 88,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "1bff1faa8a8540f3a5ce31e7fc8b1ce813b6cdc474ecaf38cbe4060588e896cb"
+    },
+    "/home/jvk/idk/gwh/debian/bash-completion": {
+        "size": 20,
+        "last_modified": 1765054240.3745718,
+        "hr_last_modified": "2025-12-07 02:20:40",
+        "sha256": "cc8fbd5f1f2ad6985e1373122591c1ecec911fb6cfbaa084d8fe72a2b28ad33d"
+    },
+    "/home/jvk/idk/gwh/debian/rules": {
+        "size": 259,
+        "last_modified": 1765054240.3745718,
+        "hr_last_modified": "2025-12-07 02:20:40",
+        "sha256": "3c2aa1fc70d0a537cc9fbeb636c725346bbd89f821fe83edf733688f001f2d7e"
+    },
+    "/home/jvk/idk/gwh/debian/gwh.substvars": {
+        "size": 32,
+        "last_modified": 1765054423.1494596,
+        "hr_last_modified": "2025-12-07 02:23:43",
+        "sha256": "59779df0125b8bc0a82628f5d15c1adcc4436d950838a0c4a90998ef42881a4e"
+    },
+    "/home/jvk/idk/gwh/debian/clean": {
+        "size": 6,
+        "last_modified": 1765054240.3745718,
+        "hr_last_modified": "2025-12-07 02:20:40",
+        "sha256": "c4090d498dd5bceda974be2b567e1234c206de6feadf3915662e80313dd6644e"
+    },
+    "/home/jvk/idk/gwh/debian/manpages": {
+        "size": 6,
+        "last_modified": 1765054240.3745718,
+        "hr_last_modified": "2025-12-07 02:20:40",
+        "sha256": "c4090d498dd5bceda974be2b567e1234c206de6feadf3915662e80313dd6644e"
+    },
+    "/home/jvk/idk/gwh/debian/install": {
+        "size": 37,
+        "last_modified": 1765054240.3745718,
+        "hr_last_modified": "2025-12-07 02:20:40",
+        "sha256": "ace6eb607a65cd0f0439052067d0dd2c1517e6793ced9d09d5099e96ca154818"
+    },
+    "/home/jvk/idk/gwh/debian/debhelper-build-stamp": {
+        "size": 4,
+        "last_modified": 1765054421.6775973,
+        "hr_last_modified": "2025-12-07 02:23:41",
+        "sha256": "16ece985686b9b37968c5868004c31e49076d585f94349c5e06f6f04391a2d40"
+    },
+    "/home/jvk/idk/gwh/debian/source/format": {
+        "size": 12,
+        "last_modified": 1765054240.3745718,
+        "hr_last_modified": "2025-12-07 02:20:40",
+        "sha256": "1be7080d72e6b566df3e236ce2c55efdfbbb8fa1c972d825e5b672ff8773be1a"
+    },
+    "/home/jvk/idk/gwh/debian/copyright": {
+        "size": 636,
+        "last_modified": 1765054240.3745718,
+        "hr_last_modified": "2025-12-07 02:20:40",
+        "sha256": "c6419f037015fd5a824b1f5fbbd9426675d916729cb24607ba90a5981a5dfc1d"
+    },
+    "/home/jvk/idk/gwh/debian/gbp.conf": {
+        "size": 85,
+        "last_modified": 1765054240.3745718,
+        "hr_last_modified": "2025-12-07 02:20:40",
+        "sha256": "db31c842813ad08d98ef49ab481318e8a6e73a5657b387aa5b550abd92a13aa7"
+    },
+    "/home/jvk/idk/gwh/debian/watch": {
+        "size": 121,
+        "last_modified": 1765054240.3745718,
+        "hr_last_modified": "2025-12-07 02:20:40",
+        "sha256": "06ae944c71f14b1e2b0e431b7f128ecae5816242f02bf2de65b01f7864ba9b8d"
+    },
+    "/home/jvk/idk/gwh/debian/docs": {
+        "size": 10,
+        "last_modified": 1765054240.3745718,
+        "hr_last_modified": "2025-12-07 02:20:40",
+        "sha256": "d0919d5bb7576d4b1a495856f1e561985d1063a8e22c74dfb90a5267c165331d"
+    },
+    "/home/jvk/idk/gwh/debian/changelog": {
+        "size": 256,
+        "last_modified": 1765054240.3745718,
+        "hr_last_modified": "2025-12-07 02:20:40",
+        "sha256": "90fbe9c4ff4307e0fc11fdae6fa14019782601a87d45f631866fb4b3afa8cf4a"
+    },
+    "/home/jvk/idk/gwh/debian/control": {
+        "size": 1112,
+        "last_modified": 1765054240.3745718,
+        "hr_last_modified": "2025-12-07 02:20:40",
+        "sha256": "76d6689d09e53957044964930da2fada6fe61c19de812c95266d45bd5b0efd55"
+    },
+    "/home/jvk/idk/gwh/debian/files": {
+        "size": 76,
+        "last_modified": 1765054423.7814004,
+        "hr_last_modified": "2025-12-07 02:23:43",
+        "sha256": "6ceaa8a37be6c0e2f327ebd8d6146a8380b94e306344624dd6bd652787ad0eb3"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/DEBIAN/md5sums": {
+        "size": 2054,
+        "last_modified": 1765054423.3974364,
+        "hr_last_modified": "2025-12-07 02:23:43",
+        "sha256": "4eca9eb1ad040344593f99940a87ada1dbb0837ee66618b44b4a969e23dbeaa1"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/DEBIAN/control": {
+        "size": 902,
+        "last_modified": 1765054423.3294427,
+        "hr_last_modified": "2025-12-07 02:23:43",
+        "sha256": "79b574cea4efca10b9738ddeb8c82cca0a42cbdbad238b37a448f572b57bcd1a"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/bash-completion/completions/gwh": {
+        "size": 88,
+        "last_modified": 1765054119.0,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "1bff1faa8a8540f3a5ce31e7fc8b1ce813b6cdc474ecaf38cbe4060588e896cb"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/doc/gwh/README.md": {
+        "size": 2410,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "fc74f40eebd82a5d098e883067e2104f2cf6f71010ee56ee5a6b3e1d23659ea1"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/doc/gwh/copyright": {
+        "size": 636,
+        "last_modified": 1765054240.0,
+        "hr_last_modified": "2025-12-07 02:20:40",
+        "sha256": "c6419f037015fd5a824b1f5fbbd9426675d916729cb24607ba90a5981a5dfc1d"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/doc/gwh/changelog.Debian.gz": {
+        "size": 176,
+        "last_modified": 1765054422.0,
+        "hr_last_modified": "2025-12-07 02:23:42",
+        "sha256": "ff579dbda97b1c91bd3623ac557d4d48db3b9c9069920c5ec5a550d7adfa53d6"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/man/man1/gwh.1.gz": {
+        "size": 1302,
+        "last_modified": 1765054422.1655517,
+        "hr_last_modified": "2025-12-07 02:23:42",
+        "sha256": "6af3398cf8cb5d81060c90733de64fc4efe269073e6165a4edaa93f0a7f2649b"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/utils": {
+        "size": 924,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "d87726418c108fecdbfa314568b2a92fdf8f7077a4aa3e618b0bf0d04e73e9a6"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/H01before-everything": {
+        "size": 204,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "6d319e7a32829172c8dae3d8520aae7e5f3518f1d67a93a831a4a308bbaa48a9"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/testing": {
+        "size": 188,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "e2858c62cf4cf6fb7713b55bbfa87a4bd71b8664c6105803982c1db8179ef39e"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/open-shell": {
+        "size": 602,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "57474c2b991bc2b504c69df6e3acb2d1608ff4c2a212eb4e5a252b9d61af30a4"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/F01before-login": {
+        "size": 183,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "9f339a4b23345de068d955555d571a69909559f678844ac95c7da25505ea7ac0"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/B50lintian-on-success": {
+        "size": 237,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "e5c0de319efae34f727b52a1b977ec34cf62d151a3dfde5f04c09a24756f535e"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/C50shell-on-failure": {
+        "size": 125,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "7f597d82a59e82cf15db23a998c4bccd45af3cfc26a183150406715cd09404d1"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/B60build-twice": {
+        "size": 387,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "6037a27b70a2e6962907fc142a114e95128263b07b139c31cbade4e5760d3bd3"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/B51shell-on-success": {
+        "size": 125,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "a7a6bb3160a26625e3a1b88c44374fc40805996fc6a50820c9f1b2a4c957422c"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/backports": {
+        "size": 221,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "7aac31c1889032b3fc0d8039342ce0ef7d77872a722bccf80348934c441a7389"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/nomandb": {
+        "size": 140,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "b89b04defc73c241bb20728b77b013b39ae8543e9b065ad0b357b6c8cd4563ad"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/snapshot": {
+        "size": 463,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "89a63a86dd853fb2725c65232cf42b8089c4aca72d35e82677de578d1ae89f1f"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/deps": {
+        "size": 814,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "681e0e2e47d8085c60122a84260075b630946e4267e70f4121e66c83b447d47f"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/experimental": {
+        "size": 205,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "6c1cd9ed0cf32a40d2ee450fd0e19075e111a7c1f29ad178202092a6f0bad9dc"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/A50shell-before-build": {
+        "size": 120,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "0bda1d93cc5979ebcf53d668de16bced9e638c3445b99b4727cb203159d179d3"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/B50blhc": {
+        "size": 235,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "3ed46c53ebb06bc3483ce1fac8bd36a330d6400b24b3014adba850eaadd3b61e"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/B70autopkgtest": {
+        "size": 773,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "70e2443210987a597bfd6d4f6d67d4cbc0cc4ef8018e56a079b0438fd688833c"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/D01before-unpack": {
+        "size": 298,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "fc7d75e73a20e3ad0535a59ffb0a73f8b480e234f887258bfa9d9e329975e682"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/nonfree": {
+        "size": 204,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "7a58b9da6ba536ba7227037028388da19e36267569fb1aaddac9afef2555f87e"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/hooks/B65test-install": {
+        "size": 393,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "2dd2e7e18771bc8e06ff863f4862f29e141873a8bf311d81262af3626244bed6"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/pbuilderrc": {
+        "size": 337,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "24095f7ba4e2b53bbf80671a05cb051cdc660155ba45ec5bb9a4ac9113e94958"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/share/gwh/pbuilder/pbuilderrc.offline": {
+        "size": 14,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "548ca837d360d8fe855e432da7be04830fc3dff5e642bca0990888ef47b0c8c7"
+    },
+    "/home/jvk/idk/gwh/debian/gwh/usr/bin/gwh": {
+        "size": 10535,
+        "last_modified": 1765054240.3745718,
+        "hr_last_modified": "2025-12-07 02:20:40",
+        "sha256": "b3cc37a3a774081caaa8494fab773810b9716865c1e055fb16d0467f361a7448"
+    },
+    "/home/jvk/idk/gwh/README.md": {
+        "size": 2410,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "fc74f40eebd82a5d098e883067e2104f2cf6f71010ee56ee5a6b3e1d23659ea1"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/utils": {
+        "size": 924,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "d87726418c108fecdbfa314568b2a92fdf8f7077a4aa3e618b0bf0d04e73e9a6"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/H01before-everything": {
+        "size": 204,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "6d319e7a32829172c8dae3d8520aae7e5f3518f1d67a93a831a4a308bbaa48a9"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/testing": {
+        "size": 188,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "e2858c62cf4cf6fb7713b55bbfa87a4bd71b8664c6105803982c1db8179ef39e"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/open-shell": {
+        "size": 602,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "57474c2b991bc2b504c69df6e3acb2d1608ff4c2a212eb4e5a252b9d61af30a4"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/F01before-login": {
+        "size": 183,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "9f339a4b23345de068d955555d571a69909559f678844ac95c7da25505ea7ac0"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/B50lintian-on-success": {
+        "size": 237,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "e5c0de319efae34f727b52a1b977ec34cf62d151a3dfde5f04c09a24756f535e"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/C50shell-on-failure": {
+        "size": 125,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "7f597d82a59e82cf15db23a998c4bccd45af3cfc26a183150406715cd09404d1"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/B60build-twice": {
+        "size": 387,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "6037a27b70a2e6962907fc142a114e95128263b07b139c31cbade4e5760d3bd3"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/B51shell-on-success": {
+        "size": 125,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "a7a6bb3160a26625e3a1b88c44374fc40805996fc6a50820c9f1b2a4c957422c"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/backports": {
+        "size": 221,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "7aac31c1889032b3fc0d8039342ce0ef7d77872a722bccf80348934c441a7389"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/nomandb": {
+        "size": 140,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "b89b04defc73c241bb20728b77b013b39ae8543e9b065ad0b357b6c8cd4563ad"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/snapshot": {
+        "size": 463,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "89a63a86dd853fb2725c65232cf42b8089c4aca72d35e82677de578d1ae89f1f"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/deps": {
+        "size": 814,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "681e0e2e47d8085c60122a84260075b630946e4267e70f4121e66c83b447d47f"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/experimental": {
+        "size": 205,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "6c1cd9ed0cf32a40d2ee450fd0e19075e111a7c1f29ad178202092a6f0bad9dc"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/A50shell-before-build": {
+        "size": 120,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "0bda1d93cc5979ebcf53d668de16bced9e638c3445b99b4727cb203159d179d3"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/B50blhc": {
+        "size": 235,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "3ed46c53ebb06bc3483ce1fac8bd36a330d6400b24b3014adba850eaadd3b61e"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/B70autopkgtest": {
+        "size": 773,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "70e2443210987a597bfd6d4f6d67d4cbc0cc4ef8018e56a079b0438fd688833c"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/D01before-unpack": {
+        "size": 298,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "fc7d75e73a20e3ad0535a59ffb0a73f8b480e234f887258bfa9d9e329975e682"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/nonfree": {
+        "size": 204,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "7a58b9da6ba536ba7227037028388da19e36267569fb1aaddac9afef2555f87e"
+    },
+    "/home/jvk/idk/gwh/pbuilder/hooks/B65test-install": {
+        "size": 393,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "2dd2e7e18771bc8e06ff863f4862f29e141873a8bf311d81262af3626244bed6"
+    },
+    "/home/jvk/idk/gwh/pbuilder/pbuilderrc": {
+        "size": 337,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "24095f7ba4e2b53bbf80671a05cb051cdc660155ba45ec5bb9a4ac9113e94958"
+    },
+    "/home/jvk/idk/gwh/pbuilder/pbuilderrc.offline": {
+        "size": 14,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "548ca837d360d8fe855e432da7be04830fc3dff5e642bca0990888ef47b0c8c7"
+    },
+    "/home/jvk/idk/gwh/gwh.1": {
+        "size": 4235,
+        "last_modified": 1765054421.6655984,
+        "hr_last_modified": "2025-12-07 02:23:41",
+        "sha256": "6ccb191c17b83885f655fd317f23da1fbf8ca5c4631a809f1a4d52342701a2cc"
+    },
+    "/home/jvk/idk/gwh/gbp.conf.sample": {
+        "size": 294,
+        "last_modified": 1765054119.3739004,
+        "hr_last_modified": "2025-12-07 02:18:39",
+        "sha256": "a458e81b0197c98fc8b8b234ea5d96ca3fa00b9c6a21863417d4310cef57e84d"
+    },
+    "/home/jvk/idk/gwh/gwh": {
+        "size": 10535,
+        "last_modified": 1765054240.3745718,
+        "hr_last_modified": "2025-12-07 02:20:40",
+        "sha256": "b3cc37a3a774081caaa8494fab773810b9716865c1e055fb16d0467f361a7448"
+    },
+    "/home/jvk/idk/gwh_0.7.9.orig.tar.xz": {
+        "size": 6320,
+        "last_modified": 1765054312.9037812,
+        "hr_last_modified": "2025-12-07 02:21:52",
+        "sha256": "6ecc50d366f8fb0aef99322a4cc4f6d287932a236ca6d4b4985962d15e8265f2"
+    },
+    "/home/jvk/idk/gwh_0.7.9-1_amd64.buildinfo": {
+        "size": 4826,
+        "last_modified": 1765054423.7814004,
+        "hr_last_modified": "2025-12-07 02:23:43",
+        "sha256": "24a00a1286d5739c73a86b969a74fda7551cfa24746cc0663db2690147672616"
+    },
+    "/home/jvk/2025-12-03 10-22-37.mkv": {
+        "size": 614114666,
+        "last_modified": 1764739406.478539,
+        "hr_last_modified": "2025-12-03 10:53:26",
+        "sha256": "0d8262b3749d88e6f7b4a224c12032de655b2b2375a9abece60d37331f684f73"
+    },
+    "/home/jvk/Downloads/Lumafly-Linux/Lumafly": {
+        "size": 133544098,
+        "last_modified": 1727634381.0,
+        "hr_last_modified": "2024-09-29 23:56:21",
+        "sha256": "8170c4eddddda1c79784fd760f097e1f371e5d4e3861288a7e0f422cd2338935"
+    },
+    "/home/jvk/Downloads/Loki minimal wallpaper.jpeg": {
+        "size": 4736,
+        "last_modified": 1765012156.6827312,
+        "hr_last_modified": "2025-12-06 14:39:16",
+        "sha256": "a4ea0563e24ada94ed1233af71fdc72e4e953953d90c0b217bc05aa6b4b1cfeb"
+    },
+    "/home/jvk/Downloads/DOC-20251107-WA0006.pdf": {
+        "size": 12226083,
+        "last_modified": 1765177134.9466708,
+        "hr_last_modified": "2025-12-08 12:28:54",
+        "sha256": "12bed5c39aada5e4d85741b77871c4cb275d132b6468a3b9f01729d77546588c"
+    },
+    "/home/jvk/Downloads/Antigravity.exe": {
+        "size": 159334576,
+        "last_modified": 1764939108.376752,
+        "hr_last_modified": "2025-12-05 18:21:48",
+        "sha256": "47170e0138cd3d5d8f29ed39f73701d74890a9308172f76003e981779b5569e3"
+    },
+    "/home/jvk/Downloads/37d085f8641bc53044e95cd0171d62c4.jpg": {
+        "size": 8901,
+        "last_modified": 1765012156.9947212,
+        "hr_last_modified": "2025-12-06 14:39:16",
+        "sha256": "c283969d184142e203aaec1ff266c18e99ccc47f75f08ce8341ac5bf5c963dcd"
+    },
+    "/home/jvk/Downloads/Loki.jpeg": {
+        "size": 189319,
+        "last_modified": 1765012156.778728,
+        "hr_last_modified": "2025-12-06 14:39:16",
+        "sha256": "519420737ebd8dd8705b8a5b3ccbbd8c6195f604d1816eed1ffcc17f3eeac5a3"
+    },
+    "/home/jvk/Downloads/1393c1f6-8c1a-4cbc-8b3d-a568638dae8f.jpeg": {
+        "size": 4330,
+        "last_modified": 1765012156.622733,
+        "hr_last_modified": "2025-12-06 14:39:16",
+        "sha256": "e2bec6ce305eb123fb3f35027889a36e25179f33d35e57f41eff4212f8cd217b"
+    },
+    "/home/jvk/Downloads/Lumafly-Linux.zip": {
+        "size": 64540412,
+        "last_modified": 1764744880.699659,
+        "hr_last_modified": "2025-12-03 12:24:40",
+        "sha256": "482c02eed417cfba6b60c55161f6b529a08d90b4e185a7bb934d3e0c0b718a9d"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libxul.so": {
+        "size": 155922672,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "c5f7d577b12012f1ff1fad8e02d99354b736f9bfba63ff8006f12b88c6e8a70f"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Tor/libcrypto.so.3": {
+        "size": 5472560,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "48ca08125f6d6a91316f2d2c5489bf8c56110706711f75b5d249d866e3df5f24"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Tor/tor": {
+        "size": 3561240,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "565e0704371a5dc0bc05e25a7bd789795b7271ee8112b7d35f09d00e4e63422a"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Tor/libssl.so.3": {
+        "size": 1048256,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "5f079f353d0aad1d74315c346d01bbf828b01ec10fd9e11aa39e722a0b210ce7"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Tor/libstdc++/libstdc++.so.6": {
+        "size": 1911264,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "d015803ac62c46cc12cb7573d712437e890a9959f9220f0162385e411a2c81d2"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Tor/PluggableTransports/lyrebird": {
+        "size": 17494308,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "aff05bb6c4f21235ef3c42058f586c6d98192ac6b79dbc88df2d1d72a3b25d55"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Tor/PluggableTransports/conjure-client": {
+        "size": 12693796,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "a3aaaa8bed373806512ef038aaf526d6dc71b0e9ca9751a6151dc16d4cd9a076"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Tor/libevent-2.1.so.7": {
+        "size": 342328,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "ac9c728b83f8ac5b814f2ee4458f90e71330e7f960bc0505ac089c3bfa0f74a4"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Data/Browser/profiles.ini": {
+        "size": 103,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "11dedeb495c4c00ad4ef2ecacbd58918d1c7910f572bbbc87397788bafca265c"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Data/Browser/profile.default/extensions/{73a6fe31-595d-460b-a920-fcc0f8843232}.xpi": {
+        "size": 1048895,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "4579c70b69e3198ea0bf064f9912b9341696b9ad4ed177cb19994208872425fd"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Data/Tor/geoip": {
+        "size": 9052022,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "ba318bc673bfab0ea874dca41a842e4ce0443549d45ae906f8276486fc7e8646"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Data/Tor/torrc": {
+        "size": 0,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Data/Tor/torrc-defaults": {
+        "size": 922,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "58cae4250134fb842582933c1348ce2b1068c3f2edccda77f3e376648a34d83d"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Data/Tor/geoip6": {
+        "size": 16230504,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "480faf3cd1e987027de1dc36e4220040aee6f98e011cdbf6b1b16ba5dbb2b6e8"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Docs/ChangeLog.txt": {
+        "size": 655109,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "37e8293a8c8452e21980759e510d0828c23c2d06115973e82358fcdefd9c32ff"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Docs/conjure/README.md": {
+        "size": 2750,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "f7e9211dd0e0089c93a0a84329fed41b2ac7b988531475b5eb2c86d38ad64d6c"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Docs/Licenses/Tor-Launcher.txt": {
+        "size": 1480,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "d4fd98d01e1714e6b86f3b2c721e80f593387de8b10da690625039155fa2104c"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Docs/Licenses/Torbutton.txt": {
+        "size": 2306,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "73b2a217734a2b37ecc0a26e5ba7d429e729f41d98ef0c09caff92f69573b625"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Docs/Licenses/tor.txt": {
+        "size": 19651,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "47b54ed17e8fdcab3c44729a1789a09b208f9a63a845a7e50def9df729eebad0"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Docs/Licenses/Firefox.txt": {
+        "size": 16726,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Docs/Licenses/lyrebird.txt": {
+        "size": 282585,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "2331e6517a15ce87e2a1d2838c314ca1b8f3c7a347ac28d370a7fccdb5964f40"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Docs/Licenses/Noto-Fonts.txt": {
+        "size": 11357,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Docs/Licenses/libevent.txt": {
+        "size": 4528,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "ff02effc9b331edcdac387d198691bfa3e575e7d244ad10cb826aa51ef085670"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Docs/Licenses/openssl.txt": {
+        "size": 10175,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "7d5450cb2d142651b8afa315b5f238efc805dad827d91ba367d8516bc9d49e7a"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Docs/Licenses/Noto-CJK-Font.txt": {
+        "size": 4301,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Docs/Licenses/conjure.txt": {
+        "size": 127227,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "0522541e3505d6669334f6eb488d4fde9c4af2234daec13170a0cf4d46d99e92"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/TorBrowser/Docs/Licenses/NoScript.txt": {
+        "size": 813,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "2e0cc4147b05ed702509b7f2f290b105409d97419d4c75562953634e9b0faffb"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/glxtest": {
+        "size": 90328,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "5cf241ce8f661463503752a4ab79aaa41c74e09e53690e2d5664bbabd1d10b67"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libfreeblpriv3.so": {
+        "size": 994256,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "349610791a7f1b77bdb203bf8122984a25c9a8af869fb5838de827e1abb0d5ab"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libmozavcodec.so": {
+        "size": 4096792,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "0fff7dc5e23ef05873951ab528714b95e739f58d1bee2a3c1f4d447283e9d7a0"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libmozsqlite3.so": {
+        "size": 1486264,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "4e628493043fdb1f591b393d63cde5242675babf9ffd3873a2e23291808b62ce"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libplc4.so": {
+        "size": 17400,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "10862c934f49a633f3c5837b3b6565bc3b757a49b6f41a420a1b9bdf6a8bd8b2"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libsmime3.so": {
+        "size": 167096,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "03d3e90e26206e5ca0627eca1eee89c9e7aca08e5bdc0d498ffbeceec6d3585d"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/defaults/pref/channel-prefs.js": {
+        "size": 429,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "7d9d37eff1dc4e59a6437026602f1953ef58ee46ff3d81dbb8e13b0fd0bec86b"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/start-tor-browser.desktop": {
+        "size": 1804,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "f521dbcdf1d1f05d241c0c5edbd2d05e374b2b0cf98a0ba874064f5503276e0f"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libplds4.so": {
+        "size": 12760,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "e32af74ef5ca10873dfd0333c98e2fa23e5baefdd309894049275c729d5488e0"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/distribution/extensions/{73a6fe31-595d-460b-a920-fcc0f8843232}.xpi": {
+        "size": 1048895,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "4579c70b69e3198ea0bf064f9912b9341696b9ad4ed177cb19994208872425fd"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/precomplete": {
+        "size": 9213,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "e8f03dfe311285f09f0ddcfed26bd6344b5e0484aa1966bd925266ebb04c7e94"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/platform.ini": {
+        "size": 178,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "4641ba75f163042bb986b19d3b2c3f868d8de6d31aaaeed90966127d83efc720"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/liblgpllibs.so": {
+        "size": 180792,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "ab0d8898870f8e1de7af1ac3b31bf53a28a05c9b07a5b34953561a998a65a76d"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/execdesktop": {
+        "size": 287,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "a73cbc88bd98e5132bc0bd7af3617309a0ea889c2aac831fbe8f3956e5e979ee"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libmozgtk.so": {
+        "size": 4648,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "0ffe24c74665201bdcc9a5fa3b7dcb602677e4d1f3ba2ae2fb68adbad4c0942b"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/vaapitest": {
+        "size": 74448,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "c6dc98cf2bfad2156cf6733c034e99d6e1620562faf7a5fcea7fc92517f48dd2"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libnss3.so": {
+        "size": 698816,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "56a29d6d9045327660df3e07777ead975b1ea033410a57e6d14485b19d410696"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libnspr4.so": {
+        "size": 220688,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "d8fa956f4232ba19d41914a2c84fc10fe1dc67c70d630a69bc63b2e6f2c01cff"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/tbb_version.json": {
+        "size": 71,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "7155e0ebabc2447a28a119bce6b4aa0438edf5238b233e94c94f5c9ef58bd063"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/browser/omni.ja": {
+        "size": 27802801,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "efaffe48056c7bcf225120e24d1e21b4ea35c26957caf52de549e1804d8f94a7"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/browser/chrome/icons/default/default32.png": {
+        "size": 2044,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "e23d87b1798bc9e2466c2ad17a24fd3afabe5117fd808b251de01f6dd380beec"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/browser/chrome/icons/default/default128.png": {
+        "size": 14949,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "33f9c256c82c2c5797cf8835c50ca9b5715922969cbe8f89dd757217d18c8826"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/browser/chrome/icons/default/default48.png": {
+        "size": 3577,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "84ef6b33850a88fbb84d6bb8e6f4196e40280c22bdb9ddc359c9110a05a43866"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/browser/chrome/icons/default/default64.png": {
+        "size": 5238,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "b4633594300130ac17cc288d3ceea1afffbf4057b400a4d2bcf48b6357d4bf07"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/browser/chrome/icons/default/about-logo.svg": {
+        "size": 1776,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "cf055b98faaa30b0a29e4a2db8eb222da02fcccc2f78100e4e6675dc6d28f20c"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/browser/chrome/icons/default/default16.png": {
+        "size": 817,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "8261a2abfdb007236e473ef3fb92e9ee9cc230e47f8417a360ad4e4ea5e67cef"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libgkcodecs.so": {
+        "size": 8962008,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "bf492d53473d09566d675bd4f546d3c76577581d023c3aabe9d25981eb87229e"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libsoftokn3.so": {
+        "size": 328496,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "a175487d39d5aa6e39a45b57dcdded8e4b1a04db3bab320680c9045da36f4fd5"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/firefox": {
+        "size": 477,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "cdcd40436a4aef8e3583b1d95fa3b6c18bffe6f26921283e197052c56c8ae593"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/omni.ja": {
+        "size": 20452824,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "9073e0827cb443479421711f5fcb138ec1f32a9f8dbdf7302eaec823b71e01be"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libnssutil3.so": {
+        "size": 179728,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "27b5b9e064361f551c4cdd20fe1dc594d302d6b0f2f24a24a3955240c4b5acfc"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/dependentlibs.list": {
+        "size": 189,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "621f575eaaf819dd0b18976c6a8a94d1caae95a9c748f4c9058a052395a4d173"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libmozwayland.so": {
+        "size": 12680,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "1f0bdc656ee81d680071c109da183d4fbbfdcc064cda4c995a318b2955a5b09b"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifKhmer-Regular.ttf": {
+        "size": 154372,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "ef0612212c7417da732dd43c744abf66f4f62c45d4f8962e42c8553230e0da2a"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/TwemojiMozilla.ttf": {
+        "size": 1474284,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "6d90152ee0d29e82fe2a87793af5aa4b7ad13e6538360889e141e81ed299ee8e"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansMalayalam-Regular.ttf": {
+        "size": 112936,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "c08de7fa8d032a5d6a4d120fb82c78cec60b362a4e73fa26360d89759ff2a7f9"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansMandaic-Regular.ttf": {
+        "size": 29328,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "0ecb2440205b9fe02fce714ddda98bb59892d4f7eacce2c1f12028b172a34de8"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTifinaghAzawagh-Regular.ttf": {
+        "size": 79660,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "1fce773308ca5eb9132fd66323feaef0b034ab2b3f63275e93c90ce637d3db44"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifTelugu-Regular.ttf": {
+        "size": 311724,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "2b376e0351fb140f2edad9c54e8977f4f1effc4fe72443e152b3f6ad392c6f5f"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansKayahLi-Regular.ttf": {
+        "size": 17428,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "71235e4d51c4e591b20717c525997c72ee906a9d39ce55f8f8bb8c60e96ab807"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifKannada-Regular.ttf": {
+        "size": 194376,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "95a78c95359dc59b9ec56bdc5bdf8a9642394d2ef87ded945fb3885893b3eac6"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansKhojki-Regular.ttf": {
+        "size": 70444,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "4cdcae034430ea2b5695d39c1b1fcb8fac1d8c32ef7d66615248e72d41781367"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/Cousine-Regular.ttf": {
+        "size": 296800,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "829e776e4929eb6467838b92c7b700085fac2073801e6b54b224661affb34688"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/Cousine-Italic.ttf": {
+        "size": 306828,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "64e8ed603232b28eceebe0d18838a5e62297605203b33720d775ed628cdc222b"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansArmenian-Regular.ttf": {
+        "size": 30752,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "720df88c332417a235b4d6209d14ec2e2bf4bfe2a954b7453d869ea593bfce1e"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTifinaghHawad-Regular.ttf": {
+        "size": 79184,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "88cf22f57c3c99964e88cc2b16eccbd8d60dd7e61cbb49fc6944779c7cd17298"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTaiViet-Regular.ttf": {
+        "size": 30580,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "5f7e2a8d5cca567620d101534fc34b432e1577ff01f3f1752750050c90b1ca7f"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTagbanwa-Regular.ttf": {
+        "size": 5940,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "5ed080972eead72d6f7f074ac2020dd6f82d8158161040f702b539e43a776a28"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifHebrew-Regular.ttf": {
+        "size": 30288,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "dfd5a6aefe97a99f68fe43388342913d50bb9fbf6d3afc4d2c7725661bc4a2b1"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTifinaghGhat-Regular.ttf": {
+        "size": 79016,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "c06c851cbed87d8281688b04d02f26c9d70190816ef30123790553eb8e8e3fa0"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTC-Regular.otf": {
+        "size": 5683368,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "5bab0cb3c1cf89dde07c4a95a4054b195afbcfe784d69d75c340780712237537"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansLimbu-Regular.ttf": {
+        "size": 12804,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "5cea5d0f2a089c36ea24e8481f65a2aff5d4b0890db440326cea2c808f82d582"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansNKo-Regular.ttf": {
+        "size": 39592,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "c756efb2c40f754107d76fa4e401fc3b8b7edec5cc65db549d3d0236ac6d08a1"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansThai-Regular.ttf": {
+        "size": 37780,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "61cf814eec46b294d6ea4401ac295d0cecd5207bd2331dcc5a15e7301d30ee44"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansSoraSompeng-Regular.ttf": {
+        "size": 8048,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "3499f8e787031f75771e481a53ca41f6c0b65dbdf149dac3cb319c29c53c28c2"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansMongolian-Regular.ttf": {
+        "size": 344828,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "a28ba3cde3de22de7ddc934bd5d5babe54e6ce28c073a288cd978ffcf26b295b"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifLao-Regular.ttf": {
+        "size": 42880,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "a8d38866520f3c96d0e0e43f079f16c72ae4963bbabdf21cae26092c7cb65ec7"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansGeorgian-Regular.ttf": {
+        "size": 52888,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "d3e33254b09e7bb2c5cf0f17e554b80462056c5a107097f258d495168c3a9346"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansGunjalaGondi-Regular.ttf": {
+        "size": 69884,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "bdc8ed1739118d7c1be43cb5b435817fb7a5ae0acb32c89b2ddd66e7e9c2d1b3"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTifinaghAhaggar-Regular.ttf": {
+        "size": 79508,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "a4864c1eb95707283eee5dbba64bf6b99edd1011c2b8a9e51c7a1d1bf941ba03"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansWarangCiti-Regular.ttf": {
+        "size": 27264,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "f992ab2ede41083879ac42480d360807106afcd060f5df77ae73f79a26067fa5"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifNPHmong-Regular.ttf": {
+        "size": 24376,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "becff5fa38bed12954dc62a8461e80231fa44307f4ae4c96b31a3c0df0e04bfe"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansGujarati-Regular.ttf": {
+        "size": 200704,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "9b5a7aaeeb649a2e75a49d8b006a1f87db1b61c0df3b001609f4e0725d88dbf6"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansLisu-Regular.ttf": {
+        "size": 12696,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "f56f6bca7618c5d95d9e2adf45168844f161dedd95abeadbd58c1fbba7be750d"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTifinagh-Regular.ttf": {
+        "size": 79376,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "8058054786bc572007193988654d1ded342bc2538c2d91c50d1a7238ea1a99cc"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifKhojki-Regular.ttf": {
+        "size": 146988,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "ab7738bcbff4be789ca459877eab7f31add89d1515decba4097abcaafcd9d604"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansGrantha-Regular.ttf": {
+        "size": 364160,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "41dd39f2f16e9539751c732f8d276079b98277bec2ea5945232a7ac594198000"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansPahawhHmong-Regular.ttf": {
+        "size": 18168,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "93c0c23cc50e5fb1e82a0eeaa8cd2e73d80e5af07be4419b882a2b54898def41"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansZanabazarSquare-Regular.ttf": {
+        "size": 20544,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "4a42d77e15f8f6a295a682369fb941afca2c494bd4f4341882d5562f1ed5ed23"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansHanifiRohingya-Regular.ttf": {
+        "size": 27580,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "ce453eaf8807a9a410cdc2ebeb7ae009e90b9e611342ac239aa59b794bdcefdb"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTifinaghAgrawImazighen-Regular.ttf": {
+        "size": 79232,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "c1750eaaf59d6336971193d1b4d69970e1c5a8c3c079ce2f739f0d1bdff3aa6d"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansMeeteiMayek-Regular.ttf": {
+        "size": 16584,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "66dd434ad6211990d95ba598ad8e44dee30fb32556cb2310bc7f246e00c40990"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansOsmanya-Regular.ttf": {
+        "size": 16584,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "85b6f588013bdd027a683a454b5ecf4b1b859b7175ea98219f645be53dfc4753"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansNewTaiLue-Regular.ttf": {
+        "size": 20288,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "35499f3b79c2a4683ba2784b0d4c652d58e2c28c48775b33c9e8e94f2dee965a"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansSamaritan-Regular.ttf": {
+        "size": 10788,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "430aa9e70b6c500c4267e9ecc5165d15bfefc761d86650101deeb7e07260d5ed"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansJP-Regular.otf": {
+        "size": 4533028,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "dff723ba59d57d136764a04b9b2d03205544f7cd785a711442d6d2d085ac5073"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTifinaghSIL-Regular.ttf": {
+        "size": 79620,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "788740f9e2ca1ea75b7351ce4ccac6d583377adbba98740e6ab05ffaf3507fdc"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/Arimo-Regular.ttf": {
+        "size": 315784,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "f405056d25ddc3ad89a852db367f1dc075d8c7212fddcf7c488e212efeb8b176"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansYi-Regular.ttf": {
+        "size": 183036,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "9d5d3f9912f14bee3f32c9d8add8a5dd02910dcabc00e3702a2b9883556852c9"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansHanunoo-Regular.ttf": {
+        "size": 7668,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "ef23d153e9d666becc0d79fa88f0ae21f46138f1285b8eac304661ab35717aed"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansSylotiNagri-Regular.ttf": {
+        "size": 16740,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "b3bb806a5fe533e550a27b51b28961cb09522f2a700c2c858169d9c8ed6573c4"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansVai-Regular.ttf": {
+        "size": 91252,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "3b454157b5fc64cc21fb9c76cc86390997b1540499906179a1d1375e59d1bf33"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoNaskhArabic-Regular.ttf": {
+        "size": 245616,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "2d5d78e9cc27d7193926c7e460314c9da7dbec1268494dbf117adc53c171ac06"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifBalinese-Regular.ttf": {
+        "size": 53872,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "8282b492a229638518fc586cf55cfe3751ca68f61feb56c89d6bff48607719eb"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansSharada-Regular.ttf": {
+        "size": 53372,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "8350a4cf4b5bdc0707aa5077075b0885a4f3f0f08ed6b49b8e5d142aef4032da"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTamil-Regular.ttf": {
+        "size": 73992,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "3c0a186feb3c63c7f6d63e1511dcdc144e745ae09b98e217c83f3e317974f6f9"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/STIXTwoMath-Regular.otf": {
+        "size": 838652,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "3a5f3f26f40d5698b3c62dd085d48d6663696a3f80825aab8b553d5097518e8c"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansMultani-Regular.ttf": {
+        "size": 16496,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "12c2437f98173dbff98fa18bcc73c6a44896634fb6d55d8f6d028394af4fc9b9"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansBatak-Regular.ttf": {
+        "size": 22336,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "2ce9e91aa89c2aab44bb7bf944b0f445bd36f1a51ea21b7848e976182a541e00"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoColorEmoji.ttf": {
+        "size": 10195752,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "3ed77810c203e1a67735dc19d395f32c23f2d7c0c3696690f4f78e15e57ab816"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansShavian-Regular.ttf": {
+        "size": 12996,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "6e2f222f7a24578efe1fd112678e7fe3709e8157793456c75053617848619d1e"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansDevanagari-Regular.ttf": {
+        "size": 244284,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "306b53ecfb182a504dd8a7446093c316387d2fd8dc350d0792ed1753fe0996cd"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansBuhid-Regular.ttf": {
+        "size": 5316,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "328d80e11e7f65f9b6e4bac12de32b7ce42154301c2a14ba92155e32e05939d6"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansCherokee-Regular.ttf": {
+        "size": 94732,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "c052352137ae8d283840a0e2991a675d47859d8fdbae5726d373d4f0d97a8c87"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansGurmukhi-Regular.ttf": {
+        "size": 55172,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "658d0207da305a1411c539a8b0bbeda64d4146e54fb4827facddb890b6b90d74"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansNewa-Regular.ttf": {
+        "size": 152712,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "3aede9a3ab5740babffe75f7c0d97e2329734b8cb470c999be1871362084a8bd"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifGrantha-Regular.ttf": {
+        "size": 365964,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "3eb89dbf48e7b2b91893ac32e620509cf541e2445ea2c010f0bfe2e09e9e30fd"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifSinhala-Regular.ttf": {
+        "size": 325860,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "0d5a63d34ed378e345ec96021d72385c8e288ecd0ea36511a329aed448ede375"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansOsage-Regular.ttf": {
+        "size": 20596,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "7801aa3d99d9da1a8fac388104e9fff4d94ddd28a07579b13a75224660b22fbf"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansBengali-Regular.ttf": {
+        "size": 203696,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "9f8b4dd091f19b111d24ea18daae81bea8684cc67de17ea1acd797e144bf20ba"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansLepcha-Regular.ttf": {
+        "size": 26084,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "8dad9629d709f0dba5d769988d1466daf300751f6bba2659465aaa6214261590"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansHebrew-Regular.ttf": {
+        "size": 26860,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "cdefaf8efd47045f6820928eba84db5bed7557539328952b5f828315485e02ee"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansAdlam-Regular.ttf": {
+        "size": 93364,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "4b51541536a7b28142a4571c16dc56e386c05f345ac9739ef8599d8ad4ed5e54"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansSaurashtra-Regular.ttf": {
+        "size": 35252,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "8ebdec75287c63310a1aff3660d0fa5b3dd027606c17f69217a5a5a5142f6e63"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTakri-Regular.ttf": {
+        "size": 18456,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "c14fb3d442ee9330d54d22aed37a9ee78ec4038055faa195d62661e4bb9988f9"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTelugu-Regular.ttf": {
+        "size": 235176,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "b274780b69d1d23fe84b55e809a152cb2ac5306d33864b1f87622f6971871aae"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansChakma-Regular.ttf": {
+        "size": 82348,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "60ce1d029e35b432dd68cc9f6c94f69bd84d8c97f28f06130186606dd2c3325d"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansKhmer-Regular.ttf": {
+        "size": 114576,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "e66675f2082788f0511a714bef5a1748928294b38c8e286a96ea73a864b5e605"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/000_README.txt": {
+        "size": 296,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "14014e6904c0a496afaf2a7ba6f63926d16d4e8695862d3af439954434765de1"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifTamil-Regular.ttf": {
+        "size": 79476,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "8a8cb015a3afec2998e01aabcb42fb365994132d95dbc2150208b4fefd8dc2e4"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/Tinos-Italic.ttf": {
+        "size": 539624,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "0f949a3fa0e23cd0ca94a0c4784bd8f9efb99c20070b9f73b5fd592b49c092ad"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/fonts.conf": {
+        "size": 5173,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "adae7c650496697de2b9f21b53262ff0e4f83d3327b47fa4e6d17872360b8a00"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansBassaVah-Regular.ttf": {
+        "size": 8116,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "8218239377452e05634a91ee8a4338daf0aa96a15673a437533a098eb9c06f53"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansThaana-Regular.ttf": {
+        "size": 27308,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "7543935bdcef770c9d3dd54222651b29040e5ec82f3bc58542392b2c7a9cbd3c"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTirhuta-Regular.ttf": {
+        "size": 96848,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "f7a0d9fa2557ebebbacdc8888556e217c298eb049db6ff6dc210e916a1d9e860"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansSC-Regular.otf": {
+        "size": 8331336,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "faa6c9df652116dde789d351359f3d7e5d2285a2b2a1f04a2d7244df706d5ea9"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansKannada-Regular.ttf": {
+        "size": 182716,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "f1a39a97a40486a345b1930169cb111098a4eaf40a88eb4303d2c0b8e7ceeeb5"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifMalayalam-Regular.ttf": {
+        "size": 111872,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "45c34ac8c169a37a4fbb5b8fbf507def328bbf36180b08095726d460d577ec1d"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansSymbols2-Regular.ttf": {
+        "size": 671568,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "c4a0a80f0041ce4be81e2478faad22776d23edb98ae3f0d19bd37044820ecf9d"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansSoyombo-Regular.ttf": {
+        "size": 66356,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "31a5e5997360e6d1d574af04da3eefaeb3db18831df795c145634e517e554e1b"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTifinaghAdrar-Regular.ttf": {
+        "size": 79000,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "0c07dd9372f3d542175e3eda76215977f0f8bcdfcd24dd5f3c634bbfac535bdc"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/Arimo-BoldItalic.ttf": {
+        "size": 340112,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "200c028da787741c888efee8f0416e3052160b21bce165a7607eb504a759f9fa"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansEthiopic-Regular.ttf": {
+        "size": 376804,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "f6f7fc379db9438959a2b0527e7a2cf36ea9c84626d56ec444fff37fc24c3c10"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifTibetan-Regular.ttf": {
+        "size": 609688,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "ee97bf3dc56e813651db734c9f35f8f1d41e7e31acf5f7d893e64ad22b292446"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansRejang-Regular.ttf": {
+        "size": 7536,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "653ca1039e01dbc6081bac184d2f7b765c7917f3be9b6f98cc5ed9e5c007faa3"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansOriya-Regular.ttf": {
+        "size": 114952,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "38ac5eae2e1666558b88c63bf584349d6f924cca6b3b8867811546734afeb251"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTaiTham-Regular.ttf": {
+        "size": 116880,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "b94134811a2f8c26631a728837bb72f74dad87402810fc46b34c310312a6b369"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifGeorgian-Regular.ttf": {
+        "size": 61956,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "e222862f34ad05bdf950de1049abf6149d250b9e27c1cc482dd645412afb64ff"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansMahajani-Regular.ttf": {
+        "size": 22376,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "82116df1a82007b3a3692b9ab52683ccdc134d37d88b1e38921b07541b5afe08"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifDogra-Regular.ttf": {
+        "size": 28800,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "f2a5287a3b9d0a9a833c80b6c037fc998bc70544ee5f91f0245869013e171ae3"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansKhudawadi-Regular.ttf": {
+        "size": 18684,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "9efe023882dd36fbf7d838a7c5ec30e1b22a44f9733af8209dc7b8b30fdd0711"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansJavanese-Regular.ttf": {
+        "size": 120504,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "81fdea70d379989bafea65eae5a6a96144991b437415744716a49a56f09f747a"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTaiLe-Regular.ttf": {
+        "size": 19476,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "25d2ef9aa4438c7b651ada7f32801e196b5a4a3ca8d6e41cf36e37ecb99aff22"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/Pyidaungsu-2.5.3_Regular.ttf": {
+        "size": 189468,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "df7106c15da76f6a24c10821b43da51f54961f6bc6791fb1fcf21c6c60bb2e10"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifGurmukhi-Regular.ttf": {
+        "size": 53316,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "5ef2d04a6d6fd22959989d14148dcf0ffbb970cc35e6316ba63cd5c146f32667"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTifinaghRhissaIxa-Regular.ttf": {
+        "size": 79308,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "3b809a1556fead28de406d878632ea89fa474c4488c41ae7354f7f8b5fa5d719"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansMiao-Regular.ttf": {
+        "size": 36424,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "a172b5da5bf602042cb526172ecb279085c906f23d901d882cf6938909f7e574"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansBamum-Regular.ttf": {
+        "size": 230008,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "0282610e6923d06a4d120cff3824e829b4535a8c4c57c07e11dbe73475541084"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansCanadianAboriginal-Regular.ttf": {
+        "size": 176372,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "6f489ba696faff1d96f8ace395c0d22fe3b82621f69bf50b337112fb47ff1f17"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansDeseret-Regular.ttf": {
+        "size": 19504,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "9f384e8a75a059b8efcbead73ef5aa3b504ac3e9d218be5368a20b19bfccdeec"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifMyanmar-Regular.ttf": {
+        "size": 277152,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "fe1a5f1c9cafab515e89e20f884aee3681ccd9f3f2e7bf357c6758d9268535a5"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTifinaghAir-Regular.ttf": {
+        "size": 79560,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "32b8789d0d47725f8b71824f0ebb393c401f0481fa31906e34b5adf0acda89cd"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansKR-Regular.otf": {
+        "size": 4644748,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "69975a0ac8472717870aefeab0a4d52739308d90856b9955313b2ad5e0148d68"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansCoptic-Regular.ttf": {
+        "size": 48948,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "e70bd535d7e6cdf2346eab36ea76441059b18ee14d3243e85240b5e65eb0ad45"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifDevanagari-Regular.ttf": {
+        "size": 280180,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "e272d11d271c61a8d5d0f65764fd368ae53b9f9dabcce244a8941aa8f32ccc70"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansRunic-Regular.ttf": {
+        "size": 9856,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "c43f941ef6c8a4f8217e7ffb332fce74f760140a7fd5919f86347e5e2a10b5c9"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansOlChiki-Regular.ttf": {
+        "size": 15684,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "4b1ad6ec4a30277c75fd66465b0b9ae489e19f8fdf44ef3179b6fda7f5ceb32d"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifBengali-Regular.ttf": {
+        "size": 263696,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "b0618e272302cdb9e47ffd648e7aa8a09322fd1859b8abd06af6816015b92eec"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansCham-Regular.ttf": {
+        "size": 32036,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "d48a34e02b4096eb3f2e008b74459789540598c2274d65fc53012517d0b08d92"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifThai-Regular.ttf": {
+        "size": 45424,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "747b5bb1fdd329850ddd3218d872a3d2a96ab0dd544f51e5300c6d1b12071b62"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansMro-Regular.ttf": {
+        "size": 6628,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "2ab2149be222d9671ab2edcbe8736381e2d1550662a368b5087fd9e196bc69b4"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifGujarati-Regular.ttf": {
+        "size": 146056,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "b8961ff6faf8e5561e3d0109953c4a9798e9bb8e8d48f66c3d1ef038fe45c940"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/Arimo-Bold.ttf": {
+        "size": 317148,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "6982e33e0370c907e364816a943ee5ce19468293aa21b9cbcb4d58bc1c230971"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/Cousine-BoldItalic.ttf": {
+        "size": 308612,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "82755a6d4b12067daabf89eb5bf48d52b9fea4073a59792d331651510a901728"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansSinhala-Regular.ttf": {
+        "size": 308964,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "493a1c9cb7151783dac21456e45ad1bec554b3361b830734dcdaf6304421dfe6"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansElbasan-Regular.ttf": {
+        "size": 18888,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "6d52707e91a77e23f389f42b5da65d7047205e7833041fe0b2cd7ff280e14749"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/Tinos-Regular.ttf": {
+        "size": 535480,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "cf264a22292950ca1679b2ade07e9e6ecb26c649ab70975d0e113f979efa827a"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansSymbols-Regular.ttf": {
+        "size": 226980,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "d0e98e9a2c046594c5021437273943be7e79e0fd980fde125279e22302212595"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansSyriac-Regular.ttf": {
+        "size": 73796,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "4440929bf1a47bb50179e8d8495641d208c63d607355e451f29ea2d3e5343290"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansLao-Regular.ttf": {
+        "size": 35884,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "0a86e5e1ccfe34ca78c43fac6829dc751b42bcc469272a9a55325aae587bfbe7"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifArmenian-Regular.ttf": {
+        "size": 31040,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "6dc71b17c55d398c7cc88edeec527292ba1e0573b033ac2136c636ab36c27d76"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/Tinos-Bold.ttf": {
+        "size": 570480,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "971d6af5fcb3a0c05535a92a635fb63a86ea5eb935639c9b864be33f3bfaba80"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansWancho-Regular.ttf": {
+        "size": 18448,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "fb2e48d59128cdea1cee0ba24373bd5ff085a72cf98e53bc1674770c8ac67d9a"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansMedefaidrin-Regular.ttf": {
+        "size": 43112,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "a91d91b2a94d480b6f95ebd64b66d21705f1823fd83c11a927848d979c776586"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTifinaghAPT-Regular.ttf": {
+        "size": 79372,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "3a024280a937fd6371ed191ae718c1bcfd5379036e7e9048aab4cb5dcdfefdd7"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansBalinese-Regular.ttf": {
+        "size": 92380,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "cee58a184e7e00c4332087ac01870a69ac52fd5fa17ea3783ac728c945af1827"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansModi-Regular.ttf": {
+        "size": 44220,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "7bebf7f16e7f98695e1003adaa3b1438ef977803aa166fa7d5e6b18c9dfa69b8"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansMasaramGondi-Regular.ttf": {
+        "size": 30628,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "da26087eb956e722a316a531a42f9f1ee8f8b60bf1a313c5763d71361c729c80"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansMendeKikakui-Regular.ttf": {
+        "size": 35196,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "89496328e57ae33930d147127caf57edb3f23defa835f73ac3f0b1856e16a073"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifYezidi-Regular.ttf": {
+        "size": 18252,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "fb30c28d72e2dd2468a848a2cb282b2781c9ae9b84a9e2e070673edcc4438f7d"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/Cousine-Bold.ttf": {
+        "size": 298032,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "1f224341677c5ceaa717417d1cb94efbdb276801b3ab1ccea697eb3a8057b6ac"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTifinaghTawellemmet-Regular.ttf": {
+        "size": 79632,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "8a5f9889d655290a22740bc2c02a7fbbf6a7ab2d5c8de119f76e8644bd8dcff7"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/Tinos-BoldItalic.ttf": {
+        "size": 552500,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "0cd67b90617a03a69a815e758d0649d00f2be48a0cb570615e94e8e5a13aae2e"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansPauCinHau-Regular.ttf": {
+        "size": 9048,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "921cdd68b3db2ac8ce8c48aafb09027845db8d8360652e4446ee701f066a98ec"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansTagalog-Regular.ttf": {
+        "size": 7060,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "8fdf54f14d3869e5bfabb7c552e32ac39a2f7609cc6e857a2e8480da2ad9031f"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/Arimo-Italic.ttf": {
+        "size": 338188,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "9fb05a040729cef085041deeb627e488fa7fa2f126f798f3832f3eee9c1ec4ae"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansBuginese-Regular.ttf": {
+        "size": 7232,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "bc19f17d7f6e8f280c2cc95ef6d1b67fac25becfe98722f482039a4d84f3c9ba"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSansSundanese-Regular.ttf": {
+        "size": 22640,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "6cf8ae0d063b8af8ab1bc1b8c7041ac92104e74989dcc1217763723ca6a50c9e"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/fonts/NotoSerifEthiopic-Regular.ttf": {
+        "size": 309844,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "4d14f10b7436e762d41ddd9486acdc708744bf377a575d855b81b847b9590779"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/removed-files": {
+        "size": 0,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/start-tor-browser": {
+        "size": 13338,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "17ebb4d0270d6edf11f7eec0b31eb7b703919d8f23226fe63bb4e9635aa0b90a"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/abicheck": {
+        "size": 17272,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "c4d2f556813cb3087571facb79a528d144d9354944fb6d1ac336b1215b64c73e"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/firefox.real": {
+        "size": 570840,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "2c42f1450dc516b1de5b5260b5863a434b3020466b669365a0ae8d547ce92e7b"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/updater.ini": {
+        "size": 646,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "81a6f04490375c5463d8f03b1df7e5b988d8b2653815cc3451c53f5921f9866c"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/application.ini": {
+        "size": 660,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "06cc5fbc244a7cdc80ae93f242b0a68f1d1138b56954a7ca965951f295e74ea7"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libssl3.so": {
+        "size": 391024,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "b648dbd29d2e22e4d6418ac0e9293e4edd0d70a731ccb5497ab7a507f571027c"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libmozavutil.so": {
+        "size": 647624,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "79764f23a92e315f803f5b14a22c31e8239ed31ffd2dcf2dc46b562a313fadf9"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/update-settings.ini": {
+        "size": 138,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "f4398a21462e1725bc37f51b26b91ff844adea6ceb16e78bf01736d7343ea98a"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/updater": {
+        "size": 124432,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "f1f6645393298ef3a689b6d9e00c93b72368679ecb2f4103d72e1db1893cdc7c"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/icons/updater.png": {
+        "size": 2153,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "cab5e9bc9511b0690e696b378efa6753705b1182660d9829f5b3dc9f0398e5cc"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/Browser/libmozsandbox.so": {
+        "size": 187360,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "3e0d981442719386e18f0d4ebe81eb866c4af25bc2a3201abf353863e19ea147"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3/tor-browser/start-tor-browser.desktop": {
+        "size": 1804,
+        "last_modified": 1765180896.0,
+        "hr_last_modified": "2025-12-08 13:31:36",
+        "sha256": "f521dbcdf1d1f05d241c0c5edbd2d05e374b2b0cf98a0ba874064f5503276e0f"
+    },
+    "/home/jvk/Downloads/periodic-table-and-periodicity.zip": {
+        "size": 208819,
+        "last_modified": 1764852828.4233859,
+        "hr_last_modified": "2025-12-04 18:23:48",
+        "sha256": "84dcf842e14f158723d65852b0e685730e2dffaca5811c82a6bfc34da4c53786"
+    },
+    "/home/jvk/Downloads/Loki - For All Time_ Always.jpeg": {
+        "size": 117027,
+        "last_modified": 1765012156.8667252,
+        "hr_last_modified": "2025-12-06 14:39:16",
+        "sha256": "ac870c2c5500d328f45fcc39c2aeb07e8548e7decb046800533dedabec3be87f"
+    },
+    "/home/jvk/Downloads/art integrated project.pdf": {
+        "size": 7198637,
+        "last_modified": 1764680292.054946,
+        "hr_last_modified": "2025-12-02 18:28:12",
+        "sha256": "ca7b29cc8dc4bcda2c4be9871d7d031392e36484e395e64eecfcd18b8058c933"
+    },
+    "/home/jvk/Downloads/midori_11.6-1_amd64.deb": {
+        "size": 91488884,
+        "last_modified": 1765201933.983084,
+        "hr_last_modified": "2025-12-08 19:22:13",
+        "sha256": "c4db03ab8c57c6cb3df94fca78b600d5db86a3f48f856888d6128837a5ca3fec"
+    },
+    "/home/jvk/Downloads/wp8841522.jpg": {
+        "size": 27896,
+        "last_modified": 1765016524.3732443,
+        "hr_last_modified": "2025-12-06 15:52:04",
+        "sha256": "a7a549919701d716102fa07c6f70a615de1e0511d6ac667c2f753e64a9c6b4ef"
+    },
+    "/home/jvk/Downloads/Guide for Debian Maintainers - debmake-doc.en.pdf": {
+        "size": 911689,
+        "last_modified": 1764748434.6091704,
+        "hr_last_modified": "2025-12-03 13:23:54",
+        "sha256": "915eded3111772a4ad5ee31ea05518266395d2387bd6d1bbd9046f746ff1363c"
+    },
+    "/home/jvk/Downloads/audiorelay-0.27.5.deb": {
+        "size": 69859140,
+        "last_modified": 1764690380.68409,
+        "hr_last_modified": "2025-12-02 21:16:20",
+        "sha256": "b4b00d3ba21718df61021a67cb7b3eaab5dfaaa779bef7e3247054a079cd3dee"
+    },
+    "/home/jvk/Downloads/RDT_20251206_1443337790752258083087533.jpg": {
+        "size": 94186,
+        "last_modified": 1765012427.1535459,
+        "hr_last_modified": "2025-12-06 14:43:47",
+        "sha256": "c23ddc648158e7b63e9ffe65e48f6253bddca2b68c325b1def63e7e223eaec94"
+    },
+    "/home/jvk/Downloads/tor-browser-linux-x86_64-15.0.3.tar.xz": {
+        "size": 137884124,
+        "last_modified": 1765793734.6833398,
+        "hr_last_modified": "2025-12-15 15:45:34",
+        "sha256": "3156f157c53558a4f7968335ef8664d101b7dea7edcebfc0cb7c3f85b1401765"
+    },
+    "/home/jvk/Downloads/0a1a5750-3c23-400b-b027-4c86b96220d6.jpeg": {
+        "size": 56894,
+        "last_modified": 1765012156.7267296,
+        "hr_last_modified": "2025-12-06 14:39:16",
+        "sha256": "0f92f6d8ff3621643231d254b680724590866a4cbcf319dfd0fa8761efc868a1"
+    },
+    "/home/jvk/Downloads/code_1.106.3-1764110892_amd64.deb": {
+        "size": 113519914,
+        "last_modified": 1764667503.4680102,
+        "hr_last_modified": "2025-12-02 14:55:03",
+        "sha256": "f26c3a808fb2d34107b353b2ce73fd0acee012f90ffe598deff50789739152cc"
+    },
+    "/home/jvk/Downloads/Hollow_Knight_Silksong_--_fitgirl-repacks.site_--_.part1.rar": {
+        "size": 524288000,
+        "last_modified": 1764857653.8128877,
+        "hr_last_modified": "2025-12-04 19:44:13",
+        "sha256": "2afc6444e0aa399cc3bc42d6802f22630eeae26efa837bb8585fc26822f21473"
+    },
+    "/home/jvk/Downloads/periodic-table-and-periodicity/electronegativity.pdf": {
+        "size": 128509,
+        "last_modified": 1764852870.7023773,
+        "hr_last_modified": "2025-12-04 18:24:30",
+        "sha256": "0ac494d0bd17908298661f170cb8a3945803ef56d1a0be5416215deadd8b3ee8"
+    },
+    "/home/jvk/Downloads/periodic-table-and-periodicity/periodic-table-and-its-features.pdf": {
+        "size": 463430,
+        "last_modified": 1764852895.1817927,
+        "hr_last_modified": "2025-12-04 18:24:55",
+        "sha256": "ab1f3a7cddc3d381a1d6e21cbff9b149f95508afec25e61a887c239505fc89db"
+    },
+    "/home/jvk/Downloads/periodic-table-and-periodicity/atomic-and-ionic-radius.pdf": {
+        "size": 635780,
+        "last_modified": 1764852911.441404,
+        "hr_last_modified": "2025-12-04 18:25:11",
+        "sha256": "0cc754a6b4ab9e7faedffb0f4044dd5795c069365fa614b57f8242ef4c79065f"
+    },
+    "/home/jvk/Downloads/periodic-table-and-periodicity/nature-of-oxide.pdf": {
+        "size": 283264,
+        "last_modified": 1764852887.0579867,
+        "hr_last_modified": "2025-12-04 18:24:47",
+        "sha256": "01bd65fb23d94a16ef1258a4c2bcbda4cad01f13fc606893cd0c360cb9165bda"
+    },
+    "/home/jvk/Downloads/periodic-table-and-periodicity/electron-gain-enthalpy.pdf": {
+        "size": 419783,
+        "last_modified": 1764852880.2941484,
+        "hr_last_modified": "2025-12-04 18:24:40",
+        "sha256": "a59eda3a53de625ef6697fdd301e023db52fc31d40ade56ad35c6f512cf17cd2"
+    },
+    "/home/jvk/Downloads/periodic-table-and-periodicity/ionization-energy.pdf": {
+        "size": 1190086,
+        "last_modified": 1764852906.049533,
+        "hr_last_modified": "2025-12-04 18:25:06",
+        "sha256": "6e9d5e75346fc9ff58a868864317628e9e6361f97432f1ec6d150cae0ad61a94"
+    },
+    "/home/jvk/Downloads/12 cbse physics journal soft copy.pdf": {
+        "size": 192519365,
+        "last_modified": 1765220049.3346727,
+        "hr_last_modified": "2025-12-09 00:24:09",
+        "sha256": "08f119b5b627ce9af585ff8b6793c913fabdabc23260a911c8174961ca33081f"
+    },
+    "/home/jvk/Downloads/art integrated project-1.pdf": {
+        "size": 7198637,
+        "last_modified": 1765196603.5430992,
+        "hr_last_modified": "2025-12-08 17:53:23",
+        "sha256": "ca7b29cc8dc4bcda2c4be9871d7d031392e36484e395e64eecfcd18b8058c933"
+    },
+    "/home/jvk/Downloads/Loki wallpaper.jpeg": {
+        "size": 121633,
+        "last_modified": 1765012200.5535762,
+        "hr_last_modified": "2025-12-06 14:40:00",
+        "sha256": "0d9e8cc835387adf745e3e86d063b9ff0f941dee68d748c6ca466e558f0dd653"
+    },
+    "/home/jvk/Downloads/wp9395553.jpg": {
+        "size": 85471,
+        "last_modified": 1765015311.1252966,
+        "hr_last_modified": "2025-12-06 15:31:51",
+        "sha256": "e0666306bafc8b81bffec470eee4aae7d7144c605901e451c30d9a6e897dcfeb"
+    },
+    "/home/jvk/Downloads/wp12694543.jpg": {
+        "size": 114042,
+        "last_modified": 1765016650.3102663,
+        "hr_last_modified": "2025-12-06 15:54:10",
+        "sha256": "bb6c2f51ba8449a66c703dbe77fd7b177d0dda1c1b019ec5637c33e0d8a5ce4a"
+    },
+    "/home/jvk/Downloads/OIP-3694017029.jpeg": {
+        "size": 12341,
+        "last_modified": 1765016690.9385972,
+        "hr_last_modified": "2025-12-06 15:54:50",
+        "sha256": "c148fd4b9c37762e0cbdc37d446992e632451aa3a58ec1062b4cc05b63401884"
+    },
+    "/home/jvk/Downloads/wallpapersden.com_loki-2021-hd-tom-hiddleston_1920x1080.jpg": {
+        "size": 873978,
+        "last_modified": 1765016532.3213086,
+        "hr_last_modified": "2025-12-06 15:52:12",
+        "sha256": "514138d5dce19f37222c677b19dd9eb0023de2f2c1fa85d16425f4bd6724bb6d"
+    },
+    "/home/jvk/Downloads/loki-season-2-series-tom-hiddleston-4k-wallpaper-uhdpaper.com-90@1@n.jpg": {
+        "size": 1604734,
+        "last_modified": 1765016815.4556143,
+        "hr_last_modified": "2025-12-06 15:56:55",
+        "sha256": "79999d8193f113126bc2cfef6a90bfc88782d54141ce94cca5227e979e9a46f9"
+    },
+    "/home/jvk/Downloads/Adobe Scan Oct 4, 2025.pdf": {
+        "size": 26034123,
+        "last_modified": 1765177150.7262611,
+        "hr_last_modified": "2025-12-08 12:29:10",
+        "sha256": "09bb9c219b4b9996ece3761da73175ce249e54a7a8b30a884dc159d3de496327"
+    },
+    "/home/jvk/Downloads/playwright-python-1.56.0.tar.gz": {
+        "size": 1346434,
+        "last_modified": 1764760421.176481,
+        "hr_last_modified": "2025-12-03 16:43:41",
+        "sha256": "906f858568c32ddd6a6fbaef8fad182eb10ed2c972abf508c2a3f45945fa3768"
+    },
+    "/home/jvk/logs.txt": {
+        "size": 202799,
+        "last_modified": 1765004868.3364875,
+        "hr_last_modified": "2025-12-06 12:37:48",
+        "sha256": "8504f7e23dea2d311f4beeb52a713fc786c436037a7a1d39947cd62555c4e1e8"
+    },
+    "/home/jvk/github_key.txt": {
+        "size": 41,
+        "last_modified": 1765714765.9623075,
+        "hr_last_modified": "2025-12-14 17:49:25",
+        "sha256": "8abe19f3c63aecc49c262233ebc025028d46d45dfa9c5c8f1969956a0dd9d7d2"
+    },
+    "/home/jvk/Stuff/chisme/README.md": {
+        "size": 194,
+        "last_modified": 1764689089.4257169,
+        "hr_last_modified": "2025-12-02 20:54:49",
+        "sha256": "cbf9c3bb623dbaac21e8bf4b82079baf832b9a8e8975e2e7c1906aa240139b02"
+    },
+    "/home/jvk/Stuff/chisme/chisme/__init__.py": {
+        "size": 81,
+        "last_modified": 1764689393.9988396,
+        "hr_last_modified": "2025-12-02 20:59:53",
+        "sha256": "607d4d09d4f2a6469459ffa3cc271b2910883cd0757a448b4433ee420871f95a"
+    },
+    "/home/jvk/Stuff/chisme/chisme/person/__init__.py": {
+        "size": 21,
+        "last_modified": 1764689508.5734117,
+        "hr_last_modified": "2025-12-02 21:01:48",
+        "sha256": "5f8fbf1e6c26da7179e0fdc61d2a79afc95b72318a3e48aeb5747e86266791f8"
+    },
+    "/home/jvk/Stuff/chisme/chisme/person/__pycache__/__init__.cpython-313.pyc": {
+        "size": 173,
+        "last_modified": 1764689511.085338,
+        "hr_last_modified": "2025-12-02 21:01:51",
+        "sha256": "60ec01644495a3c95443f3fb3c5cdc2504cf3e9b47a602ea653a6ab474b8a1ab"
+    },
+    "/home/jvk/Stuff/chisme/chisme/person/__pycache__/person.cpython-313.pyc": {
+        "size": 811,
+        "last_modified": 1764689810.94896,
+        "hr_last_modified": "2025-12-02 21:06:50",
+        "sha256": "91cfb1b46c34f1b279cfc3785b2f01fd97229c93e9e0bc51dac95f5c1826e3ed"
+    },
+    "/home/jvk/Stuff/chisme/chisme/person/person.py": {
+        "size": 430,
+        "last_modified": 1764689809.0209265,
+        "hr_last_modified": "2025-12-02 21:06:49",
+        "sha256": "c1547e97e688a16812d91b81ccb3dbce7f73f3edce33f86bf38d4234a34c0eac"
+    },
+    "/home/jvk/Stuff/chisme/chisme/github/__init__.py": {
+        "size": 21,
+        "last_modified": 1764689440.8560827,
+        "hr_last_modified": "2025-12-02 21:00:40",
+        "sha256": "a5faac439c1fe0404189ff5724eb92e7ee6e3fd390a4101ae2a9aa05773a6d68"
+    },
+    "/home/jvk/Stuff/chisme/chisme/github/__pycache__/__init__.cpython-313.pyc": {
+        "size": 173,
+        "last_modified": 1764689442.9799767,
+        "hr_last_modified": "2025-12-02 21:00:42",
+        "sha256": "443a703ff81f363a5ff18b8c2286a8aeb9c75114eb576345c3c0da29a975781c"
+    },
+    "/home/jvk/Stuff/chisme/chisme/github/__pycache__/github.cpython-313.pyc": {
+        "size": 176,
+        "last_modified": 1764689442.9799767,
+        "hr_last_modified": "2025-12-02 21:00:42",
+        "sha256": "58d9b20c2438df7fdf841ea0659a5e0b8ebcfe8e8f8af3b136d88de996a3b6c4"
+    },
+    "/home/jvk/Stuff/chisme/chisme/github/github.py": {
+        "size": 168,
+        "last_modified": 1764746916.4798498,
+        "hr_last_modified": "2025-12-03 12:58:36",
+        "sha256": "78b643001b6ff8a3ed7b431775a6f70b81fee508996db6200cb2aae183d857fa"
+    },
+    "/home/jvk/Stuff/chisme/chisme/network_manager/network_manger.py": {
+        "size": 14,
+        "last_modified": 1764746961.8364463,
+        "hr_last_modified": "2025-12-03 12:59:21",
+        "sha256": "fa257b819a2324e4fe5bf043ca4149e0300e9807791a76f73c85781c9f38cc1a"
+    },
+    "/home/jvk/Stuff/chisme/chisme/types.py": {
+        "size": 50,
+        "last_modified": 1764689839.1414852,
+        "hr_last_modified": "2025-12-02 21:07:19",
+        "sha256": "939b354a224426a953e1c4542872deb24f31598fe9a484f25522378ee9e9e24d"
+    },
+    "/home/jvk/Stuff/chisme/test.py": {
+        "size": 13,
+        "last_modified": 1764689310.3981535,
+        "hr_last_modified": "2025-12-02 20:58:30",
+        "sha256": "910a4cffcb94e5695cc9f2b0afbaba1931beb7df1dcc5ea05986e5cacb480677"
+    },
+    "/home/jvk/Stuff/scripts.py": {
+        "size": 148,
+        "last_modified": 1764938151.1835022,
+        "hr_last_modified": "2025-12-05 18:05:51",
+        "sha256": "801e7b177f8463b9ad1f422f49f5c72033fbacab04e5dd220cba44bc7e4c9266"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/tests/test_basic.py": {
+        "size": 1633,
+        "last_modified": 1764749740.6896427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "ce35daa05e6af33256a35f3c38da600a6f9eafe3c62d2a1a9dfbe8d218091556"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base.egg-info/SOURCES.txt": {
+        "size": 724,
+        "last_modified": 1764751145.4302943,
+        "hr_last_modified": "2025-12-03 14:09:05",
+        "sha256": "395120154bdc8fe7438fbe97c69bf0962efe934ba5f762fd98e9766704d7cff5"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base.egg-info/top_level.txt": {
+        "size": 14,
+        "last_modified": 1764751145.4222946,
+        "hr_last_modified": "2025-12-03 14:09:05",
+        "sha256": "17f1201a927c34ee087bc3f445551085c761bb82b125cb7c5fb987ee66260e1a"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base.egg-info/PKG-INFO": {
+        "size": 5564,
+        "last_modified": 1764751145.4222946,
+        "hr_last_modified": "2025-12-03 14:09:05",
+        "sha256": "962cec39877d6c5bbe88eb4328b4041b1f699c406a5bd6d132b6ccdff3991835"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base.egg-info/requires.txt": {
+        "size": 115,
+        "last_modified": 1764751145.4222946,
+        "hr_last_modified": "2025-12-03 14:09:05",
+        "sha256": "44f99d460343205dd52109e7517aa2cafbd5cc17f624e9f28f0a10ec0cc53c51"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base.egg-info/dependency_links.txt": {
+        "size": 1,
+        "last_modified": 1764751145.4222946,
+        "hr_last_modified": "2025-12-03 14:09:05",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/SECURITY.md": {
+        "size": 427,
+        "last_modified": 1764749740.681643,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "df82b3141bac9412eb44d3feffbb61d33d65bc3b9a11b9efe83ad19eeb1c1fa2"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/README.md": {
+        "size": 4951,
+        "last_modified": 1764749740.681643,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "288c3d4d2674f6191631304406c418d9fb1f976719765e4041a0e247c91ede6c"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/CONTRIBUTING.md": {
+        "size": 133,
+        "last_modified": 1764749740.681643,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "6e2dc1e021a4c259ded957432cb3289ec23f8545a0d8e8f97b3afc8f35f90e0e"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/LICENSE": {
+        "size": 1070,
+        "last_modified": 1764749740.681643,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "ad85196692147f7061d023407cafb597ae29f24db4d8d8740e6182be144d54e8"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/assets/pdf-file.pdf": {
+        "size": 340645,
+        "last_modified": 1764749740.6856427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "a4208f8c3de8b7f111d72db427c21f25b2c6185f07d1c94999fc38374a63ac2b"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/assets/image.png": {
+        "size": 183889,
+        "last_modified": 1764749740.681643,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "08ebedf2092d6846582d6409f28375f003063e236b334378a177c93f522fa7b0"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/assets/render_to_html_helping_card.png": {
+        "size": 96820,
+        "last_modified": 1764749740.6856427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "2bd13b6aef550d307c431d62416dc2773c8616c9a143077495343deec9660737"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/setup.py": {
+        "size": 542,
+        "last_modified": 1764749740.6896427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "b5a9afd42b9f9f44016f8f70f270b5c13983d59e30dd4889156204586c9c6924"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/requirements.txt": {
+        "size": 127,
+        "last_modified": 1764749740.6896427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "379e0e05ff42cc82341e7338f80aec1682a6f85f88c7426488a27ab382db2128"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base/__init__.py": {
+        "size": 43,
+        "last_modified": 1764749740.6856427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "01dfe8e9150cdbce263640e619bc2648b379a2ee507ff4a0b1760c01902d5f6e"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base/cache/__init__.py": {
+        "size": 0,
+        "last_modified": 1764749740.6856427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base/core/pdfy_support.py": {
+        "size": 4868,
+        "last_modified": 1764749740.6896427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "57cf9f3dc0b0eeef5e71c1f6e7e0cc16dd87eca15bdd5853e521cc6c244a1eac"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base/core/__init__.py": {
+        "size": 950,
+        "last_modified": 1764749740.6856427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "f360b6b7a6e3de3f0554fed8555a7a27534c6b8febda7a843fe1af66f04d9123"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base/core/html_helper.py": {
+        "size": 4060,
+        "last_modified": 1764749740.6856427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "47973a80386e9a39a3a729543000998dd0b4375c771ee4f1740f9055b55aa844"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base/core/question.py": {
+        "size": 3242,
+        "last_modified": 1764749740.6896427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "2cb95a2a4028bdf620f8f2e36af906686aebd1f922a03a5705f01bccdf3ca27b"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base/core/utils.py": {
+        "size": 2134,
+        "last_modified": 1764749740.6896427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "eaee0d4ecfe3083f0365865e33c231f15cee8e5fcc67ef0012f4310742e7f37f"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base/core/pdfy.py": {
+        "size": 7238,
+        "last_modified": 1764749740.6896427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "accb9ea248a0c585694ab7e2bc12d995b8be61649d4ff335b3aacb557f856792"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base/core/styles.py": {
+        "size": 4363,
+        "last_modified": 1764749740.6896427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "e234b09a66a9a4325431444c306d54732976a8618e9c041e4a135dc008ddd119"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base/core/types.py": {
+        "size": 159,
+        "last_modified": 1764749740.6896427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "31227bb533d82d267ae562511aa0f1a4366eadef59cb8d5889f60db38b58ebeb"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base/core/ui3.py": {
+        "size": 13614,
+        "last_modified": 1764749740.6896427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "4ecabd3d1410d1fd3c79a2c8790a444abad2c5f61653b7c6830ab0651634bd0d"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base/core/data_base.py": {
+        "size": 3259,
+        "last_modified": 1764749740.6856427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "715e6e5d864eeac15c47ed58de1439c663dc0f1a76eb9a380bf380acd84dc1df"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base/core/chapter.py": {
+        "size": 1238,
+        "last_modified": 1764749740.6856427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "a954ea3f1caffcf6b3e0aef4118e12546a811e79cdfcdadd8495651cba144b56"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base/core/filter.py": {
+        "size": 12906,
+        "last_modified": 1764749740.6856427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "13bd446c2e51dfe9efbc19cccdb508b1413229bf1024e9d0fa93ba6effb0de9e"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base/core/cache.py": {
+        "size": 5107,
+        "last_modified": 1764749740.6856427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "c146caa0186bfbf71a056abdf615953b2fcbc19b31879a38a261b40c76885cea"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/jee_data_base/core/pdf_engine.py": {
+        "size": 4674,
+        "last_modified": 1764749740.6896427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "ada6d9b5f1d7b8cbc9703f368b05d133dd1555db3e0dd609d520cc7f75d2a952"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base_0.2.2-1.dsc": {
+        "size": 941,
+        "last_modified": 1764752776.7812264,
+        "hr_last_modified": "2025-12-03 14:36:16",
+        "sha256": "00d4597ede4d3c034dffe621bd328a1c4231dbdfb10a8650e3d6e085514495a5"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base_0.2.2-1.debian.tar.xz": {
+        "size": 11548,
+        "last_modified": 1764752776.7772267,
+        "hr_last_modified": "2025-12-03 14:36:16",
+        "sha256": "0979ff5e0f1218e62e0cd57eaf5639d645df770e977027107a0d2609b4a916db"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee_data_base-0.2.2-py3-none-any.whl": {
+        "size": 26225,
+        "last_modified": 1764751210.5950608,
+        "hr_last_modified": "2025-12-03 14:10:10",
+        "sha256": "8e3d377bc8488d141529575d8b58ae39ba111c2687cb14bd2a60e640ba4e7b14"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base_0.2.2.orig.tar.gz": {
+        "size": 24306,
+        "last_modified": 1764751145.4622927,
+        "hr_last_modified": "2025-12-03 14:09:05",
+        "sha256": "fce435f52fd74ce22959927fdf984557ca77bbdbbbf5d7897a4425b8d18bc21c"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base_0.2.2-1_amd64.build": {
+        "size": 747,
+        "last_modified": 1764753368.8151195,
+        "hr_last_modified": "2025-12-03 14:46:08",
+        "sha256": "c74c10791e8cf1e64ba41d728771f5b56303cb0da6bdc7cffd8dccdb5602a44b"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/manpage.1.ex": {
+        "size": 2438,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "6b4b42c40c730aba0da9d66063ef61ae6b1f1d435a19ec3e98cd824bc3c0aac3"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/jee-data-base.tmpfile.ex": {
+        "size": 123,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "9a59ed85f82321d056d2020d4c317787cf06acbd9398974560ea20768f52e2c7"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/rules": {
+        "size": 298,
+        "last_modified": 1764752305.7166426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "0da10831155f48ddb863f83537d572a105606d223fa0f8671e34365c5fdcaf60"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/manpage.asciidoc.ex": {
+        "size": 758,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "e570bb406965eb643b46b597eda7b157d739596f1ff06113a758d2cfb1f59e59"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/tests/control": {
+        "size": 360,
+        "last_modified": 1764752305.7166426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "8abc8598054139ac945608d38818681282e96109bb6a1f78c6f1998f9149ed5a"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/clean": {
+        "size": 65,
+        "last_modified": 1764752305.7166426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "ee2d35d3fe12a15a6c1eb87709a18030a6c7bd7f641cae20dd48d8d124111916"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/manpage.sgml.ex": {
+        "size": 4182,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "6f20f9dde1f81cc353d27bbd50b7ab8ebb63ab2720227d01746b790bf989aefd"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/jee-data-base.cron.monthly.ex": {
+        "size": 79,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "2bb5972f788e4f00aa15edd2aee4d776e31099b5ea6098900658b75e22b37703"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/preinst.ex": {
+        "size": 123,
+        "last_modified": 1764752305.7206426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "de03039e42975dfcec15a25ff4d07519d996f687e656e8188775f333ebedf406"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/install": {
+        "size": 66,
+        "last_modified": 1764752305.9486313,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "b1435a85f1c0106df9b74ef8972bcb2d57e255e3ab2f64af12ca1328dbf42c19"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/prerm.ex": {
+        "size": 123,
+        "last_modified": 1764752305.7206426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "de03039e42975dfcec15a25ff4d07519d996f687e656e8188775f333ebedf406"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/jee-data-base.cron.hourly.ex": {
+        "size": 78,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "8b1866f3bcd33b877989793c9c1597a1a651464fb49b9e2cfc371423b4b44c8e"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/source/patch-header.ex": {
+        "size": 430,
+        "last_modified": 1764752305.7286422,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "d2f2254440843ca82cf2267994cac405ee68c03eb1a577f4b3a0bd661387e098"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/source/lintian-overrides.ex": {
+        "size": 93,
+        "last_modified": 1764752305.7286422,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "a980a1e2d042b7a4530ed0240563eecbd011445552cd43192a3b56942b0cd804"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/source/options.ex": {
+        "size": 478,
+        "last_modified": 1764752305.7286422,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "d9d95e8e8fd6b42bce3ff7bb1ec057f64cbbbd44aa13517326e85d2b556b2baf"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/source/format": {
+        "size": 12,
+        "last_modified": 1764752305.7166426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "1be7080d72e6b566df3e236ce2c55efdfbbb8fa1c972d825e5b672ff8773be1a"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/source/local-patch-header.ex": {
+        "size": 923,
+        "last_modified": 1764752305.7206426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "2accdd6eabf72565cb6ea4cc406306aeb9fe13491fe23c4e735045593e21b027"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/source/local-options.ex": {
+        "size": 1910,
+        "last_modified": 1764752305.7206426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "95e1908b89c1a2167971e046b2d2b7eafb222aa390df15f8f3253bee8e5b15f5"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/jee-data-base.lintian-overrides.ex": {
+        "size": 155,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "df63ee17d22b6a23c2bef6701564f4680af9aff0b5efb05ad48a417cbd558285"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/jee-data-base.emacsen-install.ex": {
+        "size": 1296,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "fac606e518cd44e6361e4dec3774c2fa8fda60f1cf22a80a99a8c474a165ace0"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/jee-data-base.emacsen-remove.ex": {
+        "size": 489,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "3c31684e600db1ac8458f4ad5ef4a9dd1678f5d0e81cb86ba7f7e0edaf991cda"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/jee-data-base.emacsen-startup.ex": {
+        "size": 1304,
+        "last_modified": 1764752305.7286422,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "6ad89844cde1687f869016fd2bdd1ea44cd934f7180d23d9e5c6ef2fd1301905"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/jee-data-base.cron.weekly.ex": {
+        "size": 78,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "f1e7e4c5e2218381c4e61b86c8d91c9b97a821dd9d83552be50559eaabb02f3d"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/jee-data-base.default.ex": {
+        "size": 95,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "2f0652ecaebc6186e11d10ffcdfe782d22d2fce0251f0397210b7348e97d7cd3"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/dirs": {
+        "size": 66,
+        "last_modified": 1764752305.9486313,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "b1435a85f1c0106df9b74ef8972bcb2d57e255e3ab2f64af12ca1328dbf42c19"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/copyright": {
+        "size": 2767,
+        "last_modified": 1764752305.7166426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "b9d57d34799eac33d0f382a27a27d42a4db9f58ece7969b28b948783a5928ffb"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/gbp.conf": {
+        "size": 65,
+        "last_modified": 1764752305.7166426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "ee2d35d3fe12a15a6c1eb87709a18030a6c7bd7f641cae20dd48d8d124111916"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/watch": {
+        "size": 119,
+        "last_modified": 1764752305.7166426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "e23bdc8eda73457ce99c502bf89068bbe897b315459d907b6af5c0a03d52fb54"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/jee-data-base.bug-control.ex": {
+        "size": 223,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "03bf5b811fd42e68fd6a9b092b8a6d7e3d09db23340eaa6d443dcafdc951ab15"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/patches/series": {
+        "size": 65,
+        "last_modified": 1764752305.7206426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "ee2d35d3fe12a15a6c1eb87709a18030a6c7bd7f641cae20dd48d8d124111916"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/jee-data-base.service.ex": {
+        "size": 125,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "2fea5c6ee103519312ad80ea4cbc67a79853b7e56388947e89ed01a42b1da440"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/README.source": {
+        "size": 611,
+        "last_modified": 1764752305.7166426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "62767f21e592b6871e7a2b62a040a3371a5a1ff0a978e2a58dbe425d220b13aa"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/jee-data-base.bug-presubj.ex": {
+        "size": 220,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "78da67af3d2f65d10171f54dddd440844bd06e96d39e10aa765162d51a89398e"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/README.Debian": {
+        "size": 227,
+        "last_modified": 1764752305.7166426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "824d1424deedae4a545529db2a7e3951201550a01788bba2d7bf3741cd1b3038"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/manpage.md.ex": {
+        "size": 3854,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "424d5795dd540c44a684fae1c281a91b5fdf7e6a71797597fe7dda0a0a623b67"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/links": {
+        "size": 66,
+        "last_modified": 1764752305.9486313,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "b1435a85f1c0106df9b74ef8972bcb2d57e255e3ab2f64af12ca1328dbf42c19"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/postinst.ex": {
+        "size": 123,
+        "last_modified": 1764752305.7206426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "de03039e42975dfcec15a25ff4d07519d996f687e656e8188775f333ebedf406"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/jee-data-base.conffiles.ex": {
+        "size": 450,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "25d31c64a880b46e0bf497ad1dc21c3e015a16c340c5d9b7e07573a119a0817b"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/salsa-ci.yml": {
+        "size": 982,
+        "last_modified": 1764752305.7166426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "f6c77b7de47b3e42508f0c67a6d4165a40a4d8c19cacfc579267ea01de207759"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/jee-data-base.cron.daily.ex": {
+        "size": 77,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "a588e268cad379e442a9f3ee3bf89405190182221a73bbbb4ff0f01a015273d6"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/changelog": {
+        "size": 183,
+        "last_modified": 1764752305.7166426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "4869d2360ba71ba4695c9866d7193b11e8c31ef589374478d9857cfe75dfcc15"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/manpage.xml.ex": {
+        "size": 9941,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "353e9a1c12f2cd49446779d3412422c4b9bc2e7636ad0fd0286f0d9f034d32c2"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/postrm.ex": {
+        "size": 123,
+        "last_modified": 1764752305.7206426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "de03039e42975dfcec15a25ff4d07519d996f687e656e8188775f333ebedf406"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/control": {
+        "size": 1111,
+        "last_modified": 1764753425.203778,
+        "hr_last_modified": "2025-12-03 14:47:05",
+        "sha256": "551eeaaaa2ea63375510bb6b903ef072f34d3e7679c0e41245871f8fd369091c"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/upstream/metadata": {
+        "size": 384,
+        "last_modified": 1764752305.7206426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "16fe92c6cb88897cb1708de19a12a7019b3e44213858393dd52c0589704ccfbd"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/maintscript.ex": {
+        "size": 564,
+        "last_modified": 1764752305.7206426,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "02b31c2e405e1c5565cd657423534d5f7e0a2a3510ba152221fa67c4241f00b3"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/jee-data-base.bug-script.ex": {
+        "size": 267,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "9af479b046d67e464e86cde5e9aa2b0e102bf14e0a5da54cb30bf686bf5c455c"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/debian/jee-data-base.cron.d.ex": {
+        "size": 190,
+        "last_modified": 1764752305.7246423,
+        "hr_last_modified": "2025-12-03 14:28:25",
+        "sha256": "2451ec87872157aa4b73b9112890bcfb66a633fe8f6328c31dce089df4e58032"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/tests/test_basic.py": {
+        "size": 1633,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "ce35daa05e6af33256a35f3c38da600a6f9eafe3c62d2a1a9dfbe8d218091556"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base.egg-info/SOURCES.txt": {
+        "size": 734,
+        "last_modified": 1764752778.621135,
+        "hr_last_modified": "2025-12-03 14:36:18",
+        "sha256": "d8d80b54d078f760e0d4f2a8b9456fcc9a403a9fe26ab35bc3b9a62ebb35af65"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base.egg-info/top_level.txt": {
+        "size": 14,
+        "last_modified": 1764752778.6131353,
+        "hr_last_modified": "2025-12-03 14:36:18",
+        "sha256": "17f1201a927c34ee087bc3f445551085c761bb82b125cb7c5fb987ee66260e1a"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base.egg-info/PKG-INFO": {
+        "size": 5564,
+        "last_modified": 1764752778.6131353,
+        "hr_last_modified": "2025-12-03 14:36:18",
+        "sha256": "962cec39877d6c5bbe88eb4328b4041b1f699c406a5bd6d132b6ccdff3991835"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base.egg-info/requires.txt": {
+        "size": 115,
+        "last_modified": 1764752778.6131353,
+        "hr_last_modified": "2025-12-03 14:36:18",
+        "sha256": "16cf35c94e83cfe096759d28ad2845350260ba5d36271da95b44150c7a444925"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base.egg-info/dependency_links.txt": {
+        "size": 1,
+        "last_modified": 1764752778.6131353,
+        "hr_last_modified": "2025-12-03 14:36:18",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/README.md": {
+        "size": 4951,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "288c3d4d2674f6191631304406c418d9fb1f976719765e4041a0e247c91ede6c"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/setup.cfg": {
+        "size": 38,
+        "last_modified": 1764751145.4422936,
+        "hr_last_modified": "2025-12-03 14:09:05",
+        "sha256": "1c473cbaee8da5fc46e7f0158794af5cea4414c34a3cf3f180c2001f5e38bd3e"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/LICENSE": {
+        "size": 1070,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "ad85196692147f7061d023407cafb597ae29f24db4d8d8740e6182be144d54e8"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/build/lib/jee_data_base/__init__.py": {
+        "size": 43,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "01dfe8e9150cdbce263640e619bc2648b379a2ee507ff4a0b1760c01902d5f6e"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/build/lib/jee_data_base/cache/__init__.py": {
+        "size": 0,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/build/lib/jee_data_base/core/pdfy_support.py": {
+        "size": 4868,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "57cf9f3dc0b0eeef5e71c1f6e7e0cc16dd87eca15bdd5853e521cc6c244a1eac"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/build/lib/jee_data_base/core/__init__.py": {
+        "size": 950,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "f360b6b7a6e3de3f0554fed8555a7a27534c6b8febda7a843fe1af66f04d9123"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/build/lib/jee_data_base/core/html_helper.py": {
+        "size": 4060,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "47973a80386e9a39a3a729543000998dd0b4375c771ee4f1740f9055b55aa844"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/build/lib/jee_data_base/core/question.py": {
+        "size": 3242,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "2cb95a2a4028bdf620f8f2e36af906686aebd1f922a03a5705f01bccdf3ca27b"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/build/lib/jee_data_base/core/utils.py": {
+        "size": 2134,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "eaee0d4ecfe3083f0365865e33c231f15cee8e5fcc67ef0012f4310742e7f37f"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/build/lib/jee_data_base/core/pdfy.py": {
+        "size": 7238,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "accb9ea248a0c585694ab7e2bc12d995b8be61649d4ff335b3aacb557f856792"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/build/lib/jee_data_base/core/styles.py": {
+        "size": 4363,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "e234b09a66a9a4325431444c306d54732976a8618e9c041e4a135dc008ddd119"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/build/lib/jee_data_base/core/types.py": {
+        "size": 159,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "31227bb533d82d267ae562511aa0f1a4366eadef59cb8d5889f60db38b58ebeb"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/build/lib/jee_data_base/core/ui3.py": {
+        "size": 13614,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "4ecabd3d1410d1fd3c79a2c8790a444abad2c5f61653b7c6830ab0651634bd0d"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/build/lib/jee_data_base/core/data_base.py": {
+        "size": 3259,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "715e6e5d864eeac15c47ed58de1439c663dc0f1a76eb9a380bf380acd84dc1df"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/build/lib/jee_data_base/core/chapter.py": {
+        "size": 1238,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "a954ea3f1caffcf6b3e0aef4118e12546a811e79cdfcdadd8495651cba144b56"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/build/lib/jee_data_base/core/filter.py": {
+        "size": 12906,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "13bd446c2e51dfe9efbc19cccdb508b1413229bf1024e9d0fa93ba6effb0de9e"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/build/lib/jee_data_base/core/cache.py": {
+        "size": 5107,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "c146caa0186bfbf71a056abdf615953b2fcbc19b31879a38a261b40c76885cea"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/build/lib/jee_data_base/core/pdf_engine.py": {
+        "size": 4674,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "ada6d9b5f1d7b8cbc9703f368b05d133dd1555db3e0dd609d520cc7f75d2a952"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/setup.py": {
+        "size": 542,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "b5a9afd42b9f9f44016f8f70f270b5c13983d59e30dd4889156204586c9c6924"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/PKG-INFO": {
+        "size": 5564,
+        "last_modified": 1764751145.4422936,
+        "hr_last_modified": "2025-12-03 14:09:05",
+        "sha256": "962cec39877d6c5bbe88eb4328b4041b1f699c406a5bd6d132b6ccdff3991835"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base/__init__.py": {
+        "size": 43,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "01dfe8e9150cdbce263640e619bc2648b379a2ee507ff4a0b1760c01902d5f6e"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base/cache/__init__.py": {
+        "size": 0,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base/core/pdfy_support.py": {
+        "size": 4868,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "57cf9f3dc0b0eeef5e71c1f6e7e0cc16dd87eca15bdd5853e521cc6c244a1eac"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base/core/__init__.py": {
+        "size": 950,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "f360b6b7a6e3de3f0554fed8555a7a27534c6b8febda7a843fe1af66f04d9123"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base/core/html_helper.py": {
+        "size": 4060,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "47973a80386e9a39a3a729543000998dd0b4375c771ee4f1740f9055b55aa844"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base/core/question.py": {
+        "size": 3242,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "2cb95a2a4028bdf620f8f2e36af906686aebd1f922a03a5705f01bccdf3ca27b"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base/core/utils.py": {
+        "size": 2134,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "eaee0d4ecfe3083f0365865e33c231f15cee8e5fcc67ef0012f4310742e7f37f"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base/core/pdfy.py": {
+        "size": 7238,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "accb9ea248a0c585694ab7e2bc12d995b8be61649d4ff335b3aacb557f856792"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base/core/styles.py": {
+        "size": 4363,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "e234b09a66a9a4325431444c306d54732976a8618e9c041e4a135dc008ddd119"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base/core/types.py": {
+        "size": 159,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "31227bb533d82d267ae562511aa0f1a4366eadef59cb8d5889f60db38b58ebeb"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base/core/ui3.py": {
+        "size": 13614,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "4ecabd3d1410d1fd3c79a2c8790a444abad2c5f61653b7c6830ab0651634bd0d"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base/core/data_base.py": {
+        "size": 3259,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "715e6e5d864eeac15c47ed58de1439c663dc0f1a76eb9a380bf380acd84dc1df"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base/core/chapter.py": {
+        "size": 1238,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "a954ea3f1caffcf6b3e0aef4118e12546a811e79cdfcdadd8495651cba144b56"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base/core/filter.py": {
+        "size": 12906,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "13bd446c2e51dfe9efbc19cccdb508b1413229bf1024e9d0fa93ba6effb0de9e"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base/core/cache.py": {
+        "size": 5107,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "c146caa0186bfbf71a056abdf615953b2fcbc19b31879a38a261b40c76885cea"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/jee_data_base/core/pdf_engine.py": {
+        "size": 4674,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "ada6d9b5f1d7b8cbc9703f368b05d133dd1555db3e0dd609d520cc7f75d2a952"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/dist/jee-data-base-0.2.2/pyproject.toml": {
+        "size": 558,
+        "last_modified": 1764749740.0,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "4f6885cd5f9ef2c4b0008cf515d5200100ad11081b668da884693059139c1494"
+    },
+    "/home/jvk/Stuff/jee_mains_pyqs_data_base/pyproject.toml": {
+        "size": 558,
+        "last_modified": 1764749740.6896427,
+        "hr_last_modified": "2025-12-03 13:45:40",
+        "sha256": "4f6885cd5f9ef2c4b0008cf515d5200100ad11081b668da884693059139c1494"
+    },
+    "/home/jvk/Videos/Screencasts/Screencast From 2025-12-06 00-31-57.mp4": {
+        "size": 1804534,
+        "last_modified": 1764961442.8403296,
+        "hr_last_modified": "2025-12-06 00:34:02",
+        "sha256": "c48797cc19267d7139123e10bcebed1be48f51fe7842f01ccd68803beb255a48"
+    },
+    "/home/jvk/Videos/Screencasts/Screencast From 2025-12-06 00-24-43.mp4": {
+        "size": 6827102,
+        "last_modified": 1764961060.476883,
+        "hr_last_modified": "2025-12-06 00:27:40",
+        "sha256": "c6e90626d01016fa2ab0ecaf05fd8ef471a232471e4a7a7539f0be614c3dbb14"
+    },
+    "/home/jvk/Videos/Screencasts/Screencast From 2025-12-06 00-19-14.mp4": {
+        "size": 9054425,
+        "last_modified": 1764960833.9504826,
+        "hr_last_modified": "2025-12-06 00:23:53",
+        "sha256": "6230f9ef90ab9b5480792e7049f51c375efc93fc9e841dd399e5ae7ef66ad123"
+    },
+    "/home/jvk/log-playwright_1.56.0-build.txt": {
+        "size": 136827,
+        "last_modified": 1765005821.6285038,
+        "hr_last_modified": "2025-12-06 12:53:41",
+        "sha256": "1738f919d22c42282a6c936ac1035c3205845d1de48ab9dda34caf9f9884f538"
+    },
+    "/home/jvk/hashing_algo/[ignore]main.py": {
+        "size": 3814,
+        "last_modified": 1765635210.2300313,
+        "hr_last_modified": "2025-12-13 19:43:30",
+        "sha256": "0ee2ad8c3dcfdbd6623cd6a0a9c5035256151b79902f17935c237f0fbaa4c7fb"
+    },
+    "/home/jvk/hashing_algo/[ignore]lol.py": {
+        "size": 165,
+        "last_modified": 1765711236.1024482,
+        "hr_last_modified": "2025-12-14 16:50:36",
+        "sha256": "e5959ad807088a94126d3b60302726967385baed81280e349d10327c75cdf830"
+    },
+    "/home/jvk/hashing_algo/singular/__init__.py": {
+        "size": 63,
+        "last_modified": 1765711709.6641116,
+        "hr_last_modified": "2025-12-14 16:58:29",
+        "sha256": "f44ac6d18ac95767985d4455431561aafa39bea5cd9f6dab933dd54af8205af3"
+    },
+    "/home/jvk/hashing_algo/singular/config.py": {
+        "size": 1423,
+        "last_modified": 1765711081.560776,
+        "hr_last_modified": "2025-12-14 16:48:01",
+        "sha256": "e9285bb7d525eedacd445e7ed984511041060f7d40e762d6d42bc8c963bbcd17"
+    },
+    "/home/jvk/hashing_algo/singular/data_base/__init__.py": {
+        "size": 0,
+        "last_modified": 1765691530.4215093,
+        "hr_last_modified": "2025-12-14 11:22:10",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/home/jvk/hashing_algo/singular/data_base/FileSystemDataBase.json": {
+        "size": 0,
+        "last_modified": 1765740879.8594568,
+        "hr_last_modified": "2025-12-15 01:04:39",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/home/jvk/hashing_algo/singular/utils.py": {
+        "size": 3822,
+        "last_modified": 1765713426.2098987,
+        "hr_last_modified": "2025-12-14 17:27:06",
+        "sha256": "af575e62fb5f7d44b65798cf8e1488afb12d99d373bf3351c6748238b859e9ab"
+    },
+    "/home/jvk/hashing_algo/singular/process.py": {
+        "size": 957,
+        "last_modified": 1765711645.0244489,
+        "hr_last_modified": "2025-12-14 16:57:25",
+        "sha256": "a2d226475b3cc1911fe63c2f21fedf7b39bf71de5381cca78ef67400876d55f2"
+    },
+    "/home/jvk/hashing_algo/singular/data_base_manager.py": {
+        "size": 958,
+        "last_modified": 1765712883.4895973,
+        "hr_last_modified": "2025-12-14 17:18:03",
+        "sha256": "f91297f2de9c231f7a99afd7e9551ec6b1ff8b3220a11008a95f3476ec12fdce"
+    },
+    "/home/jvk/hashing_algo/singular/file.py": {
+        "size": 740,
+        "last_modified": 1765713702.015884,
+        "hr_last_modified": "2025-12-14 17:31:42",
+        "sha256": "53a0098ed02cb688746f6745df0388a02b667e3f5ca730041d3f6b524fec67ba"
+    },
+    "/home/jvk/hashing_algo/requirements.txt": {
+        "size": 13,
+        "last_modified": 1765696522.8745449,
+        "hr_last_modified": "2025-12-14 12:45:22",
+        "sha256": "8a38abae86fe604f53efbe4b6297c465cda7aea0a1be22baa6eab32432560eba"
+    },
+    "/home/jvk/hashing_algo/[ignore]p.json": {
+        "size": 21528799,
+        "last_modified": 1765641795.8700464,
+        "hr_last_modified": "2025-12-13 21:33:15",
+        "sha256": "a8d8ccd08d7638e1a2d07674ee53972e48f1980778abedfb20ac27f3eb2f51e6"
+    },
+    "/home/jvk/hashing_algo/[ignore]q.json": {
+        "size": 81,
+        "last_modified": 1765713867.1874664,
+        "hr_last_modified": "2025-12-14 17:34:27",
+        "sha256": "3efd05afe9fa354ce19816ebe7787e45c3ea8701a80ab1dfe9f2648ff810e8aa"
+    },
+    "/home/jvk/hashing_algo/[ignore]test_area/some_other_file.py": {
+        "size": 4,
+        "last_modified": 1765620970.4487455,
+        "hr_last_modified": "2025-12-13 15:46:10",
+        "sha256": "38dfcec0b544131109f269658e09dbff9c2118f89667a4931cdd196838671d79"
+    },
+    "/home/jvk/hashing_algo/[ignore]test_area/some_file.py": {
+        "size": 0,
+        "last_modified": 1765620950.1972733,
+        "hr_last_modified": "2025-12-13 15:45:50",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/home/jvk/hashing_algo/[ignore]test_area/some_flder/lo_file2": {
+        "size": 0,
+        "last_modified": 1765620999.6839893,
+        "hr_last_modified": "2025-12-13 15:46:39",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/home/jvk/hashing_algo/[ignore]test_area/some_flder/lol_file": {
+        "size": 0,
+        "last_modified": 1765620993.8041408,
+        "hr_last_modified": "2025-12-13 15:46:33",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/home/jvk/hashing_algo/pyproject.toml": {
+        "size": 0,
+        "last_modified": 1765696491.199183,
+        "hr_last_modified": "2025-12-14 12:44:51",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/home/jvk/verbose1.txt": {
+        "size": 207374,
+        "last_modified": 1764949126.7670126,
+        "hr_last_modified": "2025-12-05 21:08:46",
+        "sha256": "33a9d0bd359200b3c2fca85c17b501b12aa411040b81a259116c14b4072b2b9f"
+    },
+    "/home/jvk/singular/README.md": {
+        "size": 4,
+        "last_modified": 1765715375.8875508,
+        "hr_last_modified": "2025-12-14 17:59:35",
+        "sha256": "fdc96ffbf256523aec8846ae56321053c7ab751c99eb766e6bb4a7d362a4f060"
+    },
+    "/home/jvk/singular/[ignore]lol.py": {
+        "size": 0,
+        "last_modified": 1765725814.4232047,
+        "hr_last_modified": "2025-12-14 20:53:34",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/home/jvk/singular/LICENSE": {
+        "size": 18092,
+        "last_modified": 1765714472.0548882,
+        "hr_last_modified": "2025-12-14 17:44:32",
+        "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
+    },
+    "/home/jvk/singular/singular/__main__.py": {
+        "size": 723,
+        "last_modified": 1765797818.3776543,
+        "hr_last_modified": "2025-12-15 16:53:38",
+        "sha256": "b8ebde258f9a27e890fcf885da5d8ecf5226730b87e22b6d7d232aa749d6f5aa"
+    },
+    "/home/jvk/singular/singular/__init__.py": {
+        "size": 141,
+        "last_modified": 1765787749.7012298,
+        "hr_last_modified": "2025-12-15 14:05:49",
+        "sha256": "834f9b37da25e74c7118fdef2e96abd767147d97343225e0d98d9939d54f9aeb"
+    },
+    "/home/jvk/singular/singular/__pycache__/__init__.cpython-313.pyc": {
+        "size": 278,
+        "last_modified": 1765787762.504763,
+        "hr_last_modified": "2025-12-15 14:06:02",
+        "sha256": "dc02b756553d3bc4d049823e3841f01ce72ffdcde115254bb281eebce96d99bb"
+    },
+    "/home/jvk/singular/singular/__pycache__/utils.cpython-313.pyc": {
+        "size": 4898,
+        "last_modified": 1765797480.404553,
+        "hr_last_modified": "2025-12-15 16:48:00",
+        "sha256": "54bcc852d45c41273fcab12160d0df2d8e22cecc032d61f11d88d05e9654fd1b"
+    },
+    "/home/jvk/singular/singular/__pycache__/process.cpython-313.pyc": {
+        "size": 3049,
+        "last_modified": 1765797335.4611576,
+        "hr_last_modified": "2025-12-15 16:45:35",
+        "sha256": "73392a2b6c7bba15160d7f14f25663f724ab716116e1fda7f0681dc6f6aab58e"
+    },
+    "/home/jvk/singular/singular/__pycache__/data_base_manager.cpython-313.pyc": {
+        "size": 3879,
+        "last_modified": 1765797013.3901346,
+        "hr_last_modified": "2025-12-15 16:40:13",
+        "sha256": "0d43800317dd199740a7f660cb19f7348dd7cdb5573b9aaf0ec23403879c87e6"
+    },
+    "/home/jvk/singular/singular/__pycache__/config.cpython-313.pyc": {
+        "size": 2702,
+        "last_modified": 1765788278.6854005,
+        "hr_last_modified": "2025-12-15 14:14:38",
+        "sha256": "77a11eac5960ba472337f56be4880c72fd7a33b878004b25cccf3f479ccb07d1"
+    },
+    "/home/jvk/singular/singular/__pycache__/file.cpython-313.pyc": {
+        "size": 1762,
+        "last_modified": 1765787706.6669235,
+        "hr_last_modified": "2025-12-15 14:05:06",
+        "sha256": "fe3aca4101058cfeb7d4eada9595a3c042a4d5523ccf4cca8bddafd9d8139beb"
+    },
+    "/home/jvk/singular/singular/__pycache__/__main__.cpython-313.pyc": {
+        "size": 1300,
+        "last_modified": 1765797825.4854245,
+        "hr_last_modified": "2025-12-15 16:53:45",
+        "sha256": "34a79ac421cc241fbd03768413ab37b8cce2829fdce5d4347c68fb881cedafd0"
+    },
+    "/home/jvk/singular/singular/__pycache__/logger.cpython-313.pyc": {
+        "size": 3141,
+        "last_modified": 1765789282.1309774,
+        "hr_last_modified": "2025-12-15 14:31:22",
+        "sha256": "f3f373bf5a91fcdbefec2c96c9e5a27bf1ec7f1c23fdb0e23b579b274a2e16e2"
+    },
+    "/home/jvk/singular/singular/config.py": {
+        "size": 1542,
+        "last_modified": 1765788275.949441,
+        "hr_last_modified": "2025-12-15 14:14:35",
+        "sha256": "528c17ab7ffff6ecaba2e2007e4b63ee4475716e82209c0780c9b42d2ca326ab"
+    },
+    "/home/jvk/singular/singular/data_base/__init__.py": {
+        "size": 0,
+        "last_modified": 1765691530.4215093,
+        "hr_last_modified": "2025-12-14 11:22:10",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/home/jvk/singular/singular/data_base/FileSystemDataBase.json": {
+        "size": 182075,
+        "last_modified": 1765797351.5366523,
+        "hr_last_modified": "2025-12-15 16:45:51",
+        "sha256": "5a6d49acc74c82c85d927f9462b19e6403ae0ee7e05342728c98c2f236377bfd"
+    },
+    "/home/jvk/singular/singular/utils.py": {
+        "size": 4273,
+        "last_modified": 1765797477.780637,
+        "hr_last_modified": "2025-12-15 16:47:57",
+        "sha256": "3db9aacec7a64e86ae409302a2730c401b2e162be1452b3b27d6f931a447523c"
+    },
+    "/home/jvk/singular/singular/process.py": {
+        "size": 2065,
+        "last_modified": 1765797331.6292777,
+        "hr_last_modified": "2025-12-15 16:45:31",
+        "sha256": "c7b7e6392170378be09f1e207b78e93afdf29319182edd0f6d3fb03cdd7bacf7"
+    },
+    "/home/jvk/singular/singular/data_base_manager.py": {
+        "size": 1791,
+        "last_modified": 1765796813.986986,
+        "hr_last_modified": "2025-12-15 16:36:53",
+        "sha256": "e340007f553f97446ab6e76fc70b3a240839fd79481ef25abbb97e08577ef904"
+    },
+    "/home/jvk/singular/singular/file.py": {
+        "size": 788,
+        "last_modified": 1765741346.3108819,
+        "hr_last_modified": "2025-12-15 01:12:26",
+        "sha256": "4b9cdfe1b62c1d6e7af4cd76573919e70ab155255beeb37594be3a7d1fb928b5"
+    },
+    "/home/jvk/singular/singular/logger.py": {
+        "size": 1206,
+        "last_modified": 1765789280.699384,
+        "hr_last_modified": "2025-12-15 14:31:20",
+        "sha256": "a0922dd9c0395d4e0659b493243d0cfc7503a3e48d588c8464df7c25265de629"
+    },
+    "/home/jvk/singular/requirements.txt": {
+        "size": 13,
+        "last_modified": 1765715154.9570045,
+        "hr_last_modified": "2025-12-14 17:55:54",
+        "sha256": "8a38abae86fe604f53efbe4b6297c465cda7aea0a1be22baa6eab32432560eba"
+    },
+    "/home/jvk/singular/pyproject.toml": {
+        "size": 0,
+        "last_modified": 1765696491.199183,
+        "hr_last_modified": "2025-12-14 12:44:51",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/home/jvk/undefined.bak": {
+        "size": 2580,
+        "last_modified": 1764683217.8696873,
+        "hr_last_modified": "2025-12-02 19:16:57",
+        "sha256": "1338beb7a7094d0ff02e8e944cde883cc86040bd36d0602dc243fdab842f8b49"
+    },
+    "/home/jvk/fun/Loki | The God Who Tried.m4a": {
+        "size": 6636546,
+        "last_modified": 1765171529.637684,
+        "hr_last_modified": "2025-12-08 10:55:29",
+        "sha256": "8e22c572a8d380709cb831c535d5b38c1ed8a9dcc8fb8c8aec3ec203ef43862f"
+    },
+    "/home/jvk/fun/loki-soundtrack/app.py": {
+        "size": 3565,
+        "last_modified": 1765198169.670924,
+        "hr_last_modified": "2025-12-08 18:19:29",
+        "sha256": "0f143c5b414f04e7fe181370239998e88060c783f1a151b268ebae23bb8f57fa"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Sapna Jahan Full Video - Brothers|Akshay Kumar, Jacqueline|Sonu Nigam, Neeti Mohan.m4a": {
+        "size": 2111618,
+        "last_modified": 1765180416.057388,
+        "hr_last_modified": "2025-12-08 13:23:36",
+        "sha256": "832b9be47e68c58d044a63bee4895c701a0d3ece87a10cb8210d6a85bd7cbbff"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Dhurandhar - Balochi Arabic Song : Fa9la Edit\ud83d\udd25| Rehman Baloch Theme Music.m4a": {
+        "size": 634974,
+        "last_modified": 1765210788.558661,
+        "hr_last_modified": "2025-12-08 21:49:48",
+        "sha256": "e7abbe74283fee2b199372115ae59ab72ec50a2333e75bd4a2df49ab42919ded"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Loki Processing.m4a": {
+        "size": 2207358,
+        "last_modified": 1765171776.8636217,
+        "hr_last_modified": "2025-12-08 10:59:36",
+        "sha256": "495833bc24bfd3fbee9bb453077cd14b14eef45d2b9e0d6398c8b5d36250808e"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Loki Green Theme.m4a": {
+        "size": 2345038,
+        "last_modified": 1765171774.1357348,
+        "hr_last_modified": "2025-12-08 10:59:34",
+        "sha256": "8cca4e16ce39e03194a075fc2e0d6e1255f33cafdf70cc9392edb9b1fbb6f296"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Til Kingdom Come.m4a": {
+        "size": 1530165,
+        "last_modified": 1765224018.617151,
+        "hr_last_modified": "2025-12-09 01:30:18",
+        "sha256": "c9ca2282f8d04bb4a22cdac5dc6b9880357ffe2d4baba0b9dab81aad3d98944a"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/100+ Linux Things you Need to Know.m4a": {
+        "size": 4527173,
+        "last_modified": 1765179663.2035384,
+        "hr_last_modified": "2025-12-08 13:11:03",
+        "sha256": "3e504da3519f9068b4e27cbd0a77b67abd567502bb72ca363fc3345aecdddb38"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Dehachi Tijori Lyrical | \u0926\u0947\u0939\u093e\u091a\u0940 \u0924\u093f\u091c\u094b\u0930\u0940 | Sudhir Phadke | Amhi Jato Amuchya Gava | Jagdish Khebudkar.m4a": {
+        "size": 1238496,
+        "last_modified": 1765175087.867064,
+        "hr_last_modified": "2025-12-08 11:54:47",
+        "sha256": "46992315f4b855725fd9721b64de0e113e9f851c2f1fc041262f099b6a470f62"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/I Miss Randy.m4a": {
+        "size": 1819661,
+        "last_modified": 1765171812.9301243,
+        "hr_last_modified": "2025-12-08 11:00:12",
+        "sha256": "19227132daf233e763f10ea122a3c928b4259fff0b927edd36283ac56394e8bb"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Brenda Lee - If You Love Me (Really Love Me).m4a": {
+        "size": 956500,
+        "last_modified": 1765223582.293049,
+        "hr_last_modified": "2025-12-09 01:23:02",
+        "sha256": "6235cfc3c8f55742bc481bab1648bfbc826e0cc866414a0d1693ac58d2b7179e"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/TVA First View.m4a": {
+        "size": 1084564,
+        "last_modified": 1765171773.455763,
+        "hr_last_modified": "2025-12-08 10:59:33",
+        "sha256": "0f444e9f7dfd213e1bb5b982a073d54650be74c78d3f9a77d32ba68389d46233"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Gobi, 2012.m4a": {
+        "size": 2921184,
+        "last_modified": 1765171772.2878113,
+        "hr_last_modified": "2025-12-08 10:59:32",
+        "sha256": "518baf8e7ffaf9fbc1e742880d2a5f81d9af777fb9db57d6075272277be2a82d"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Dhurandhar - Title Track | Ranveer Singh, Shashwat Sachdev, Hanumankind, Jasmine Sandlas,Aditya Dhar.m4a": {
+        "size": 971816,
+        "last_modified": 1765210818.9498484,
+        "hr_last_modified": "2025-12-08 21:50:18",
+        "sha256": "0d2be54c34038e8d2760435aedaeeabbc2f9b2017e2e0b469e6091833d59b93a"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Jet Ski.m4a": {
+        "size": 2128418,
+        "last_modified": 1765171801.7465892,
+        "hr_last_modified": "2025-12-08 11:00:01",
+        "sha256": "037fa781b4e8bb67bf8ea2b739b040b0f3de65c0ffd00f42616d94a2b1a9772a"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Salina, 1858.m4a": {
+        "size": 1617463,
+        "last_modified": 1765171808.3503149,
+        "hr_last_modified": "2025-12-08 11:00:08",
+        "sha256": "374f6a648b73a31c9d1d9d52b78f412e068ed176819cbfeb50b526eb99a9f0ed"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Purpose Is Glorious (From \"Loki: Season 2 - Vol. 2 (Episodes 4-6)\"ScoreAudio Only).m4a": {
+        "size": 1144831,
+        "last_modified": 1765197299.4315798,
+        "hr_last_modified": "2025-12-08 18:04:59",
+        "sha256": "f1a989a43bb018925986352ecd8d62839c02f6f3b2496c334020efd57b5ff44b"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Ed Sheeran - Bad Habits [Official Video].m4a": {
+        "size": 1470845,
+        "last_modified": 1765199368.2860243,
+        "hr_last_modified": "2025-12-08 18:39:28",
+        "sha256": "1556ad10a0330f92c43e6261a48b1ffeb15824b1b701fb21539bec49af9bd3b0"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Frigga.m4a": {
+        "size": 2290080,
+        "last_modified": 1765171788.0071597,
+        "hr_last_modified": "2025-12-08 10:59:48",
+        "sha256": "8a712f1858ed86334051797eccde234b349ac70fde831cb1ba24339a17e9ae28"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/TVA (From \"Loki\"Score).m4a": {
+        "size": 2409176,
+        "last_modified": 1765171767.1080258,
+        "hr_last_modified": "2025-12-08 10:59:27",
+        "sha256": "c6d5f23b713fef23e665d3acc3f73fcc84b33bd2bec665442506b2400499259d"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Python in 100 Seconds.m4a": {
+        "size": 875903,
+        "last_modified": 1765179431.503679,
+        "hr_last_modified": "2025-12-08 13:07:11",
+        "sha256": "a0b587964c0ebb9b041b4bb98458d56e7554a10b028dca4104444fec129a6e7a"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Naalayak  Sahil Samuel-Zakir (Official music video 4k) \u201cHindi Gaane\u201d.m4a": {
+        "size": 1373668,
+        "last_modified": 1765219950.5943365,
+        "hr_last_modified": "2025-12-09 00:22:30",
+        "sha256": "a9bf97a9ab837d821a025caf11f0eeecbdf7a0e3347bcfd0b382cbc69cacd23c"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Mischievous Scamp.m4a": {
+        "size": 1439261,
+        "last_modified": 1765171786.2032347,
+        "hr_last_modified": "2025-12-08 10:59:46",
+        "sha256": "734711d7d59daa99404ec3f1bc2476b3121e86a6204f17255b875865b4a3e69a"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Lamentis-1, 2077.m4a": {
+        "size": 1847366,
+        "last_modified": 1765171818.1339078,
+        "hr_last_modified": "2025-12-08 11:00:18",
+        "sha256": "a0cb57f1961cbb5d89b521aab3cb233a60c7a664fb48bdde6e125c9c249a1a4a"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Madira Song Ft. Shalini Pandey | Pulkit Samrat, Varun Sharma | Rahu Ketu Movie Song #madira.m4a": {
+        "size": 565327,
+        "last_modified": 1765220487.322072,
+        "hr_last_modified": "2025-12-09 00:31:27",
+        "sha256": "da233c60da9d442a4d3e8daa7cd1b924cd992ce2079e5a9107f0d629671b0ac3"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Aal Izz Well \u2013 3 Idiots | Aamir Khan, Madhavan, Sharman J | Sonu N, Swanand K & Shaan | Shantanu M.m4a": {
+        "size": 1734756,
+        "last_modified": 1765196949.1533127,
+        "hr_last_modified": "2025-12-08 17:59:09",
+        "sha256": "598c8d75e228e87c0c5facd359cbdcf303c3e49a198d2c984a448d151940d7e3"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Kung Fu Panda | Who Are You.m4a": {
+        "size": 2224202,
+        "last_modified": 1765173237.1436353,
+        "hr_last_modified": "2025-12-08 11:23:57",
+        "sha256": "5db231d784362b7ebc5461d5408498c63a85522b6d1000e7cad648cacdb66d5a"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Coldplay - Clocks (Official Video).m4a": {
+        "size": 1561781,
+        "last_modified": 1765198602.7586334,
+        "hr_last_modified": "2025-12-08 18:26:42",
+        "sha256": "6abf425c179b63c34be1e11e3f982285b27cbc2b589d5e29126d2e8b9b8dae7d"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Very Full.m4a": {
+        "size": 1393339,
+        "last_modified": 1765171816.9899552,
+        "hr_last_modified": "2025-12-08 11:00:16",
+        "sha256": "0a71626ab2fb71832835cf159554f07dbe1f361c28077a7411cacc7b1927c1d1"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/New York, 2012.m4a": {
+        "size": 1465362,
+        "last_modified": 1765171769.1479414,
+        "hr_last_modified": "2025-12-08 10:59:29",
+        "sha256": "64cd1f1d43326dc7b09850f7a1a4425438ede6ded3b0be66f9a7490439f69bd1"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/OneRepublic - I Ain\u2019t Worried (From \u201cTop Gun: Maverick\u201d) [Official Music Video].m4a": {
+        "size": 942396,
+        "last_modified": 1765219014.394686,
+        "hr_last_modified": "2025-12-09 00:06:54",
+        "sha256": "fd7e7a4c50cb6d92de3cf7f60dbe60f49423d081113c9d956ac2ef4cc2fe508e"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Madira.m4a": {
+        "size": 1037668,
+        "last_modified": 1765220528.557953,
+        "hr_last_modified": "2025-12-09 00:32:08",
+        "sha256": "e48d2ce0ba994351d4238d71af6b3c005a2072427ee136ece7108cc26c0d0e6a"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Ritviz - Chalo Chalein feat. Seedhe Maut [Official Music Video].m4a": {
+        "size": 1495344,
+        "last_modified": 1765221310.21312,
+        "hr_last_modified": "2025-12-09 00:45:10",
+        "sha256": "d5d5d36554f86ce2ce931ba816508929aef5583166c4a7ee6c2168e609428c16"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Reset Charges.m4a": {
+        "size": 2396652,
+        "last_modified": 1765171814.0340784,
+        "hr_last_modified": "2025-12-08 11:00:14",
+        "sha256": "4d5c718891958e91834f4a6342b1cc511e279225c4c7f83b66d7535f9637fe79"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Catch Up.m4a": {
+        "size": 1587567,
+        "last_modified": 1765171799.1106987,
+        "hr_last_modified": "2025-12-08 10:59:59",
+        "sha256": "3a4b05e46842e41926c3a859dbad7a7d51de9a2884e51d0bcc926cef3cad4d2a"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/DB Cooper.m4a": {
+        "size": 1542025,
+        "last_modified": 1765171791.9229972,
+        "hr_last_modified": "2025-12-08 10:59:51",
+        "sha256": "86c978a21f9e736cd456f27a44e4f7fbb4ca385aeb9f7b544ef1d30eac43760a"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/The Archives.m4a": {
+        "size": 2076889,
+        "last_modified": 1765171806.2144036,
+        "hr_last_modified": "2025-12-08 11:00:06",
+        "sha256": "445bda9c6838a3ce6c7ffe8d818d16b635d5b6b491866741c22f8711671d5bfd"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Oshkosh, 1985.m4a": {
+        "size": 1833703,
+        "last_modified": 1765171796.0268269,
+        "hr_last_modified": "2025-12-08 10:59:56",
+        "sha256": "77ee4e4c901867e28102c80102473ab685fdd95809b70d2b61331bbf60c4cfa2"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Don't wake me I'm not dreaming | sapientdream - past lives lirik terjemahan indonesia.m4a": {
+        "size": 921763,
+        "last_modified": 1765177777.3936596,
+        "hr_last_modified": "2025-12-08 12:39:37",
+        "sha256": "e022229c5bcac3315a573f10f5de651b83f69602556384575a446cf08ad5585c"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Coldplay - Fix You (Official Video).m4a": {
+        "size": 1793625,
+        "last_modified": 1765173494.0299625,
+        "hr_last_modified": "2025-12-08 11:28:14",
+        "sha256": "c448ec668d2ef04fdd1e2d6bdb5e8e93cab04548c2dfd1aa3006fb67667996ce"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Waapasi.m4a": {
+        "size": 1066585,
+        "last_modified": 1765222468.3325863,
+        "hr_last_modified": "2025-12-09 01:04:28",
+        "sha256": "53668033d1391ef1fcbada55486fb7edfebb84a17ac7c04e9e172da267d31daa"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Dangerous Variant.m4a": {
+        "size": 1573146,
+        "last_modified": 1765171787.1711946,
+        "hr_last_modified": "2025-12-08 10:59:47",
+        "sha256": "dfe3f0dbdc29d45a6890392b2e18ea6bc9bc375ee8755e196ccf0f7be7f97840"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/TVA Inner Workings.m4a": {
+        "size": 1750675,
+        "last_modified": 1765171790.1830695,
+        "hr_last_modified": "2025-12-08 10:59:50",
+        "sha256": "7a8fd88aa8c63d32d1050fce9831b6fe20d8f4c5355f1ca50c18337cd633172a"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/I Wanna Be Yours.m4a": {
+        "size": 1124081,
+        "last_modified": 1765176003.7439542,
+        "hr_last_modified": "2025-12-08 12:10:03",
+        "sha256": "0e44b081e696945af9be27559de882a5dcb067abd507693d532e99292405e47e"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Aix-En-Provence, 1549.m4a": {
+        "size": 2494750,
+        "last_modified": 1765171782.791376,
+        "hr_last_modified": "2025-12-08 10:59:42",
+        "sha256": "74735d38a5e1d7a3808319467638d0cca9def2151cbfc83d52c5af07a763f132"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/TVA Title Card.m4a": {
+        "size": 1596767,
+        "last_modified": 1765171815.1380324,
+        "hr_last_modified": "2025-12-08 11:00:15",
+        "sha256": "85bda79af70a1ce4407ec430a09fc12adc5a751d7db7c4e04da7e5e31fdab7a1"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Glorious Purpose.m4a": {
+        "size": 2494573,
+        "last_modified": 1765171803.6745093,
+        "hr_last_modified": "2025-12-08 11:00:03",
+        "sha256": "9ac9e95cfb81150aaab3100520bb0828e55a444b90e92addcade41edcd7b623b"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Miss Minutes.m4a": {
+        "size": 1950889,
+        "last_modified": 1765171784.3353121,
+        "hr_last_modified": "2025-12-08 10:59:44",
+        "sha256": "e6c31f7ee6e8f2076dc57a874bdba2e352539e35fd159057b0818f429acd9b33"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Gehra Hua | Dhurandhar | Ranveer Singh, Sara Arjun, Shashwat Sachdev, Arijit Singh | Irshad Kamil.m4a": {
+        "size": 1408896,
+        "last_modified": 1765210906.3535268,
+        "hr_last_modified": "2025-12-08 21:51:46",
+        "sha256": "fc815ad1f722ed8a3d1fef679444139d3018176abb383bd3b3c740f84a303669"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Green Day - Boulevard Of Broken Dreams [Official Music Video] [4K Upgrade].m4a": {
+        "size": 1755079,
+        "last_modified": 1765198943.254384,
+        "hr_last_modified": "2025-12-08 18:32:23",
+        "sha256": "1c5d270aa14c99d094f75db6ba4e401d3b831e2777c26f75e38c9d67d0c03868"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Bechara.m4a": {
+        "size": 1185600,
+        "last_modified": 1765223788.7763543,
+        "hr_last_modified": "2025-12-09 01:26:28",
+        "sha256": "7fb7f364c525f2d9a57e08531db000a6d280f544bbcc367699fecc01624bc8e9"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Ghanshyam Sundara Shridhara with lyrics | \u0918\u0928\u0936\u094d\u092f\u093e\u092e \u0938\u0941\u0902\u0926\u0930\u093e \u0936\u094d\u0930\u0940\u0927\u0930\u093e | Lata | Panditrao Nagarkar,.m4a": {
+        "size": 1381827,
+        "last_modified": 1765175270.123014,
+        "hr_last_modified": "2025-12-08 11:57:50",
+        "sha256": "46603db6898e3b624fb94c2621e9abd66fd9f6973922e3b1892ccc8942023467"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/TVA.m4a": {
+        "size": 2409401,
+        "last_modified": 1765171768.115984,
+        "hr_last_modified": "2025-12-08 10:59:28",
+        "sha256": "35e6ebc9c5c8212b4454da707fcaf7dd41519badab6bcc1d8c6c3fa4ae1fa50f"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Docker in 100 Seconds.m4a": {
+        "size": 773102,
+        "last_modified": 1765179281.4776495,
+        "hr_last_modified": "2025-12-08 13:04:41",
+        "sha256": "cba5c791ff0d7c14e2690eb5ffebbe81b9dc148709d621a0a192c6971e5b61ed"
+    },
+    "/home/jvk/fun/loki-soundtrack/db/Roxxcart, 2050.m4a": {
+        "size": 2041594,
+        "last_modified": 1765171809.1702807,
+        "hr_last_modified": "2025-12-08 11:00:09",
+        "sha256": "5a8eddee6712a8a0029ac379f63f5adce21fdb80419fa27bc24ac6129128c604"
+    },
+    "/home/jvk/fun/loki-soundtrack/server.log": {
+        "size": 174,
+        "last_modified": 1765176763.6573908,
+        "hr_last_modified": "2025-12-08 12:22:43",
+        "sha256": "4d98f0d6fceb141cce87e7b64812b6687a4af0869846296be6f24f0df4c263de"
+    },
+    "/home/jvk/fun/loki-soundtrack/TVA (From \"Loki\"Score).mp4": {
+        "size": 1609803,
+        "last_modified": 1765171627.8777335,
+        "hr_last_modified": "2025-12-08 10:57:07",
+        "sha256": "e0e5783c69fb15d53d0021e1a81c0f430a6b4f63f8b08c0116d3b929481183a7"
+    },
+    "/home/jvk/for_playwright/pyvenv.cfg": {
+        "size": 163,
+        "last_modified": 1765285233.89221,
+        "hr_last_modified": "2025-12-09 18:30:33",
+        "sha256": "0faac26f24292287805590152034e6a93c99a48b45d07ad8a15634e328f15af5"
+    },
+    "/home/jvk/for_playwright/bin/activate.fish": {
+        "size": 2204,
+        "last_modified": 1765285236.8401444,
+        "hr_last_modified": "2025-12-09 18:30:36",
+        "sha256": "c12be01db9bef7a807a9b8ce32fee1a6e96b0514fd11d499b035ac27f62c1074"
+    },
+    "/home/jvk/for_playwright/bin/pip3": {
+        "size": 241,
+        "last_modified": 1765285236.6121495,
+        "hr_last_modified": "2025-12-09 18:30:36",
+        "sha256": "e3006bab99774be4cdd3df24f8a9c175088d4756a92e2265ed77980b4e39f02d"
+    },
+    "/home/jvk/for_playwright/bin/activate": {
+        "size": 2178,
+        "last_modified": 1765285236.8401444,
+        "hr_last_modified": "2025-12-09 18:30:36",
+        "sha256": "4e055991033964bd25735c0cfbbf0e42c61ce2fc1e17e3edb35e594f7d450e1c"
+    },
+    "/usr/bin/python3.13": {
+        "size": 6828688,
+        "last_modified": 1750877722.0,
+        "hr_last_modified": "2025-06-26 00:25:22",
+        "sha256": "e59d0124ff06c248546876e01fcfb1ea3cda63534949f94a9372bfcfe3bfc3f5"
+    },
+    "/home/jvk/for_playwright/bin/Activate.ps1": {
+        "size": 9031,
+        "last_modified": 1750877722.0,
+        "hr_last_modified": "2025-06-26 00:25:22",
+        "sha256": "eb8ce20f580877d300c4fed60a7f36daa18715d35c50bb3596d6995d023b4ffe"
+    },
+    "/home/jvk/for_playwright/bin/pip": {
+        "size": 241,
+        "last_modified": 1765285236.6121495,
+        "hr_last_modified": "2025-12-09 18:30:36",
+        "sha256": "e3006bab99774be4cdd3df24f8a9c175088d4756a92e2265ed77980b4e39f02d"
+    },
+    "/home/jvk/for_playwright/bin/pip3.13": {
+        "size": 241,
+        "last_modified": 1765285236.6161494,
+        "hr_last_modified": "2025-12-09 18:30:36",
+        "sha256": "e3006bab99774be4cdd3df24f8a9c175088d4756a92e2265ed77980b4e39f02d"
+    },
+    "/home/jvk/for_playwright/bin/activate.csh": {
+        "size": 933,
+        "last_modified": 1765285236.8361444,
+        "hr_last_modified": "2025-12-09 18:30:36",
+        "sha256": "d72efd58ff2d01e09cb49807a9f4492cc7d7d321e8d9ebb37d78c48b4059a7ca"
+    },
+    "/home/jvk/for_playwright/bin/pyproject-build": {
+        "size": 245,
+        "last_modified": 1765285373.4371245,
+        "hr_last_modified": "2025-12-09 18:32:53",
+        "sha256": "1bec1ae07f6a5057b200c8ec55e830bf34e58b5a5005e7ba6374d75a26bd43d2"
+    },
+    "/home/jvk/song-db/app.py": {
+        "size": 3541,
+        "last_modified": 1765176790.009147,
+        "hr_last_modified": "2025-12-08 12:23:10",
+        "sha256": "d923345526835031bd3f6c8e7a348e68398677bb6b14a03d9b3dbe177b7ccb19"
+    },
+    "/home/jvk/song-db/requirements.txt": {
+        "size": 10,
+        "last_modified": 1765180978.7344859,
+        "hr_last_modified": "2025-12-08 13:32:58",
+        "sha256": "e0f1ca329d49eb48366aa9f69507d9c3acea1c569d6b093afcf2a506e68860e6"
+    },
+    "/home/jvk/Pictures/Screenshots/Screenshot From 2025-12-09 00-58-35.png": {
+        "size": 676346,
+        "last_modified": 1765222115.5620725,
+        "hr_last_modified": "2025-12-09 00:58:35",
+        "sha256": "115c6699e3bdd82c8c81162ed6d10e95a0c696c1e6d681efb791acebc040666d"
+    },
+    "/home/jvk/Pictures/Screenshots/Screenshot From 2025-12-04 16-48-48.png": {
+        "size": 181653,
+        "last_modified": 1764847128.672882,
+        "hr_last_modified": "2025-12-04 16:48:48",
+        "sha256": "52a6aebb8db010a0edb8d376713b41d1c35dfc585f96d7adf9be56f53f9d7c6c"
+    },
+    "/home/jvk/Pictures/Screenshots/Screenshot From 2025-12-07 01-38-53.png": {
+        "size": 206290,
+        "last_modified": 1765051733.6208398,
+        "hr_last_modified": "2025-12-07 01:38:53",
+        "sha256": "1843f72ffe4aef33b7486e6e2953acaf834531cc5a6c72e7cbc1e83ee623914c"
+    },
+    "/home/jvk/Pictures/Screenshots/Screenshot From 2025-12-04 18-54-28.png": {
+        "size": 116055,
+        "last_modified": 1764854668.8810341,
+        "hr_last_modified": "2025-12-04 18:54:28",
+        "sha256": "ae15fb2ec00db5395ddfb18a236ecc8f2f3a13231f49f72642d060998d7b1ccf"
+    },
+    "/home/jvk/Pictures/Screenshots/Screenshot From 2025-12-02 18-53-11.png": {
+        "size": 563319,
+        "last_modified": 1764681791.324411,
+        "hr_last_modified": "2025-12-02 18:53:11",
+        "sha256": "f30ab6f204e367fa2e131a569863c44b231a143c0fe390bb8216fe7a2e016005"
+    },
+    "/home/jvk/Pictures/Screenshots/Screenshot From 2025-12-09 18-27-16.png": {
+        "size": 148632,
+        "last_modified": 1765285036.0286832,
+        "hr_last_modified": "2025-12-09 18:27:16",
+        "sha256": "eaf21b6b84516c60b2b08368948b43d1b9f16f3a2e5f1f48be880d1945b90e82"
+    },
+    "/home/jvk/Pictures/Screenshots/Screenshot From 2025-12-04 18-54-48.png": {
+        "size": 332688,
+        "last_modified": 1764854688.288481,
+        "hr_last_modified": "2025-12-04 18:54:48",
+        "sha256": "3987af525d30829d6cedd26be72204ce8a4585498e5b9034891621cbb6421a80"
+    }
+}

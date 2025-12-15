@@ -15,13 +15,16 @@ def _get_file_paths(
     "Implementation of recursive file listing"
     for item in SCOPE_DIRECTORY.iterdir():
         try:
-            
+            if item.is_dir() and item.name in ["pro_py","fixing_hdbscan","maintian_pytubefix","maintain_playwright","tryal","deep-dive","site-packages"]:
+                continue
             if item.is_dir():
                 if item.name.startswith(".") and config.get["ACCESS_HIDDEN_FILES"] == "False":
                     continue
                 _get_file_paths(item,list_to_store)
             
             elif item.is_file():
+                if item.name == "FileSystemDataBase.json":
+                    continue
                 if item.name.startswith(".") and config.get["ACCESS_HIDDEN_FILES"] == "False":
                     continue
                 list_to_store.append(item.resolve())
@@ -46,6 +49,7 @@ def _genrate_hash(file:Path)->str:
 #         file = File(path)
 #         final_dict.update(file.dict)
 #     return final_dict
+
 
 
 def _get_chuncked_files(SCOPE_DIRECOTRY:Path)->list:

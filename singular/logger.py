@@ -19,7 +19,7 @@ class Logger:
         self.logger.setLevel(logging.DEBUG if self.debug_mode else logging.INFO)
 
     def debug(self, text: str) -> None:
-        self.logger.debug(text)
+        self.logger.debug(text,exc_info=self.debug=="true")
 
     def info(self, text: str) -> None:
         self.logger.info(text)
@@ -28,7 +28,7 @@ class Logger:
         self.logger.warning(text)
 
     def error(self, text: str) -> None:
-        self.logger.error(text)
+        self.logger.error(text,exc_info=self.debug_mode)
 
     def critical(self, text: str) -> None:
         self.logger.critical(text)

@@ -4,7 +4,7 @@ from dotenv import load_dotenv, set_key, find_dotenv
 
 class Config:
     def __init__(self):
-        load_dotenv()
+        load_dotenv("/home/jvk/singular/singular/.env")
         self.default_env_dict = {
             "DATA_BASE_PATH": "/home/jvk/hashing_algo/singular/data_base",
             "SCOPE_DIRECTORY": "None",
@@ -26,7 +26,7 @@ class Config:
         if not path.is_dir():
             self._change_config("DATA_BASE_PATH", self.default_env_dict["DATA_BASE_PATH"])
         for key, value in self.get.items():
-            if value is "None":
+            if value == "None":
                 self._change_config(key, self.default_env_dict.get(key))
 
     def _change_config(self, key, value):
@@ -34,7 +34,7 @@ class Config:
         self._load_config()  # reload values only
 
     @property
-    def get(self):
+    def get(self):      
         return {
             "DATA_BASE_PATH": self.data_base_path,
             "SCOPE_DIRECTORY": self.scope_diretory,
