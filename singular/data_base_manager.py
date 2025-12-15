@@ -8,6 +8,10 @@ logger = Logger()
 config = Config()
 
 class DataBase:
+    """What? As the file name suggests this class manages the data base"""
+    """Why? This way rest of the code and put or pull info form the db safely.
+    Saves lots of rewrites of file = open() and json.laod(file) :)
+    """
     def __init__(self) -> None:
         logger.info(str(config.get))
         self.data_base_path = config.get["DATA_BASE_PATH"]

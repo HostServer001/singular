@@ -12,10 +12,10 @@ def _get_file_paths(
         SCOPE_DIRECTORY:Path,
         list_to_store:list
         )->list:
-    "Implementation of recursive file listing"
+    "Implementation of recursive file listing"  
     for item in SCOPE_DIRECTORY.iterdir():
         try:
-            if item.is_dir() and item.name in ["pro_py","fixing_hdbscan","maintian_pytubefix","maintain_playwright","tryal","deep-dive","site-packages"]:
+            if item.is_dir() and item.name in ["pro_py"]:
                 continue
             if item.is_dir():
                 if item.name.startswith(".") and config.get["ACCESS_HIDDEN_FILES"] == "False":
