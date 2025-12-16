@@ -16,14 +16,15 @@ class Config:
         #defined parrent folder path and .env file path using the path of config.py (__file__)
         config_file_path = __file__
         parent_folder = Path(Path(config_file_path).parent)
-        self.env_path = str(parent_folder/".env")
+        # self.env_path = str(parent_folder/".env")
+        self.env_path = "/etc/singular/.env"
 
         #load .env, load config, check if configs are useable if not fix
         load_dotenv(self.env_path)
         self.default_env_dict = {
-            "DATA_BASE_PATH": f"{str(parent_folder/"data_base")}",
-            "SCOPE_DIRECTORY": f"/home/{os.getlogin()}",
-            "LOG_FILE":f"{str(Path(parent_folder)/"data_base"/"singular.log")}",
+            "DATA_BASE_PATH": "/var/lib/singular",
+            "SCOPE_DIRECTORY": os.path.expanduser("~"),
+            "LOG_FILE":"/var/log/singular",
             "ACCESS_HIDDEN_FILES": "False",
             "DEBUG": "False"
         }

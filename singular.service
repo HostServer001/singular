@@ -1,0 +1,17 @@
+[Unit]
+Description=Singular - A temporal file analyzer and deduper
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 ./singular
+WorkingDirectory=./
+Restart=always
+User=yourusername
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

@@ -20,21 +20,21 @@ class Logger:
         self.logger.setLevel(logging.DEBUG if self.debug_mode else logging.INFO)
 
     def debug(self, text: str) -> None:
-        self.logger.debug(text,exc_info=self.debug=="true")
+        self.logger.debug(text,exc_info=self.debug_mode)
 
     def info(self, text: str) -> None:
-        self.logger.info(text)
+        self.logger.info(text,exc_info=self.debug_mode)
 
     def warning(self, text: str) -> None:
-        self.logger.warning(text)
+        self.logger.warning(text,exc_info=self.debug_mode)
 
     def error(self, text: str) -> None:
-        self.logger.error(text,exc_info=self.debug_mode)
+        self.logger.error(text,exc_info=True)
 
     def critical(self, text: str) -> None:
-        self.logger.critical(text)
+        self.logger.critical(text,exc_info=True)
 
     def exception(self, text: str) -> None:
         """Logs an ERROR message with exception info (stack trace)."""
-        self.logger.exception(text)
+        self.logger.exception(text,exc_info=self.debug_mode)
 
