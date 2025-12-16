@@ -97,6 +97,7 @@ sudo chmod +x daemon.sh
 ```bash
 systemctl status singular.service
 ```
+-Ananlysis
 ```bash
 singular analysis
 ```
