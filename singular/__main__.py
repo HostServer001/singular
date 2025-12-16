@@ -3,6 +3,7 @@ from pathlib import Path
 from .logger import Logger
 from .config import Config
 from .process import paralle_process
+from .analysis import Analyzer
 # import rustimport.import_hook
 # from . import file_io # pyright: ignore[reportAttributeAccessIssue]
 
@@ -12,6 +13,7 @@ from .process import paralle_process
 
 logger = Logger()
 config = Config()
+analyser = Analyzer()
 
 SCOPE_DIRECTORY = config.get["SCOPE_DIRECTORY"]
 if SCOPE_DIRECTORY == "" or SCOPE_DIRECTORY == "/" or SCOPE_DIRECTORY == "None":
@@ -24,6 +26,9 @@ def main():
     running = True
     while running:
         paralle_process(SCOPE_DIRECTORY)
+        logger.info(str(analyser.avg_process_time()))
+        logger.info(str(analyser.total_process_time()))
+        # logger.info(str(analyser.get_duplicates()))
         logger.info("Sleeping for 1 mins")
         time.sleep(60)
 
