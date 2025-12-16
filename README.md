@@ -118,38 +118,17 @@ systemctl status singular.service
 
 ---
 
-Current Status
+## Current Status
 
 Early but functional
-
 Actively evolving
-
 Performance characteristics already measurable and improving
 
-
-
 ---
 
-Roadmap
-
-Batched database writes
-
-Incremental filesystem monitoring (watchdog/inotify)
-
-Configurable hash algorithms
-
-Rich CLI output & reporting
-
-Optional SQLite / alternative backends
-
-
-
----
-
-License
+## License
 
 Licensed under the terms specified in the LICENSE file.
-
 
 ---
 
@@ -160,11 +139,3 @@ Singular is built as a systems-level learning project with real-world constraint
 Contributions, reviews, and architectural discussions are welcome.
 
 ---
-
-If you want, I can also:
-- Tighten this into a **Debian-quality README**
-- Add a **DESIGN.md** explaining internals
-- Write a **man page**
-- Rewrite it in a **more minimal / hacker-style README**
-
-Just say the word.
