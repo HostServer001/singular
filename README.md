@@ -20,6 +20,7 @@ Support long-running background operation, and allow future extensibility withou
 ---
 
 ## Project Structure
+```bash
 .
 ├── deamon.sh
 ├── LICENSE
@@ -42,7 +43,7 @@ Support long-running background operation, and allow future extensibility withou
 │   └── utils.py
 ├── singular_config.json
 └── singular.service
-
+```
 ---
 
 ## How It Works (High Level)
@@ -97,7 +98,7 @@ sudo chmod +x daemon.sh
 ```bash
 systemctl status singular.service
 ```
--Ananlysis
+- Ananlysis
 ```bash
 singular analysis
 ```
