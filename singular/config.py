@@ -14,13 +14,13 @@ class Config:
     def __init__(self):
         "Initialzation of Config"
         #defined parrent folder path and .env file path using the path of config.py (__file__)
-        self.config_file_path = "/etc/sigular/singular_config.json"
+        self.config_file_path = "/etc/singular/singular_config.json"
         # parent_folder = Path(Path(config_file_path).parent)
         # self.env_path = str(parent_folder/".env")
         self.default_env_dict = {
             "DATA_BASE_PATH": "/var/lib/singular",
             "SCOPE_DIRECTORY": os.path.expanduser("~"),
-            "LOG_FILE":"/var/log/singular",
+            "LOG_FILE":"/var/log/singular/singular.log",
             "ACCESS_HIDDEN_FILES": False,
             "DEBUG": False
         }

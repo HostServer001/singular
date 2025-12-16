@@ -30,21 +30,24 @@ def _clean_chunk(file_list)->list:
     return clean_list
 
 
-def paralle_process(SCOPE_DIRECTORY): #type:ignore
+from multiprocessing import Pool, cpu_count
+import time
+from pathlib import Path
+
+def paralle_process(SCOPE_DIRECTORY, pool):
     try:
-        # chunked_file_list = _clean_chunk(_get_chuncked_files(SCOPE_DIRECTORY)) # type: ignore
         chunked_file_list = [_clean_chunk(i) for i in _get_chuncked_files(SCOPE_DIRECTORY)]
         final_dict = {}
-        with Pool(cpu_count()) as p:
-            dicts_list = p.map(_process_chunk,chunked_file_list)
-            for sub_dict in dicts_list:
-                final_dict.update(sub_dict)
-            for key in final_dict.keys():
-                data_base.set_key(key,final_dict.get(key))
-                logger.info(f"Lenght of data base {len(final_dict)}")
-        # return final_dict
+        dicts_list = pool.map(_process_chunk, chunked_file_list)
+        for sub_dict in dicts_list:
+            final_dict.update(sub_dict)
+        for key in final_dict.keys():
+            data_base.set_key(key, final_dict.get(key))
+
+        logger.info(f"Length of database {len(final_dict)}")
+
     except Exception as e:
-        logger.error(f"Error in paralle process : {e}")
+        logger.error(f"Error in parallel process: {e}")
         
 
 # def qued_proccess()->dict: #type:ignore

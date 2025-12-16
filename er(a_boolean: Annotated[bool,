@@ -1,0 +1,1000 @@
+Dec 16 17:29:05 debian singular[48533]:   File "<frozen runpy>", line 112, in _get_module_details
+Dec 16 17:29:05 debian singular[48533]:   File "/home/jvk/singular/singular/__init__.py", line 2, in <module>
+Dec 16 17:29:05 debian singular[48533]:     from .utils import *
+Dec 16 17:29:05 debian singular[48533]:   File "/home/jvk/singular/singular/utils.py", line 9, in <module>
+Dec 16 17:29:05 debian singular[48533]:     config = Config()
+Dec 16 17:29:05 debian singular[48533]:   File "/home/jvk/singular/singular/config.py", line 37, in __init__
+Dec 16 17:29:05 debian singular[48533]:     self._load_config()
+Dec 16 17:29:05 debian singular[48533]:     ~~~~~~~~~~~~~~~~~^^
+Dec 16 17:29:05 debian singular[48533]:   File "/home/jvk/singular/singular/config.py", line 47, in _load_config
+Dec 16 17:29:05 debian singular[48533]:     file = open(self.config_file_path,"r")
+Dec 16 17:29:05 debian singular[48533]: FileNotFoundError: [Errno 2] No such file or directory: '/etc/sigular/singular_config.json'
+Dec 16 17:29:05 debian singular[48544]: Traceback (most recent call last):
+Dec 16 17:29:05 debian singular[48544]:   File "<frozen runpy>", line 189, in _run_module_as_main
+Dec 16 17:29:05 debian singular[48544]:   File "<frozen runpy>", line 148, in _get_module_details
+Dec 16 17:29:05 debian singular[48544]:   File "<frozen runpy>", line 112, in _get_module_details
+Dec 16 17:29:05 debian singular[48544]:   File "/home/jvk/singular/singular/__init__.py", line 2, in <module>
+Dec 16 17:29:05 debian singular[48544]:     from .utils import *
+Dec 16 17:29:05 debian singular[48544]:   File "/home/jvk/singular/singular/utils.py", line 9, in <module>
+Dec 16 17:29:05 debian singular[48544]:     config = Config()
+Dec 16 17:29:05 debian singular[48544]:   File "/home/jvk/singular/singular/config.py", line 37, in __init__
+Dec 16 17:29:05 debian singular[48544]:     self._load_config()
+Dec 16 17:29:05 debian singular[48544]:     ~~~~~~~~~~~~~~~~~^^
+Dec 16 17:29:05 debian singular[48544]:   File "/home/jvk/singular/singular/config.py", line 47, in _load_config
+Dec 16 17:29:05 debian singular[48544]:     file = open(self.config_file_path,"r")
+Dec 16 17:29:05 debian singular[48544]: FileNotFoundError: [Errno 2] No such file or directory: '/etc/sigular/singular_config.json'
+Dec 16 17:29:06 debian singular[48549]: Traceback (most recent call last):
+Dec 16 17:29:06 debian singular[48549]:   File "<frozen runpy>", line 189, in _run_module_as_main
+Dec 16 17:29:06 debian singular[48549]:   File "<frozen runpy>", line 148, in _get_module_details
+Dec 16 17:29:06 debian singular[48549]:   File "<frozen runpy>", line 112, in _get_module_details
+Dec 16 17:29:06 debian singular[48549]:   File "/home/jvk/singular/singular/__init__.py", line 2, in <module>
+Dec 16 17:29:06 debian singular[48549]:     from .utils import *
+Dec 16 17:29:06 debian singular[48549]:   File "/home/jvk/singular/singular/utils.py", line 9, in <module>
+Dec 16 17:29:06 debian singular[48549]:     config = Config()
+Dec 16 17:29:06 debian singular[48549]:   File "/home/jvk/singular/singular/config.py", line 37, in __init__
+Dec 16 17:29:06 debian singular[48549]:     self._load_config()
+Dec 16 17:29:06 debian singular[48549]:     ~~~~~~~~~~~~~~~~~^^
+Dec 16 17:29:06 debian singular[48549]:   File "/home/jvk/singular/singular/config.py", line 47, in _load_config
+Dec 16 17:29:06 debian singular[48549]:     file = open(self.config_file_path,"r")
+Dec 16 17:29:06 debian singular[48549]: FileNotFoundError: [Errno 2] No such file or directory: '/etc/sigular/singular_config.json'
+Dec 16 17:30:58 debian singular[49462]: Traceback (most recent call last):
+Dec 16 17:30:58 debian singular[49462]:   File "<frozen runpy>", line 189, in _run_module_as_main
+Dec 16 17:30:58 debian singular[49462]:   File "<frozen runpy>", line 148, in _get_module_details
+Dec 16 17:30:58 debian singular[49462]:   File "<frozen runpy>", line 112, in _get_module_details
+Dec 16 17:30:58 debian singular[49462]:   File "/home/jvk/singular/singular/__init__.py", line 2, in <module>
+Dec 16 17:30:58 debian singular[49462]:     from .utils import *
+Dec 16 17:30:58 debian singular[49462]:   File "/home/jvk/singular/singular/utils.py", line 9, in <module>
+Dec 16 17:30:58 debian singular[49462]:     config = Config()
+Dec 16 17:30:58 debian singular[49462]:   File "/home/jvk/singular/singular/config.py", line 37, in __init__
+Dec 16 17:30:58 debian singular[49462]:     self._load_config()
+Dec 16 17:30:58 debian singular[49462]:     ~~~~~~~~~~~~~~~~~^^
+Dec 16 17:30:58 debian singular[49462]:   File "/home/jvk/singular/singular/config.py", line 47, in _load_config
+Dec 16 17:30:58 debian singular[49462]:     file = open(self.config_file_path,"r")
+Dec 16 17:30:58 debian singular[49462]: FileNotFoundError: [Errno 2] No such file or directory: '/etc/sigular/singular_config.json'
+Dec 16 17:30:58 debian singular[49467]: Traceback (most recent call last):
+Dec 16 17:30:59 debian singular[49467]:   File "<frozen runpy>", line 189, in _run_module_as_main
+Dec 16 17:30:59 debian singular[49467]:   File "<frozen runpy>", line 148, in _get_module_details
+Dec 16 17:30:59 debian singular[49467]:   File "<frozen runpy>", line 112, in _get_module_details
+Dec 16 17:30:59 debian singular[49467]:   File "/home/jvk/singular/singular/__init__.py", line 2, in <module>
+Dec 16 17:30:59 debian singular[49467]:     from .utils import *
+Dec 16 17:30:59 debian singular[49467]:   File "/home/jvk/singular/singular/utils.py", line 9, in <module>
+Dec 16 17:30:59 debian singular[49467]:     config = Config()
+Dec 16 17:30:59 debian singular[49467]:   File "/home/jvk/singular/singular/config.py", line 37, in __init__
+Dec 16 17:30:59 debian singular[49467]:     self._load_config()
+Dec 16 17:30:59 debian singular[49467]:     ~~~~~~~~~~~~~~~~~^^
+Dec 16 17:30:59 debian singular[49467]:   File "/home/jvk/singular/singular/config.py", line 47, in _load_config
+Dec 16 17:30:59 debian singular[49467]:     file = open(self.config_file_path,"r")
+Dec 16 17:30:59 debian singular[49467]: FileNotFoundError: [Errno 2] No such file or directory: '/etc/sigular/singular_config.json'
+Dec 16 17:30:59 debian singular[49469]: Traceback (most recent call last):
+Dec 16 17:30:59 debian singular[49469]:   File "<frozen runpy>", line 189, in _run_module_as_main
+Dec 16 17:30:59 debian singular[49469]:   File "<frozen runpy>", line 148, in _get_module_details
+Dec 16 17:30:59 debian singular[49469]:   File "<frozen runpy>", line 112, in _get_module_details
+Dec 16 17:30:59 debian singular[49469]:   File "/home/jvk/singular/singular/__init__.py", line 2, in <module>
+Dec 16 17:30:59 debian singular[49469]:     from .utils import *
+Dec 16 17:30:59 debian singular[49469]:   File "/home/jvk/singular/singular/utils.py", line 9, in <module>
+Dec 16 17:30:59 debian singular[49469]:     config = Config()
+Dec 16 17:30:59 debian singular[49469]:   File "/home/jvk/singular/singular/config.py", line 37, in __init__
+Dec 16 17:30:59 debian singular[49469]:     self._load_config()
+Dec 16 17:30:59 debian singular[49469]:     ~~~~~~~~~~~~~~~~~^^
+Dec 16 17:30:59 debian singular[49469]:   File "/home/jvk/singular/singular/config.py", line 47, in _load_config
+Dec 16 17:30:59 debian singular[49469]:     file = open(self.config_file_path,"r")
+Dec 16 17:30:59 debian singular[49469]: FileNotFoundError: [Errno 2] No such file or directory: '/etc/sigular/singular_config.json'
+Dec 16 17:30:59 debian singular[49471]: Traceback (most recent call last):
+Dec 16 17:30:59 debian singular[49471]:   File "<frozen runpy>", line 189, in _run_module_as_main
+Dec 16 17:30:59 debian singular[49471]:   File "<frozen runpy>", line 148, in _get_module_details
+Dec 16 17:30:59 debian singular[49471]:   File "<frozen runpy>", line 112, in _get_module_details
+Dec 16 17:30:59 debian singular[49471]:   File "/home/jvk/singular/singular/__init__.py", line 2, in <module>
+Dec 16 17:30:59 debian singular[49471]:     from .utils import *
+Dec 16 17:30:59 debian singular[49471]:   File "/home/jvk/singular/singular/utils.py", line 9, in <module>
+Dec 16 17:30:59 debian singular[49471]:     config = Config()
+Dec 16 17:30:59 debian singular[49471]:   File "/home/jvk/singular/singular/config.py", line 37, in __init__
+Dec 16 17:30:59 debian singular[49471]:     self._load_config()
+Dec 16 17:30:59 debian singular[49471]:     ~~~~~~~~~~~~~~~~~^^
+Dec 16 17:30:59 debian singular[49471]:   File "/home/jvk/singular/singular/config.py", line 47, in _load_config
+Dec 16 17:30:59 debian singular[49471]:     file = open(self.config_file_path,"r")
+Dec 16 17:30:59 debian singular[49471]: FileNotFoundError: [Errno 2] No such file or directory: '/etc/sigular/singular_config.json'
+Dec 16 17:30:59 debian singular[49473]: Traceback (most recent call last):
+Dec 16 17:30:59 debian singular[49473]:   File "<frozen runpy>", line 189, in _run_module_as_main
+Dec 16 17:30:59 debian singular[49473]:   File "<frozen runpy>", line 148, in _get_module_details
+Dec 16 17:30:59 debian singular[49473]:   File "<frozen runpy>", line 112, in _get_module_details
+Dec 16 17:30:59 debian singular[49473]:   File "/home/jvk/singular/singular/__init__.py", line 2, in <module>
+Dec 16 17:30:59 debian singular[49473]:     from .utils import *
+Dec 16 17:30:59 debian singular[49473]:   File "/home/jvk/singular/singular/utils.py", line 9, in <module>
+Dec 16 17:30:59 debian singular[49473]:     config = Config()
+Dec 16 17:30:59 debian singular[49473]:   File "/home/jvk/singular/singular/config.py", line 37, in __init__
+Dec 16 17:30:59 debian singular[49473]:     self._load_config()
+Dec 16 17:30:59 debian singular[49473]:     ~~~~~~~~~~~~~~~~~^^
+Dec 16 17:30:59 debian singular[49473]:   File "/home/jvk/singular/singular/config.py", line 47, in _load_config
+Dec 16 17:30:59 debian singular[49473]:     file = open(self.config_file_path,"r")
+Dec 16 17:30:59 debian singular[49473]: FileNotFoundError: [Errno 2] No such file or directory: '/etc/sigular/singular_config.json'
+Dec 16 17:32:35 debian singular[50272]: Traceback (most recent call last):
+Dec 16 17:32:35 debian singular[50272]:   File "<frozen runpy>", line 189, in _run_module_as_main
+Dec 16 17:32:35 debian singular[50272]:   File "<frozen runpy>", line 148, in _get_module_details
+Dec 16 17:32:35 debian singular[50272]:   File "<frozen runpy>", line 112, in _get_module_details
+Dec 16 17:32:35 debian singular[50272]:   File "/home/jvk/singular/singular/__init__.py", line 5, in <module>
+Dec 16 17:32:35 debian singular[50272]:     from .data_base_manager import *
+Dec 16 17:32:35 debian singular[50272]:   File "/home/jvk/singular/singular/data_base_manager.py", line 7, in <module>
+Dec 16 17:32:35 debian singular[50272]:     logger = Logger()
+Dec 16 17:32:35 debian singular[50272]:   File "/home/jvk/singular/singular/logger.py", line 8, in __init__
+Dec 16 17:32:35 debian singular[50272]:     logging.basicConfig(filename=config.get["LOG_FILE"])
+Dec 16 17:32:35 debian singular[50272]:     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Dec 16 17:32:35 debian singular[50272]:   File "/usr/lib/python3.13/logging/__init__.py", line 2100, in basicConfig
+Dec 16 17:32:35 debian singular[50272]:     h = FileHandler(filename, mode,
+Dec 16 17:32:35 debian singular[50272]:                     encoding=encoding, errors=errors)
+Dec 16 17:32:35 debian singular[50272]:   File "/usr/lib/python3.13/logging/__init__.py", line 1219, in __init__
+Dec 16 17:32:35 debian singular[50272]:     StreamHandler.__init__(self, self._open())
+Dec 16 17:32:35 debian singular[50272]:                                  ~~~~~~~~~~^^
+Dec 16 17:32:35 debian singular[50272]:   File "/usr/lib/python3.13/logging/__init__.py", line 1248, in _open
+Dec 16 17:32:35 debian singular[50272]:     return open_func(self.baseFilename, self.mode,
+Dec 16 17:32:35 debian singular[50272]:                      encoding=self.encoding, errors=self.errors)
+Dec 16 17:32:35 debian singular[50272]: IsADirectoryError: [Errno 21] Is a directory: '/var/log/singular'
+Dec 16 17:32:36 debian singular[50284]: Traceback (most recent call last):
+Dec 16 17:32:36 debian singular[50284]:   File "<frozen runpy>", line 189, in _run_module_as_main
+Dec 16 17:32:36 debian singular[50284]:   File "<frozen runpy>", line 148, in _get_module_details
+Dec 16 17:32:36 debian singular[50284]:   File "<frozen runpy>", line 112, in _get_module_details
+Dec 16 17:32:36 debian singular[50284]:   File "/home/jvk/singular/singular/__init__.py", line 5, in <module>
+Dec 16 17:32:36 debian singular[50284]:     from .data_base_manager import *
+Dec 16 17:32:36 debian singular[50284]:   File "/home/jvk/singular/singular/data_base_manager.py", line 7, in <module>
+Dec 16 17:32:36 debian singular[50284]:     logger = Logger()
+Dec 16 17:32:36 debian singular[50284]:   File "/home/jvk/singular/singular/logger.py", line 8, in __init__
+Dec 16 17:32:36 debian singular[50284]:     logging.basicConfig(filename=config.get["LOG_FILE"])
+Dec 16 17:32:36 debian singular[50284]:     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Dec 16 17:32:36 debian singular[50284]:   File "/usr/lib/python3.13/logging/__init__.py", line 2100, in basicConfig
+Dec 16 17:32:36 debian singular[50284]:     h = FileHandler(filename, mode,
+Dec 16 17:32:36 debian singular[50284]:                     encoding=encoding, errors=errors)
+Dec 16 17:32:36 debian singular[50284]:   File "/usr/lib/python3.13/logging/__init__.py", line 1219, in __init__
+Dec 16 17:32:36 debian singular[50284]:     StreamHandler.__init__(self, self._open())
+Dec 16 17:32:36 debian singular[50284]:                                  ~~~~~~~~~~^^
+Dec 16 17:32:36 debian singular[50284]:   File "/usr/lib/python3.13/logging/__init__.py", line 1248, in _open
+Dec 16 17:32:36 debian singular[50284]:     return open_func(self.baseFilename, self.mode,
+Dec 16 17:32:36 debian singular[50284]:                      encoding=self.encoding, errors=self.errors)
+Dec 16 17:32:36 debian singular[50284]: IsADirectoryError: [Errno 21] Is a directory: '/var/log/singular'
+Dec 16 17:32:36 debian singular[50288]: Traceback (most recent call last):
+Dec 16 17:32:36 debian singular[50288]:   File "<frozen runpy>", line 189, in _run_module_as_main
+Dec 16 17:32:36 debian singular[50288]:   File "<frozen runpy>", line 148, in _get_module_details
+Dec 16 17:32:36 debian singular[50288]:   File "<frozen runpy>", line 112, in _get_module_details
+Dec 16 17:32:36 debian singular[50288]:   File "/home/jvk/singular/singular/__init__.py", line 5, in <module>
+Dec 16 17:32:36 debian singular[50288]:     from .data_base_manager import *
+Dec 16 17:32:36 debian singular[50288]:   File "/home/jvk/singular/singular/data_base_manager.py", line 7, in <module>
+Dec 16 17:32:36 debian singular[50288]:     logger = Logger()
+Dec 16 17:32:36 debian singular[50288]:   File "/home/jvk/singular/singular/logger.py", line 8, in __init__
+Dec 16 17:32:36 debian singular[50288]:     logging.basicConfig(filename=config.get["LOG_FILE"])
+Dec 16 17:32:36 debian singular[50288]:     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Dec 16 17:32:36 debian singular[50288]:   File "/usr/lib/python3.13/logging/__init__.py", line 2100, in basicConfig
+Dec 16 17:32:36 debian singular[50288]:     h = FileHandler(filename, mode,
+Dec 16 17:32:36 debian singular[50288]:                     encoding=encoding, errors=errors)
+Dec 16 17:32:36 debian singular[50288]:   File "/usr/lib/python3.13/logging/__init__.py", line 1219, in __init__
+Dec 16 17:32:36 debian singular[50288]:     StreamHandler.__init__(self, self._open())
+Dec 16 17:32:36 debian singular[50288]:                                  ~~~~~~~~~~^^
+Dec 16 17:32:36 debian singular[50288]:   File "/usr/lib/python3.13/logging/__init__.py", line 1248, in _open
+Dec 16 17:32:36 debian singular[50288]:     return open_func(self.baseFilename, self.mode,
+Dec 16 17:32:36 debian singular[50288]:                      encoding=self.encoding, errors=self.errors)
+Dec 16 17:32:36 debian singular[50288]: IsADirectoryError: [Errno 21] Is a directory: '/var/log/singular'
+Dec 16 17:32:36 debian singular[50297]: Traceback (most recent call last):
+Dec 16 17:32:36 debian singular[50297]:   File "<frozen runpy>", line 189, in _run_module_as_main
+Dec 16 17:32:36 debian singular[50297]:   File "<frozen runpy>", line 148, in _get_module_details
+Dec 16 17:32:36 debian singular[50297]:   File "<frozen runpy>", line 112, in _get_module_details
+Dec 16 17:32:36 debian singular[50297]:   File "/home/jvk/singular/singular/__init__.py", line 5, in <module>
+Dec 16 17:32:36 debian singular[50297]:     from .data_base_manager import *
+Dec 16 17:32:36 debian singular[50297]:   File "/home/jvk/singular/singular/data_base_manager.py", line 7, in <module>
+Dec 16 17:32:36 debian singular[50297]:     logger = Logger()
+Dec 16 17:32:36 debian singular[50297]:   File "/home/jvk/singular/singular/logger.py", line 8, in __init__
+Dec 16 17:32:36 debian singular[50297]:     logging.basicConfig(filename=config.get["LOG_FILE"])
+Dec 16 17:32:36 debian singular[50297]:     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Dec 16 17:32:36 debian singular[50297]:   File "/usr/lib/python3.13/logging/__init__.py", line 2100, in basicConfig
+Dec 16 17:32:36 debian singular[50297]:     h = FileHandler(filename, mode,
+Dec 16 17:32:36 debian singular[50297]:                     encoding=encoding, errors=errors)
+Dec 16 17:32:36 debian singular[50297]:   File "/usr/lib/python3.13/logging/__init__.py", line 1219, in __init__
+Dec 16 17:32:36 debian singular[50297]:     StreamHandler.__init__(self, self._open())
+Dec 16 17:32:36 debian singular[50297]:                                  ~~~~~~~~~~^^
+Dec 16 17:32:36 debian singular[50297]:   File "/usr/lib/python3.13/logging/__init__.py", line 1248, in _open
+Dec 16 17:32:36 debian singular[50297]:     return open_func(self.baseFilename, self.mode,
+Dec 16 17:32:36 debian singular[50297]:                      encoding=self.encoding, errors=self.errors)
+Dec 16 17:32:36 debian singular[50297]: IsADirectoryError: [Errno 21] Is a directory: '/var/log/singular'
+Dec 16 17:32:37 debian singular[50299]: Traceback (most recent call last):
+Dec 16 17:32:37 debian singular[50299]:   File "<frozen runpy>", line 189, in _run_module_as_main
+Dec 16 17:32:37 debian singular[50299]:   File "<frozen runpy>", line 148, in _get_module_details
+Dec 16 17:32:37 debian singular[50299]:   File "<frozen runpy>", line 112, in _get_module_details
+Dec 16 17:32:37 debian singular[50299]:   File "/home/jvk/singular/singular/__init__.py", line 5, in <module>
+Dec 16 17:32:37 debian singular[50299]:     from .data_base_manager import *
+Dec 16 17:32:37 debian singular[50299]:   File "/home/jvk/singular/singular/data_base_manager.py", line 7, in <module>
+Dec 16 17:32:37 debian singular[50299]:     logger = Logger()
+Dec 16 17:32:37 debian singular[50299]:   File "/home/jvk/singular/singular/logger.py", line 8, in __init__
+Dec 16 17:32:37 debian singular[50299]:     logging.basicConfig(filename=config.get["LOG_FILE"])
+Dec 16 17:32:37 debian singular[50299]:     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Dec 16 17:32:37 debian singular[50299]:   File "/usr/lib/python3.13/logging/__init__.py", line 2100, in basicConfig
+Dec 16 17:32:37 debian singular[50299]:     h = FileHandler(filename, mode,
+Dec 16 17:32:37 debian singular[50299]:                     encoding=encoding, errors=errors)
+Dec 16 17:32:37 debian singular[50299]:   File "/usr/lib/python3.13/logging/__init__.py", line 1219, in __init__
+Dec 16 17:32:37 debian singular[50299]:     StreamHandler.__init__(self, self._open())
+Dec 16 17:32:37 debian singular[50299]:                                  ~~~~~~~~~~^^
+Dec 16 17:32:37 debian singular[50299]:   File "/usr/lib/python3.13/logging/__init__.py", line 1248, in _open
+Dec 16 17:32:37 debian singular[50299]:     return open_func(self.baseFilename, self.mode,
+Dec 16 17:32:37 debian singular[50299]:                      encoding=self.encoding, errors=self.errors)
+Dec 16 17:32:37 debian singular[50299]: IsADirectoryError: [Errno 21] Is a directory: '/var/log/singular'
+Dec 16 17:34:07 debian singular[50996]: 2025-12-16 17:34:07,892 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:34:07 debian singular[50996]: 2025-12-16 17:34:07,892 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:34:07 debian singular[50996]: 2025-12-16 17:34:07,893 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:34:07 debian singular[50996]: 2025-12-16 17:34:07,893 - singular.logger - INFO - Data base loaded
+Dec 16 17:34:08 debian singular[50996]: 2025-12-16 17:34:08,105 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:34:08 debian singular[50996]: 2025-12-16 17:34:08,105 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:34:08 debian singular[50996]: 2025-12-16 17:34:08,106 - singular.logger - INFO - Data base loaded
+Dec 16 17:34:08 debian singular[50996]: Traceback (most recent call last):
+Dec 16 17:34:08 debian singular[50996]:   File "<frozen runpy>", line 198, in _run_module_as_main
+Dec 16 17:34:08 debian singular[50996]:   File "<frozen runpy>", line 88, in _run_code
+Dec 16 17:34:08 debian singular[50996]:   File "/home/jvk/singular/singular/__main__.py", line 41, in <module>
+Dec 16 17:34:08 debian singular[50996]:     set: Annotated[list[str], typer.Option("--set", "-s", help=set_opt_help, multiple=True)], #type:ignore
+Dec 16 17:34:08 debian singular[50996]:                               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Dec 16 17:34:08 debian singular[50996]: TypeError: Option() got an unexpected keyword argument 'multiple'
+Dec 16 17:34:08 debian singular[51009]: 2025-12-16 17:34:08,520 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:34:08 debian singular[51009]: 2025-12-16 17:34:08,520 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:34:08 debian singular[51009]: 2025-12-16 17:34:08,520 - singular.logger - INFO - Data base loaded
+Dec 16 17:34:08 debian singular[51009]: 2025-12-16 17:34:08,541 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:34:08 debian singular[51009]: 2025-12-16 17:34:08,542 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:34:08 debian singular[51009]: 2025-12-16 17:34:08,542 - singular.logger - INFO - Data base loaded
+Dec 16 17:34:08 debian singular[51009]: Traceback (most recent call last):
+Dec 16 17:34:08 debian singular[51009]:   File "<frozen runpy>", line 198, in _run_module_as_main
+Dec 16 17:34:08 debian singular[51009]:   File "<frozen runpy>", line 88, in _run_code
+Dec 16 17:34:08 debian singular[51009]:   File "/home/jvk/singular/singular/__main__.py", line 41, in <module>
+Dec 16 17:34:08 debian singular[51009]:     set: Annotated[list[str], typer.Option("--set", "-s", help=set_opt_help, multiple=True)], #type:ignore
+Dec 16 17:34:08 debian singular[51009]:                               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Dec 16 17:34:08 debian singular[51009]: TypeError: Option() got an unexpected keyword argument 'multiple'
+Dec 16 17:34:09 debian singular[51012]: 2025-12-16 17:34:09,014 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:34:09 debian singular[51012]: 2025-12-16 17:34:09,015 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:34:09 debian singular[51012]: 2025-12-16 17:34:09,015 - singular.logger - INFO - Data base loaded
+Dec 16 17:34:09 debian singular[51012]: 2025-12-16 17:34:09,050 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:34:09 debian singular[51012]: 2025-12-16 17:34:09,050 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:34:09 debian singular[51012]: 2025-12-16 17:34:09,050 - singular.logger - INFO - Data base loaded
+Dec 16 17:34:09 debian singular[51012]: Traceback (most recent call last):
+Dec 16 17:34:09 debian singular[51012]:   File "<frozen runpy>", line 198, in _run_module_as_main
+Dec 16 17:34:09 debian singular[51012]:   File "<frozen runpy>", line 88, in _run_code
+Dec 16 17:34:09 debian singular[51012]:   File "/home/jvk/singular/singular/__main__.py", line 41, in <module>
+Dec 16 17:34:09 debian singular[51012]:     set: Annotated[list[str], typer.Option("--set", "-s", help=set_opt_help, multiple=True)], #type:ignore
+Dec 16 17:34:09 debian singular[51012]:                               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Dec 16 17:34:09 debian singular[51012]: TypeError: Option() got an unexpected keyword argument 'multiple'
+Dec 16 17:34:09 debian singular[51023]: 2025-12-16 17:34:09,513 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:34:09 debian singular[51023]: 2025-12-16 17:34:09,513 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:34:09 debian singular[51023]: 2025-12-16 17:34:09,513 - singular.logger - INFO - Data base loaded
+Dec 16 17:34:09 debian singular[51023]: 2025-12-16 17:34:09,534 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:34:09 debian singular[51023]: 2025-12-16 17:34:09,535 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:34:09 debian singular[51023]: 2025-12-16 17:34:09,535 - singular.logger - INFO - Data base loaded
+Dec 16 17:34:09 debian singular[51023]: Traceback (most recent call last):
+Dec 16 17:34:09 debian singular[51023]:   File "<frozen runpy>", line 198, in _run_module_as_main
+Dec 16 17:34:09 debian singular[51023]:   File "<frozen runpy>", line 88, in _run_code
+Dec 16 17:34:09 debian singular[51023]:   File "/home/jvk/singular/singular/__main__.py", line 41, in <module>
+Dec 16 17:34:09 debian singular[51023]:     set: Annotated[list[str], typer.Option("--set", "-s", help=set_opt_help, multiple=True)], #type:ignore
+Dec 16 17:34:09 debian singular[51023]:                               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Dec 16 17:34:09 debian singular[51023]: TypeError: Option() got an unexpected keyword argument 'multiple'
+Dec 16 17:34:10 debian singular[51025]: 2025-12-16 17:34:10,004 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:34:10 debian singular[51025]: 2025-12-16 17:34:10,004 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:34:10 debian singular[51025]: 2025-12-16 17:34:10,005 - singular.logger - INFO - Data base loaded
+Dec 16 17:34:10 debian singular[51025]: 2025-12-16 17:34:10,028 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:34:10 debian singular[51025]: 2025-12-16 17:34:10,028 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:34:10 debian singular[51025]: 2025-12-16 17:34:10,029 - singular.logger - INFO - Data base loaded
+Dec 16 17:34:10 debian singular[51025]: Traceback (most recent call last):
+Dec 16 17:34:10 debian singular[51025]:   File "<frozen runpy>", line 198, in _run_module_as_main
+Dec 16 17:34:10 debian singular[51025]:   File "<frozen runpy>", line 88, in _run_code
+Dec 16 17:34:10 debian singular[51025]:   File "/home/jvk/singular/singular/__main__.py", line 41, in <module>
+Dec 16 17:34:10 debian singular[51025]:     set: Annotated[list[str], typer.Option("--set", "-s", help=set_opt_help, multiple=True)], #type:ignore
+Dec 16 17:34:10 debian singular[51025]:                               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Dec 16 17:34:10 debian singular[51025]: TypeError: Option() got an unexpected keyword argument 'multiple'
+Dec 16 17:37:13 debian singular[51793]: 2025-12-16 17:37:13,836 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:37:13 debian singular[51793]: 2025-12-16 17:37:13,836 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:37:13 debian singular[51793]: 2025-12-16 17:37:13,837 - singular.logger - INFO - Data base loaded
+Dec 16 17:37:13 debian singular[51793]: 2025-12-16 17:37:13,859 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:37:13 debian singular[51793]: 2025-12-16 17:37:13,859 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:37:13 debian singular[51793]: 2025-12-16 17:37:13,859 - singular.logger - INFO - Data base loaded
+Dec 16 17:37:14 debian singular[51793]: ╭───────────────────── Traceback (most recent call last) ──────────────────────╮
+Dec 16 17:37:14 debian singular[51793]: │ in _run_module_as_main:198                                                   │
+Dec 16 17:37:14 debian singular[51793]: │ ╭───────────────────────────────── locals ─────────────────────────────────╮ │
+Dec 16 17:37:14 debian singular[51793]: │ │   alter_argv = True                                                      │ │
+Dec 16 17:37:14 debian singular[51793]: │ │         code = <code object <module> at 0xdcce8b0, file                  │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                "/home/jvk/singular/singular/__main__.py", line 1>        │ │
+Dec 16 17:37:14 debian singular[51793]: │ │ main_globals = {                                                         │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__name__': '__main__',                               │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__doc__': None,                                      │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__package__': 'singular',                            │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__loader__':                                         │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                <_frozen_importlib_external.SourceFileLoader object at    │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                0x7f790ab6a5d0>,                                          │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__spec__': ModuleSpec(name='singular.__main__',      │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                object at 0x7f790ab6a5d0>,                                │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                origin='/home/jvk/singular/singular/__main__.py'),        │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__annotations__': {},                                │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__builtins__': <module 'builtins' (built-in)>,       │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__file__':                                           │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                '/home/jvk/singular/singular/__main__.py',                │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__cached__':                                         │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                '/home/jvk/singular/singular/__pycache__/__main__.cpytho… │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   'time': <module 'time' (built-in)>,                   │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   ... +22                                               │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                }                                                         │ │
+Dec 16 17:37:14 debian singular[51793]: │ │     mod_name = 'singular.__main__'                                       │ │
+Dec 16 17:37:14 debian singular[51793]: │ │     mod_spec = ModuleSpec(name='singular.__main__',                      │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                object at 0x7f790ab6a5d0>,                                │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                origin='/home/jvk/singular/singular/__main__.py')         │ │
+Dec 16 17:37:14 debian singular[51793]: │ ╰──────────────────────────────────────────────────────────────────────────╯ │
+Dec 16 17:37:14 debian singular[51793]: │ in _run_code:88                                                              │
+Dec 16 17:37:14 debian singular[51793]: │ ╭───────────────────────────────── locals ─────────────────────────────────╮ │
+Dec 16 17:37:14 debian singular[51793]: │ │       cached = '/home/jvk/singular/singular/__pycache__/__main__.cpytho… │ │
+Dec 16 17:37:14 debian singular[51793]: │ │         code = <code object <module> at 0xdcce8b0, file                  │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                "/home/jvk/singular/singular/__main__.py", line 1>        │ │
+Dec 16 17:37:14 debian singular[51793]: │ │        fname = '/home/jvk/singular/singular/__main__.py'                 │ │
+Dec 16 17:37:14 debian singular[51793]: │ │ init_globals = None                                                      │ │
+Dec 16 17:37:14 debian singular[51793]: │ │       loader = <_frozen_importlib_external.SourceFileLoader object at    │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                0x7f790ab6a5d0>                                           │ │
+Dec 16 17:37:14 debian singular[51793]: │ │     mod_name = '__main__'                                                │ │
+Dec 16 17:37:14 debian singular[51793]: │ │     mod_spec = ModuleSpec(name='singular.__main__',                      │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                object at 0x7f790ab6a5d0>,                                │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                origin='/home/jvk/singular/singular/__main__.py')         │ │
+Dec 16 17:37:14 debian singular[51793]: │ │     pkg_name = 'singular'                                                │ │
+Dec 16 17:37:14 debian singular[51793]: │ │  run_globals = {                                                         │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__name__': '__main__',                               │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__doc__': None,                                      │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__package__': 'singular',                            │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__loader__':                                         │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                <_frozen_importlib_external.SourceFileLoader object at    │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                0x7f790ab6a5d0>,                                          │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__spec__': ModuleSpec(name='singular.__main__',      │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                object at 0x7f790ab6a5d0>,                                │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                origin='/home/jvk/singular/singular/__main__.py'),        │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__annotations__': {},                                │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__builtins__': <module 'builtins' (built-in)>,       │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__file__':                                           │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                '/home/jvk/singular/singular/__main__.py',                │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   '__cached__':                                         │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                '/home/jvk/singular/singular/__pycache__/__main__.cpytho… │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   'time': <module 'time' (built-in)>,                   │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                │   ... +22                                               │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                }                                                         │ │
+Dec 16 17:37:14 debian singular[51793]: │ │  script_name = None                                                      │ │
+Dec 16 17:37:14 debian singular[51793]: │ ╰──────────────────────────────────────────────────────────────────────────╯ │
+Dec 16 17:37:14 debian singular[51793]: │                                                                              │
+Dec 16 17:37:14 debian singular[51793]: │ /home/jvk/singular/singular/__main__.py:77 in <module>                       │
+Dec 16 17:37:14 debian singular[51793]: │                                                                              │
+Dec 16 17:37:14 debian singular[51793]: │   74 │   │   time.sleep(60)                                                  │
+Dec 16 17:37:14 debian singular[51793]: │   75                                                                         │
+Dec 16 17:37:14 debian singular[51793]: │   76 if __name__ == "__main__":                                              │
+Dec 16 17:37:14 debian singular[51793]: │ ❱ 77 │   app()                                                               │
+Dec 16 17:37:14 debian singular[51793]: │   78                                                                         │
+Dec 16 17:37:14 debian singular[51793]: │                                                                              │
+Dec 16 17:37:14 debian singular[51793]: │ ╭───────────────────────────────── locals ─────────────────────────────────╮ │
+Dec 16 17:37:14 debian singular[51793]: │ │          analyser = <singular.analysis.Analyzer object at                │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                     0x7f7909bf56a0>                                      │ │
+Dec 16 17:37:14 debian singular[51793]: │ │ analysis_cmd_help = 'Analyze the genrated data base'                     │ │
+Dec 16 17:37:14 debian singular[51793]: │ │         Annotated = typing.Annotated                                     │ │
+Dec 16 17:37:14 debian singular[51793]: │ │               app = <typer.main.Typer object at 0x7f7909bf57f0>          │ │
+Dec 16 17:37:14 debian singular[51793]: │ │      config_class = <singular.config.Config object at 0x7f7909bede00>    │ │
+Dec 16 17:37:14 debian singular[51793]: │ │   config_cmd_help = 'Handel configurations of singular. Check            │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                     https://github.com/HostServer001/singul'+37          │ │
+Dec 16 17:37:14 debian singular[51793]: │ │   daemon_cmd_help = "This commands starts a scanning loop. Don't use     │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                     this command manually look at in"+96                 │ │
+Dec 16 17:37:14 debian singular[51793]: │ │  default_opt_help = 'Changes configurations to default values'           │ │
+Dec 16 17:37:14 debian singular[51793]: │ │           Literal = typing.Literal                                       │ │
+Dec 16 17:37:14 debian singular[51793]: │ │            logger = <singular.logger.Logger object at 0x7f7909bed940>    │ │
+Dec 16 17:37:14 debian singular[51793]: │ │   SCOPE_DIRECTORY = PosixPath('/home/jvk')                               │ │
+Dec 16 17:37:14 debian singular[51793]: │ │      set_opt_help = 'Chages the configurations. Check                    │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                     https://github.com/HostServer001/singular/CONFI'+29  │ │
+Dec 16 17:37:14 debian singular[51793]: │ │              time = <module 'time' (built-in)>                           │ │
+Dec 16 17:37:14 debian singular[51793]: │ │             typer = <module 'typer' from                                 │ │
+Dec 16 17:37:14 debian singular[51793]: │ │                     '/home/jvk/pro_py/lib/python3.13/site-packages/type… │ │
+Dec 16 17:37:14 debian singular[51793]: │ ╰──────────────────────────────────────────────────────────────────────────╯ │
+Dec 16 17:37:14 debian singular[51793]: │                                                                              │
+Dec 16 17:37:14 debian singular[51793]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:327 in __call__  │
+Dec 16 17:37:14 debian singular[51793]: │                                                                              │
+Dec 16 17:37:14 debian singular[51793]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:310 in __call__  │
+Dec 16 17:37:14 debian singular[51793]: │                                                                              │
+Dec 16 17:37:14 debian singular[51793]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:350 in           │
+Dec 16 17:37:14 debian singular[51793]: │ get_command                                                                  │
+Dec 16 17:37:14 debian singular[51793]: │                                                                              │
+Dec 16 17:37:14 debian singular[51793]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:331 in get_group │
+Dec 16 17:37:14 debian singular[51793]: │                                                                              │
+Dec 16 17:37:14 debian singular[51793]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:470 in           │
+Dec 16 17:37:14 debian singular[51793]: │ get_group_from_info                                                          │
+Dec 16 17:37:14 debian singular[51793]: │                                                                              │
+Dec 16 17:37:14 debian singular[51793]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:576 in           │
+Dec 16 17:37:14 debian singular[51793]: │ get_command_from_info                                                        │
+Dec 16 17:37:14 debian singular[51793]: │                                                                              │
+Dec 16 17:37:14 debian singular[51793]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:552 in           │
+Dec 16 17:37:14 debian singular[51793]: │ get_params_convertors_ctx_param_name_from_function                           │
+Dec 16 17:37:14 debian singular[51793]: │                                                                              │
+Dec 16 17:37:14 debian singular[51793]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:898 in           │
+Dec 16 17:37:14 debian singular[51793]: │ get_click_param                                                              │
+Dec 16 17:37:14 debian singular[51793]: │                                                                              │
+Dec 16 17:37:14 debian singular[51793]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/core.py:450 in __init__  │
+Dec 16 17:37:14 debian singular[51793]: │                                                                              │
+Dec 16 17:37:14 debian singular[51793]: │ /home/jvk/pro_py/lib/python3.13/site-packages/click/core.py:2733 in __init__ │
+Dec 16 17:37:14 debian singular[51793]: │                                                                              │
+Dec 16 17:37:14 debian singular[51793]: │ /home/jvk/pro_py/lib/python3.13/site-packages/click/core.py:2152 in __init__ │
+Dec 16 17:37:14 debian singular[51793]: │                                                                              │
+Dec 16 17:37:14 debian singular[51793]: │ /home/jvk/pro_py/lib/python3.13/site-packages/click/core.py:2900 in          │
+Dec 16 17:37:14 debian singular[51793]: │ _parse_decls                                                                 │
+Dec 16 17:37:14 debian singular[51793]: ╰──────────────────────────────────────────────────────────────────────────────╯
+Dec 16 17:37:14 debian singular[51793]: AttributeError: 'bool' object has no attribute 'isidentifier'
+Dec 16 17:37:14 debian singular[51798]: 2025-12-16 17:37:14,760 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:37:14 debian singular[51798]: 2025-12-16 17:37:14,760 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:37:14 debian singular[51798]: 2025-12-16 17:37:14,760 - singular.logger - INFO - Data base loaded
+Dec 16 17:37:14 debian singular[51798]: 2025-12-16 17:37:14,782 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:37:14 debian singular[51798]: 2025-12-16 17:37:14,782 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:37:14 debian singular[51798]: 2025-12-16 17:37:14,783 - singular.logger - INFO - Data base loaded
+Dec 16 17:37:15 debian singular[51798]: ╭───────────────────── Traceback (most recent call last) ──────────────────────╮
+Dec 16 17:37:15 debian singular[51798]: │ in _run_module_as_main:198                                                   │
+Dec 16 17:37:15 debian singular[51798]: │ ╭───────────────────────────────── locals ─────────────────────────────────╮ │
+Dec 16 17:37:15 debian singular[51798]: │ │   alter_argv = True                                                      │ │
+Dec 16 17:37:15 debian singular[51798]: │ │         code = <code object <module> at 0xb9a5460, file                  │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                "/home/jvk/singular/singular/__main__.py", line 1>        │ │
+Dec 16 17:37:15 debian singular[51798]: │ │ main_globals = {                                                         │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__name__': '__main__',                               │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__doc__': None,                                      │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__package__': 'singular',                            │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__loader__':                                         │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                <_frozen_importlib_external.SourceFileLoader object at    │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                0x7f7e048265d0>,                                          │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__spec__': ModuleSpec(name='singular.__main__',      │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                object at 0x7f7e048265d0>,                                │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                origin='/home/jvk/singular/singular/__main__.py'),        │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__annotations__': {},                                │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__builtins__': <module 'builtins' (built-in)>,       │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__file__':                                           │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                '/home/jvk/singular/singular/__main__.py',                │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__cached__':                                         │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                '/home/jvk/singular/singular/__pycache__/__main__.cpytho… │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   'time': <module 'time' (built-in)>,                   │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   ... +22                                               │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                }                                                         │ │
+Dec 16 17:37:15 debian singular[51798]: │ │     mod_name = 'singular.__main__'                                       │ │
+Dec 16 17:37:15 debian singular[51798]: │ │     mod_spec = ModuleSpec(name='singular.__main__',                      │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                object at 0x7f7e048265d0>,                                │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                origin='/home/jvk/singular/singular/__main__.py')         │ │
+Dec 16 17:37:15 debian singular[51798]: │ ╰──────────────────────────────────────────────────────────────────────────╯ │
+Dec 16 17:37:15 debian singular[51798]: │ in _run_code:88                                                              │
+Dec 16 17:37:15 debian singular[51798]: │ ╭───────────────────────────────── locals ─────────────────────────────────╮ │
+Dec 16 17:37:15 debian singular[51798]: │ │       cached = '/home/jvk/singular/singular/__pycache__/__main__.cpytho… │ │
+Dec 16 17:37:15 debian singular[51798]: │ │         code = <code object <module> at 0xb9a5460, file                  │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                "/home/jvk/singular/singular/__main__.py", line 1>        │ │
+Dec 16 17:37:15 debian singular[51798]: │ │        fname = '/home/jvk/singular/singular/__main__.py'                 │ │
+Dec 16 17:37:15 debian singular[51798]: │ │ init_globals = None                                                      │ │
+Dec 16 17:37:15 debian singular[51798]: │ │       loader = <_frozen_importlib_external.SourceFileLoader object at    │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                0x7f7e048265d0>                                           │ │
+Dec 16 17:37:15 debian singular[51798]: │ │     mod_name = '__main__'                                                │ │
+Dec 16 17:37:15 debian singular[51798]: │ │     mod_spec = ModuleSpec(name='singular.__main__',                      │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                object at 0x7f7e048265d0>,                                │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                origin='/home/jvk/singular/singular/__main__.py')         │ │
+Dec 16 17:37:15 debian singular[51798]: │ │     pkg_name = 'singular'                                                │ │
+Dec 16 17:37:15 debian singular[51798]: │ │  run_globals = {                                                         │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__name__': '__main__',                               │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__doc__': None,                                      │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__package__': 'singular',                            │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__loader__':                                         │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                <_frozen_importlib_external.SourceFileLoader object at    │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                0x7f7e048265d0>,                                          │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__spec__': ModuleSpec(name='singular.__main__',      │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                object at 0x7f7e048265d0>,                                │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                origin='/home/jvk/singular/singular/__main__.py'),        │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__annotations__': {},                                │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__builtins__': <module 'builtins' (built-in)>,       │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__file__':                                           │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                '/home/jvk/singular/singular/__main__.py',                │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   '__cached__':                                         │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                '/home/jvk/singular/singular/__pycache__/__main__.cpytho… │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   'time': <module 'time' (built-in)>,                   │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                │   ... +22                                               │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                }                                                         │ │
+Dec 16 17:37:15 debian singular[51798]: │ │  script_name = None                                                      │ │
+Dec 16 17:37:15 debian singular[51798]: │ ╰──────────────────────────────────────────────────────────────────────────╯ │
+Dec 16 17:37:15 debian singular[51798]: │                                                                              │
+Dec 16 17:37:15 debian singular[51798]: │ /home/jvk/singular/singular/__main__.py:77 in <module>                       │
+Dec 16 17:37:15 debian singular[51798]: │                                                                              │
+Dec 16 17:37:15 debian singular[51798]: │   74 │   │   time.sleep(60)                                                  │
+Dec 16 17:37:15 debian singular[51798]: │   75                                                                         │
+Dec 16 17:37:15 debian singular[51798]: │   76 if __name__ == "__main__":                                              │
+Dec 16 17:37:15 debian singular[51798]: │ ❱ 77 │   app()                                                               │
+Dec 16 17:37:15 debian singular[51798]: │   78                                                                         │
+Dec 16 17:37:15 debian singular[51798]: │                                                                              │
+Dec 16 17:37:15 debian singular[51798]: │ ╭───────────────────────────────── locals ─────────────────────────────────╮ │
+Dec 16 17:37:15 debian singular[51798]: │ │          analyser = <singular.analysis.Analyzer object at                │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                     0x7f7e038d56a0>                                      │ │
+Dec 16 17:37:15 debian singular[51798]: │ │ analysis_cmd_help = 'Analyze the genrated data base'                     │ │
+Dec 16 17:37:15 debian singular[51798]: │ │         Annotated = typing.Annotated                                     │ │
+Dec 16 17:37:15 debian singular[51798]: │ │               app = <typer.main.Typer object at 0x7f7e038d57f0>          │ │
+Dec 16 17:37:15 debian singular[51798]: │ │      config_class = <singular.config.Config object at 0x7f7e038cdcd0>    │ │
+Dec 16 17:37:15 debian singular[51798]: │ │   config_cmd_help = 'Handel configurations of singular. Check            │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                     https://github.com/HostServer001/singul'+37          │ │
+Dec 16 17:37:15 debian singular[51798]: │ │   daemon_cmd_help = "This commands starts a scanning loop. Don't use     │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                     this command manually look at in"+96                 │ │
+Dec 16 17:37:15 debian singular[51798]: │ │  default_opt_help = 'Changes configurations to default values'           │ │
+Dec 16 17:37:15 debian singular[51798]: │ │           Literal = typing.Literal                                       │ │
+Dec 16 17:37:15 debian singular[51798]: │ │            logger = <singular.logger.Logger object at 0x7f7e038cd810>    │ │
+Dec 16 17:37:15 debian singular[51798]: │ │   SCOPE_DIRECTORY = PosixPath('/home/jvk')                               │ │
+Dec 16 17:37:15 debian singular[51798]: │ │      set_opt_help = 'Chages the configurations. Check                    │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                     https://github.com/HostServer001/singular/CONFI'+29  │ │
+Dec 16 17:37:15 debian singular[51798]: │ │              time = <module 'time' (built-in)>                           │ │
+Dec 16 17:37:15 debian singular[51798]: │ │             typer = <module 'typer' from                                 │ │
+Dec 16 17:37:15 debian singular[51798]: │ │                     '/home/jvk/pro_py/lib/python3.13/site-packages/type… │ │
+Dec 16 17:37:15 debian singular[51798]: │ ╰──────────────────────────────────────────────────────────────────────────╯ │
+Dec 16 17:37:15 debian singular[51798]: │                                                                              │
+Dec 16 17:37:15 debian singular[51798]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:327 in __call__  │
+Dec 16 17:37:15 debian singular[51798]: │                                                                              │
+Dec 16 17:37:15 debian singular[51798]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:310 in __call__  │
+Dec 16 17:37:15 debian singular[51798]: │                                                                              │
+Dec 16 17:37:15 debian singular[51798]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:350 in           │
+Dec 16 17:37:15 debian singular[51798]: │ get_command                                                                  │
+Dec 16 17:37:15 debian singular[51798]: │                                                                              │
+Dec 16 17:37:15 debian singular[51798]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:331 in get_group │
+Dec 16 17:37:15 debian singular[51798]: │                                                                              │
+Dec 16 17:37:15 debian singular[51798]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:470 in           │
+Dec 16 17:37:15 debian singular[51798]: │ get_group_from_info                                                          │
+Dec 16 17:37:15 debian singular[51798]: │                                                                              │
+Dec 16 17:37:15 debian singular[51798]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:576 in           │
+Dec 16 17:37:15 debian singular[51798]: │ get_command_from_info                                                        │
+Dec 16 17:37:15 debian singular[51798]: │                                                                              │
+Dec 16 17:37:15 debian singular[51798]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:552 in           │
+Dec 16 17:37:15 debian singular[51798]: │ get_params_convertors_ctx_param_name_from_function                           │
+Dec 16 17:37:15 debian singular[51798]: │                                                                              │
+Dec 16 17:37:15 debian singular[51798]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:898 in           │
+Dec 16 17:37:15 debian singular[51798]: │ get_click_param                                                              │
+Dec 16 17:37:15 debian singular[51798]: │                                                                              │
+Dec 16 17:37:15 debian singular[51798]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/core.py:450 in __init__  │
+Dec 16 17:37:15 debian singular[51798]: │                                                                              │
+Dec 16 17:37:15 debian singular[51798]: │ /home/jvk/pro_py/lib/python3.13/site-packages/click/core.py:2733 in __init__ │
+Dec 16 17:37:15 debian singular[51798]: │                                                                              │
+Dec 16 17:37:15 debian singular[51798]: │ /home/jvk/pro_py/lib/python3.13/site-packages/click/core.py:2152 in __init__ │
+Dec 16 17:37:15 debian singular[51798]: │                                                                              │
+Dec 16 17:37:15 debian singular[51798]: │ /home/jvk/pro_py/lib/python3.13/site-packages/click/core.py:2900 in          │
+Dec 16 17:37:15 debian singular[51798]: │ _parse_decls                                                                 │
+Dec 16 17:37:15 debian singular[51798]: ╰──────────────────────────────────────────────────────────────────────────────╯
+Dec 16 17:37:15 debian singular[51798]: AttributeError: 'bool' object has no attribute 'isidentifier'
+Dec 16 17:37:15 debian singular[51808]: 2025-12-16 17:37:15,551 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:37:15 debian singular[51808]: 2025-12-16 17:37:15,552 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:37:15 debian singular[51808]: 2025-12-16 17:37:15,552 - singular.logger - INFO - Data base loaded
+Dec 16 17:37:15 debian singular[51808]: 2025-12-16 17:37:15,575 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:37:15 debian singular[51808]: 2025-12-16 17:37:15,575 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:37:15 debian singular[51808]: 2025-12-16 17:37:15,575 - singular.logger - INFO - Data base loaded
+Dec 16 17:37:15 debian singular[51808]: ╭───────────────────── Traceback (most recent call last) ──────────────────────╮
+Dec 16 17:37:15 debian singular[51808]: │ in _run_module_as_main:198                                                   │
+Dec 16 17:37:15 debian singular[51808]: │ ╭───────────────────────────────── locals ─────────────────────────────────╮ │
+Dec 16 17:37:15 debian singular[51808]: │ │   alter_argv = True                                                      │ │
+Dec 16 17:37:15 debian singular[51808]: │ │         code = <code object <module> at 0x2708c460, file                 │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                "/home/jvk/singular/singular/__main__.py", line 1>        │ │
+Dec 16 17:37:15 debian singular[51808]: │ │ main_globals = {                                                         │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__name__': '__main__',                               │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__doc__': None,                                      │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__package__': 'singular',                            │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__loader__':                                         │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                <_frozen_importlib_external.SourceFileLoader object at    │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                0x7f4cd1a265d0>,                                          │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__spec__': ModuleSpec(name='singular.__main__',      │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                object at 0x7f4cd1a265d0>,                                │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                origin='/home/jvk/singular/singular/__main__.py'),        │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__annotations__': {},                                │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__builtins__': <module 'builtins' (built-in)>,       │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__file__':                                           │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                '/home/jvk/singular/singular/__main__.py',                │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__cached__':                                         │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                '/home/jvk/singular/singular/__pycache__/__main__.cpytho… │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   'time': <module 'time' (built-in)>,                   │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   ... +22                                               │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                }                                                         │ │
+Dec 16 17:37:15 debian singular[51808]: │ │     mod_name = 'singular.__main__'                                       │ │
+Dec 16 17:37:15 debian singular[51808]: │ │     mod_spec = ModuleSpec(name='singular.__main__',                      │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                object at 0x7f4cd1a265d0>,                                │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                origin='/home/jvk/singular/singular/__main__.py')         │ │
+Dec 16 17:37:15 debian singular[51808]: │ ╰──────────────────────────────────────────────────────────────────────────╯ │
+Dec 16 17:37:15 debian singular[51808]: │ in _run_code:88                                                              │
+Dec 16 17:37:15 debian singular[51808]: │ ╭───────────────────────────────── locals ─────────────────────────────────╮ │
+Dec 16 17:37:15 debian singular[51808]: │ │       cached = '/home/jvk/singular/singular/__pycache__/__main__.cpytho… │ │
+Dec 16 17:37:15 debian singular[51808]: │ │         code = <code object <module> at 0x2708c460, file                 │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                "/home/jvk/singular/singular/__main__.py", line 1>        │ │
+Dec 16 17:37:15 debian singular[51808]: │ │        fname = '/home/jvk/singular/singular/__main__.py'                 │ │
+Dec 16 17:37:15 debian singular[51808]: │ │ init_globals = None                                                      │ │
+Dec 16 17:37:15 debian singular[51808]: │ │       loader = <_frozen_importlib_external.SourceFileLoader object at    │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                0x7f4cd1a265d0>                                           │ │
+Dec 16 17:37:15 debian singular[51808]: │ │     mod_name = '__main__'                                                │ │
+Dec 16 17:37:15 debian singular[51808]: │ │     mod_spec = ModuleSpec(name='singular.__main__',                      │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                object at 0x7f4cd1a265d0>,                                │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                origin='/home/jvk/singular/singular/__main__.py')         │ │
+Dec 16 17:37:15 debian singular[51808]: │ │     pkg_name = 'singular'                                                │ │
+Dec 16 17:37:15 debian singular[51808]: │ │  run_globals = {                                                         │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__name__': '__main__',                               │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__doc__': None,                                      │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__package__': 'singular',                            │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__loader__':                                         │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                <_frozen_importlib_external.SourceFileLoader object at    │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                0x7f4cd1a265d0>,                                          │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__spec__': ModuleSpec(name='singular.__main__',      │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                object at 0x7f4cd1a265d0>,                                │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                origin='/home/jvk/singular/singular/__main__.py'),        │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__annotations__': {},                                │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__builtins__': <module 'builtins' (built-in)>,       │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__file__':                                           │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                '/home/jvk/singular/singular/__main__.py',                │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   '__cached__':                                         │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                '/home/jvk/singular/singular/__pycache__/__main__.cpytho… │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   'time': <module 'time' (built-in)>,                   │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                │   ... +22                                               │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                }                                                         │ │
+Dec 16 17:37:15 debian singular[51808]: │ │  script_name = None                                                      │ │
+Dec 16 17:37:15 debian singular[51808]: │ ╰──────────────────────────────────────────────────────────────────────────╯ │
+Dec 16 17:37:15 debian singular[51808]: │                                                                              │
+Dec 16 17:37:15 debian singular[51808]: │ /home/jvk/singular/singular/__main__.py:77 in <module>                       │
+Dec 16 17:37:15 debian singular[51808]: │                                                                              │
+Dec 16 17:37:15 debian singular[51808]: │   74 │   │   time.sleep(60)                                                  │
+Dec 16 17:37:15 debian singular[51808]: │   75                                                                         │
+Dec 16 17:37:15 debian singular[51808]: │   76 if __name__ == "__main__":                                              │
+Dec 16 17:37:15 debian singular[51808]: │ ❱ 77 │   app()                                                               │
+Dec 16 17:37:15 debian singular[51808]: │   78                                                                         │
+Dec 16 17:37:15 debian singular[51808]: │                                                                              │
+Dec 16 17:37:15 debian singular[51808]: │ ╭───────────────────────────────── locals ─────────────────────────────────╮ │
+Dec 16 17:37:15 debian singular[51808]: │ │          analyser = <singular.analysis.Analyzer object at                │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                     0x7f4cd0ad56a0>                                      │ │
+Dec 16 17:37:15 debian singular[51808]: │ │ analysis_cmd_help = 'Analyze the genrated data base'                     │ │
+Dec 16 17:37:15 debian singular[51808]: │ │         Annotated = typing.Annotated                                     │ │
+Dec 16 17:37:15 debian singular[51808]: │ │               app = <typer.main.Typer object at 0x7f4cd0ad57f0>          │ │
+Dec 16 17:37:15 debian singular[51808]: │ │      config_class = <singular.config.Config object at 0x7f4cd0acdcd0>    │ │
+Dec 16 17:37:15 debian singular[51808]: │ │   config_cmd_help = 'Handel configurations of singular. Check            │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                     https://github.com/HostServer001/singul'+37          │ │
+Dec 16 17:37:15 debian singular[51808]: │ │   daemon_cmd_help = "This commands starts a scanning loop. Don't use     │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                     this command manually look at in"+96                 │ │
+Dec 16 17:37:15 debian singular[51808]: │ │  default_opt_help = 'Changes configurations to default values'           │ │
+Dec 16 17:37:15 debian singular[51808]: │ │           Literal = typing.Literal                                       │ │
+Dec 16 17:37:15 debian singular[51808]: │ │            logger = <singular.logger.Logger object at 0x7f4cd0acd810>    │ │
+Dec 16 17:37:15 debian singular[51808]: │ │   SCOPE_DIRECTORY = PosixPath('/home/jvk')                               │ │
+Dec 16 17:37:15 debian singular[51808]: │ │      set_opt_help = 'Chages the configurations. Check                    │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                     https://github.com/HostServer001/singular/CONFI'+29  │ │
+Dec 16 17:37:15 debian singular[51808]: │ │              time = <module 'time' (built-in)>                           │ │
+Dec 16 17:37:15 debian singular[51808]: │ │             typer = <module 'typer' from                                 │ │
+Dec 16 17:37:15 debian singular[51808]: │ │                     '/home/jvk/pro_py/lib/python3.13/site-packages/type… │ │
+Dec 16 17:37:15 debian singular[51808]: │ ╰──────────────────────────────────────────────────────────────────────────╯ │
+Dec 16 17:37:15 debian singular[51808]: │                                                                              │
+Dec 16 17:37:15 debian singular[51808]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:327 in __call__  │
+Dec 16 17:37:15 debian singular[51808]: │                                                                              │
+Dec 16 17:37:15 debian singular[51808]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:310 in __call__  │
+Dec 16 17:37:15 debian singular[51808]: │                                                                              │
+Dec 16 17:37:15 debian singular[51808]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:350 in           │
+Dec 16 17:37:15 debian singular[51808]: │ get_command                                                                  │
+Dec 16 17:37:15 debian singular[51808]: │                                                                              │
+Dec 16 17:37:15 debian singular[51808]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:331 in get_group │
+Dec 16 17:37:15 debian singular[51808]: │                                                                              │
+Dec 16 17:37:15 debian singular[51808]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:470 in           │
+Dec 16 17:37:15 debian singular[51808]: │ get_group_from_info                                                          │
+Dec 16 17:37:15 debian singular[51808]: │                                                                              │
+Dec 16 17:37:15 debian singular[51808]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:576 in           │
+Dec 16 17:37:15 debian singular[51808]: │ get_command_from_info                                                        │
+Dec 16 17:37:15 debian singular[51808]: │                                                                              │
+Dec 16 17:37:15 debian singular[51808]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:552 in           │
+Dec 16 17:37:15 debian singular[51808]: │ get_params_convertors_ctx_param_name_from_function                           │
+Dec 16 17:37:15 debian singular[51808]: │                                                                              │
+Dec 16 17:37:15 debian singular[51808]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:898 in           │
+Dec 16 17:37:15 debian singular[51808]: │ get_click_param                                                              │
+Dec 16 17:37:15 debian singular[51808]: │                                                                              │
+Dec 16 17:37:15 debian singular[51808]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/core.py:450 in __init__  │
+Dec 16 17:37:15 debian singular[51808]: │                                                                              │
+Dec 16 17:37:15 debian singular[51808]: │ /home/jvk/pro_py/lib/python3.13/site-packages/click/core.py:2733 in __init__ │
+Dec 16 17:37:15 debian singular[51808]: │                                                                              │
+Dec 16 17:37:15 debian singular[51808]: │ /home/jvk/pro_py/lib/python3.13/site-packages/click/core.py:2152 in __init__ │
+Dec 16 17:37:15 debian singular[51808]: │                                                                              │
+Dec 16 17:37:15 debian singular[51808]: │ /home/jvk/pro_py/lib/python3.13/site-packages/click/core.py:2900 in          │
+Dec 16 17:37:15 debian singular[51808]: │ _parse_decls                                                                 │
+Dec 16 17:37:15 debian singular[51808]: ╰──────────────────────────────────────────────────────────────────────────────╯
+Dec 16 17:37:15 debian singular[51808]: AttributeError: 'bool' object has no attribute 'isidentifier'
+Dec 16 17:37:16 debian singular[51810]: 2025-12-16 17:37:16,251 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:37:16 debian singular[51810]: 2025-12-16 17:37:16,251 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:37:16 debian singular[51810]: 2025-12-16 17:37:16,252 - singular.logger - INFO - Data base loaded
+Dec 16 17:37:16 debian singular[51810]: 2025-12-16 17:37:16,272 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:37:16 debian singular[51810]: 2025-12-16 17:37:16,272 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:37:16 debian singular[51810]: 2025-12-16 17:37:16,272 - singular.logger - INFO - Data base loaded
+Dec 16 17:37:16 debian singular[51810]: ╭───────────────────── Traceback (most recent call last) ──────────────────────╮
+Dec 16 17:37:16 debian singular[51810]: │ in _run_module_as_main:198                                                   │
+Dec 16 17:37:16 debian singular[51810]: │ ╭───────────────────────────────── locals ─────────────────────────────────╮ │
+Dec 16 17:37:16 debian singular[51810]: │ │   alter_argv = True                                                      │ │
+Dec 16 17:37:16 debian singular[51810]: │ │         code = <code object <module> at 0x9e2e460, file                  │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                "/home/jvk/singular/singular/__main__.py", line 1>        │ │
+Dec 16 17:37:16 debian singular[51810]: │ │ main_globals = {                                                         │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__name__': '__main__',                               │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__doc__': None,                                      │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__package__': 'singular',                            │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__loader__':                                         │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                <_frozen_importlib_external.SourceFileLoader object at    │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                0x7f06e172a5d0>,                                          │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__spec__': ModuleSpec(name='singular.__main__',      │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                object at 0x7f06e172a5d0>,                                │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                origin='/home/jvk/singular/singular/__main__.py'),        │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__annotations__': {},                                │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__builtins__': <module 'builtins' (built-in)>,       │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__file__':                                           │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                '/home/jvk/singular/singular/__main__.py',                │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__cached__':                                         │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                '/home/jvk/singular/singular/__pycache__/__main__.cpytho… │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   'time': <module 'time' (built-in)>,                   │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   ... +22                                               │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                }                                                         │ │
+Dec 16 17:37:16 debian singular[51810]: │ │     mod_name = 'singular.__main__'                                       │ │
+Dec 16 17:37:16 debian singular[51810]: │ │     mod_spec = ModuleSpec(name='singular.__main__',                      │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                object at 0x7f06e172a5d0>,                                │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                origin='/home/jvk/singular/singular/__main__.py')         │ │
+Dec 16 17:37:16 debian singular[51810]: │ ╰──────────────────────────────────────────────────────────────────────────╯ │
+Dec 16 17:37:16 debian singular[51810]: │ in _run_code:88                                                              │
+Dec 16 17:37:16 debian singular[51810]: │ ╭───────────────────────────────── locals ─────────────────────────────────╮ │
+Dec 16 17:37:16 debian singular[51810]: │ │       cached = '/home/jvk/singular/singular/__pycache__/__main__.cpytho… │ │
+Dec 16 17:37:16 debian singular[51810]: │ │         code = <code object <module> at 0x9e2e460, file                  │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                "/home/jvk/singular/singular/__main__.py", line 1>        │ │
+Dec 16 17:37:16 debian singular[51810]: │ │        fname = '/home/jvk/singular/singular/__main__.py'                 │ │
+Dec 16 17:37:16 debian singular[51810]: │ │ init_globals = None                                                      │ │
+Dec 16 17:37:16 debian singular[51810]: │ │       loader = <_frozen_importlib_external.SourceFileLoader object at    │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                0x7f06e172a5d0>                                           │ │
+Dec 16 17:37:16 debian singular[51810]: │ │     mod_name = '__main__'                                                │ │
+Dec 16 17:37:16 debian singular[51810]: │ │     mod_spec = ModuleSpec(name='singular.__main__',                      │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                object at 0x7f06e172a5d0>,                                │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                origin='/home/jvk/singular/singular/__main__.py')         │ │
+Dec 16 17:37:16 debian singular[51810]: │ │     pkg_name = 'singular'                                                │ │
+Dec 16 17:37:16 debian singular[51810]: │ │  run_globals = {                                                         │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__name__': '__main__',                               │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__doc__': None,                                      │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__package__': 'singular',                            │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__loader__':                                         │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                <_frozen_importlib_external.SourceFileLoader object at    │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                0x7f06e172a5d0>,                                          │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__spec__': ModuleSpec(name='singular.__main__',      │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                object at 0x7f06e172a5d0>,                                │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                origin='/home/jvk/singular/singular/__main__.py'),        │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__annotations__': {},                                │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__builtins__': <module 'builtins' (built-in)>,       │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__file__':                                           │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                '/home/jvk/singular/singular/__main__.py',                │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   '__cached__':                                         │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                '/home/jvk/singular/singular/__pycache__/__main__.cpytho… │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   'time': <module 'time' (built-in)>,                   │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                │   ... +22                                               │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                }                                                         │ │
+Dec 16 17:37:16 debian singular[51810]: │ │  script_name = None                                                      │ │
+Dec 16 17:37:16 debian singular[51810]: │ ╰──────────────────────────────────────────────────────────────────────────╯ │
+Dec 16 17:37:16 debian singular[51810]: │                                                                              │
+Dec 16 17:37:16 debian singular[51810]: │ /home/jvk/singular/singular/__main__.py:77 in <module>                       │
+Dec 16 17:37:16 debian singular[51810]: │                                                                              │
+Dec 16 17:37:16 debian singular[51810]: │   74 │   │   time.sleep(60)                                                  │
+Dec 16 17:37:16 debian singular[51810]: │   75                                                                         │
+Dec 16 17:37:16 debian singular[51810]: │   76 if __name__ == "__main__":                                              │
+Dec 16 17:37:16 debian singular[51810]: │ ❱ 77 │   app()                                                               │
+Dec 16 17:37:16 debian singular[51810]: │   78                                                                         │
+Dec 16 17:37:16 debian singular[51810]: │                                                                              │
+Dec 16 17:37:16 debian singular[51810]: │ ╭───────────────────────────────── locals ─────────────────────────────────╮ │
+Dec 16 17:37:16 debian singular[51810]: │ │          analyser = <singular.analysis.Analyzer object at                │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                     0x7f06e07c16a0>                                      │ │
+Dec 16 17:37:16 debian singular[51810]: │ │ analysis_cmd_help = 'Analyze the genrated data base'                     │ │
+Dec 16 17:37:16 debian singular[51810]: │ │         Annotated = typing.Annotated                                     │ │
+Dec 16 17:37:16 debian singular[51810]: │ │               app = <typer.main.Typer object at 0x7f06e07c17f0>          │ │
+Dec 16 17:37:16 debian singular[51810]: │ │      config_class = <singular.config.Config object at 0x7f06e07b9cd0>    │ │
+Dec 16 17:37:16 debian singular[51810]: │ │   config_cmd_help = 'Handel configurations of singular. Check            │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                     https://github.com/HostServer001/singul'+37          │ │
+Dec 16 17:37:16 debian singular[51810]: │ │   daemon_cmd_help = "This commands starts a scanning loop. Don't use     │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                     this command manually look at in"+96                 │ │
+Dec 16 17:37:16 debian singular[51810]: │ │  default_opt_help = 'Changes configurations to default values'           │ │
+Dec 16 17:37:16 debian singular[51810]: │ │           Literal = typing.Literal                                       │ │
+Dec 16 17:37:16 debian singular[51810]: │ │            logger = <singular.logger.Logger object at 0x7f06e07b9810>    │ │
+Dec 16 17:37:16 debian singular[51810]: │ │   SCOPE_DIRECTORY = PosixPath('/home/jvk')                               │ │
+Dec 16 17:37:16 debian singular[51810]: │ │      set_opt_help = 'Chages the configurations. Check                    │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                     https://github.com/HostServer001/singular/CONFI'+29  │ │
+Dec 16 17:37:16 debian singular[51810]: │ │              time = <module 'time' (built-in)>                           │ │
+Dec 16 17:37:16 debian singular[51810]: │ │             typer = <module 'typer' from                                 │ │
+Dec 16 17:37:16 debian singular[51810]: │ │                     '/home/jvk/pro_py/lib/python3.13/site-packages/type… │ │
+Dec 16 17:37:16 debian singular[51810]: │ ╰──────────────────────────────────────────────────────────────────────────╯ │
+Dec 16 17:37:16 debian singular[51810]: │                                                                              │
+Dec 16 17:37:16 debian singular[51810]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:327 in __call__  │
+Dec 16 17:37:16 debian singular[51810]: │                                                                              │
+Dec 16 17:37:16 debian singular[51810]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:310 in __call__  │
+Dec 16 17:37:16 debian singular[51810]: │                                                                              │
+Dec 16 17:37:16 debian singular[51810]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:350 in           │
+Dec 16 17:37:16 debian singular[51810]: │ get_command                                                                  │
+Dec 16 17:37:16 debian singular[51810]: │                                                                              │
+Dec 16 17:37:16 debian singular[51810]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:331 in get_group │
+Dec 16 17:37:16 debian singular[51810]: │                                                                              │
+Dec 16 17:37:16 debian singular[51810]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:470 in           │
+Dec 16 17:37:16 debian singular[51810]: │ get_group_from_info                                                          │
+Dec 16 17:37:16 debian singular[51810]: │                                                                              │
+Dec 16 17:37:16 debian singular[51810]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:576 in           │
+Dec 16 17:37:16 debian singular[51810]: │ get_command_from_info                                                        │
+Dec 16 17:37:16 debian singular[51810]: │                                                                              │
+Dec 16 17:37:16 debian singular[51810]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:552 in           │
+Dec 16 17:37:16 debian singular[51810]: │ get_params_convertors_ctx_param_name_from_function                           │
+Dec 16 17:37:16 debian singular[51810]: │                                                                              │
+Dec 16 17:37:16 debian singular[51810]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:898 in           │
+Dec 16 17:37:16 debian singular[51810]: │ get_click_param                                                              │
+Dec 16 17:37:16 debian singular[51810]: │                                                                              │
+Dec 16 17:37:16 debian singular[51810]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/core.py:450 in __init__  │
+Dec 16 17:37:16 debian singular[51810]: │                                                                              │
+Dec 16 17:37:16 debian singular[51810]: │ /home/jvk/pro_py/lib/python3.13/site-packages/click/core.py:2733 in __init__ │
+Dec 16 17:37:16 debian singular[51810]: │                                                                              │
+Dec 16 17:37:16 debian singular[51810]: │ /home/jvk/pro_py/lib/python3.13/site-packages/click/core.py:2152 in __init__ │
+Dec 16 17:37:16 debian singular[51810]: │                                                                              │
+Dec 16 17:37:16 debian singular[51810]: │ /home/jvk/pro_py/lib/python3.13/site-packages/click/core.py:2900 in          │
+Dec 16 17:37:16 debian singular[51810]: │ _parse_decls                                                                 │
+Dec 16 17:37:16 debian singular[51810]: ╰──────────────────────────────────────────────────────────────────────────────╯
+Dec 16 17:37:16 debian singular[51810]: AttributeError: 'bool' object has no attribute 'isidentifier'
+Dec 16 17:37:17 debian singular[51816]: 2025-12-16 17:37:17,033 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:37:17 debian singular[51816]: 2025-12-16 17:37:17,033 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:37:17 debian singular[51816]: 2025-12-16 17:37:17,033 - singular.logger - INFO - Data base loaded
+Dec 16 17:37:17 debian singular[51816]: 2025-12-16 17:37:17,056 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:37:17 debian singular[51816]: 2025-12-16 17:37:17,057 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:37:17 debian singular[51816]: 2025-12-16 17:37:17,057 - singular.logger - INFO - Data base loaded
+Dec 16 17:37:17 debian singular[51816]: ╭───────────────────── Traceback (most recent call last) ──────────────────────╮
+Dec 16 17:37:17 debian singular[51816]: │ in _run_module_as_main:198                                                   │
+Dec 16 17:37:17 debian singular[51816]: │ ╭───────────────────────────────── locals ─────────────────────────────────╮ │
+Dec 16 17:37:17 debian singular[51816]: │ │   alter_argv = True                                                      │ │
+Dec 16 17:37:17 debian singular[51816]: │ │         code = <code object <module> at 0xd075460, file                  │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                "/home/jvk/singular/singular/__main__.py", line 1>        │ │
+Dec 16 17:37:17 debian singular[51816]: │ │ main_globals = {                                                         │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__name__': '__main__',                               │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__doc__': None,                                      │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__package__': 'singular',                            │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__loader__':                                         │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                <_frozen_importlib_external.SourceFileLoader object at    │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                0x7f200fe665d0>,                                          │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__spec__': ModuleSpec(name='singular.__main__',      │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                object at 0x7f200fe665d0>,                                │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                origin='/home/jvk/singular/singular/__main__.py'),        │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__annotations__': {},                                │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__builtins__': <module 'builtins' (built-in)>,       │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__file__':                                           │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                '/home/jvk/singular/singular/__main__.py',                │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__cached__':                                         │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                '/home/jvk/singular/singular/__pycache__/__main__.cpytho… │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   'time': <module 'time' (built-in)>,                   │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   ... +22                                               │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                }                                                         │ │
+Dec 16 17:37:17 debian singular[51816]: │ │     mod_name = 'singular.__main__'                                       │ │
+Dec 16 17:37:17 debian singular[51816]: │ │     mod_spec = ModuleSpec(name='singular.__main__',                      │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                object at 0x7f200fe665d0>,                                │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                origin='/home/jvk/singular/singular/__main__.py')         │ │
+Dec 16 17:37:17 debian singular[51816]: │ ╰──────────────────────────────────────────────────────────────────────────╯ │
+Dec 16 17:37:17 debian singular[51816]: │ in _run_code:88                                                              │
+Dec 16 17:37:17 debian singular[51816]: │ ╭───────────────────────────────── locals ─────────────────────────────────╮ │
+Dec 16 17:37:17 debian singular[51816]: │ │       cached = '/home/jvk/singular/singular/__pycache__/__main__.cpytho… │ │
+Dec 16 17:37:17 debian singular[51816]: │ │         code = <code object <module> at 0xd075460, file                  │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                "/home/jvk/singular/singular/__main__.py", line 1>        │ │
+Dec 16 17:37:17 debian singular[51816]: │ │        fname = '/home/jvk/singular/singular/__main__.py'                 │ │
+Dec 16 17:37:17 debian singular[51816]: │ │ init_globals = None                                                      │ │
+Dec 16 17:37:17 debian singular[51816]: │ │       loader = <_frozen_importlib_external.SourceFileLoader object at    │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                0x7f200fe665d0>                                           │ │
+Dec 16 17:37:17 debian singular[51816]: │ │     mod_name = '__main__'                                                │ │
+Dec 16 17:37:17 debian singular[51816]: │ │     mod_spec = ModuleSpec(name='singular.__main__',                      │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                object at 0x7f200fe665d0>,                                │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                origin='/home/jvk/singular/singular/__main__.py')         │ │
+Dec 16 17:37:17 debian singular[51816]: │ │     pkg_name = 'singular'                                                │ │
+Dec 16 17:37:17 debian singular[51816]: │ │  run_globals = {                                                         │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__name__': '__main__',                               │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__doc__': None,                                      │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__package__': 'singular',                            │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__loader__':                                         │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                <_frozen_importlib_external.SourceFileLoader object at    │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                0x7f200fe665d0>,                                          │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__spec__': ModuleSpec(name='singular.__main__',      │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                loader=<_frozen_importlib_external.SourceFileLoader       │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                object at 0x7f200fe665d0>,                                │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                origin='/home/jvk/singular/singular/__main__.py'),        │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__annotations__': {},                                │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__builtins__': <module 'builtins' (built-in)>,       │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__file__':                                           │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                '/home/jvk/singular/singular/__main__.py',                │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   '__cached__':                                         │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                '/home/jvk/singular/singular/__pycache__/__main__.cpytho… │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   'time': <module 'time' (built-in)>,                   │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                │   ... +22                                               │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                }                                                         │ │
+Dec 16 17:37:17 debian singular[51816]: │ │  script_name = None                                                      │ │
+Dec 16 17:37:17 debian singular[51816]: │ ╰──────────────────────────────────────────────────────────────────────────╯ │
+Dec 16 17:37:17 debian singular[51816]: │                                                                              │
+Dec 16 17:37:17 debian singular[51816]: │ /home/jvk/singular/singular/__main__.py:77 in <module>                       │
+Dec 16 17:37:17 debian singular[51816]: │                                                                              │
+Dec 16 17:37:17 debian singular[51816]: │   74 │   │   time.sleep(60)                                                  │
+Dec 16 17:37:17 debian singular[51816]: │   75                                                                         │
+Dec 16 17:37:17 debian singular[51816]: │   76 if __name__ == "__main__":                                              │
+Dec 16 17:37:17 debian singular[51816]: │ ❱ 77 │   app()                                                               │
+Dec 16 17:37:17 debian singular[51816]: │   78                                                                         │
+Dec 16 17:37:17 debian singular[51816]: │                                                                              │
+Dec 16 17:37:17 debian singular[51816]: │ ╭───────────────────────────────── locals ─────────────────────────────────╮ │
+Dec 16 17:37:17 debian singular[51816]: │ │          analyser = <singular.analysis.Analyzer object at                │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                     0x7f200ef356a0>                                      │ │
+Dec 16 17:37:17 debian singular[51816]: │ │ analysis_cmd_help = 'Analyze the genrated data base'                     │ │
+Dec 16 17:37:17 debian singular[51816]: │ │         Annotated = typing.Annotated                                     │ │
+Dec 16 17:37:17 debian singular[51816]: │ │               app = <typer.main.Typer object at 0x7f200ef357f0>          │ │
+Dec 16 17:37:17 debian singular[51816]: │ │      config_class = <singular.config.Config object at 0x7f200ef2dcd0>    │ │
+Dec 16 17:37:17 debian singular[51816]: │ │   config_cmd_help = 'Handel configurations of singular. Check            │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                     https://github.com/HostServer001/singul'+37          │ │
+Dec 16 17:37:17 debian singular[51816]: │ │   daemon_cmd_help = "This commands starts a scanning loop. Don't use     │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                     this command manually look at in"+96                 │ │
+Dec 16 17:37:17 debian singular[51816]: │ │  default_opt_help = 'Changes configurations to default values'           │ │
+Dec 16 17:37:17 debian singular[51816]: │ │           Literal = typing.Literal                                       │ │
+Dec 16 17:37:17 debian singular[51816]: │ │            logger = <singular.logger.Logger object at 0x7f200ef2d810>    │ │
+Dec 16 17:37:17 debian singular[51816]: │ │   SCOPE_DIRECTORY = PosixPath('/home/jvk')                               │ │
+Dec 16 17:37:17 debian singular[51816]: │ │      set_opt_help = 'Chages the configurations. Check                    │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                     https://github.com/HostServer001/singular/CONFI'+29  │ │
+Dec 16 17:37:17 debian singular[51816]: │ │              time = <module 'time' (built-in)>                           │ │
+Dec 16 17:37:17 debian singular[51816]: │ │             typer = <module 'typer' from                                 │ │
+Dec 16 17:37:17 debian singular[51816]: │ │                     '/home/jvk/pro_py/lib/python3.13/site-packages/type… │ │
+Dec 16 17:37:17 debian singular[51816]: │ ╰──────────────────────────────────────────────────────────────────────────╯ │
+Dec 16 17:37:17 debian singular[51816]: │                                                                              │
+Dec 16 17:37:17 debian singular[51816]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:327 in __call__  │
+Dec 16 17:37:17 debian singular[51816]: │                                                                              │
+Dec 16 17:37:17 debian singular[51816]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:310 in __call__  │
+Dec 16 17:37:17 debian singular[51816]: │                                                                              │
+Dec 16 17:37:17 debian singular[51816]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:350 in           │
+Dec 16 17:37:17 debian singular[51816]: │ get_command                                                                  │
+Dec 16 17:37:17 debian singular[51816]: │                                                                              │
+Dec 16 17:37:17 debian singular[51816]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:331 in get_group │
+Dec 16 17:37:17 debian singular[51816]: │                                                                              │
+Dec 16 17:37:17 debian singular[51816]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:470 in           │
+Dec 16 17:37:17 debian singular[51816]: │ get_group_from_info                                                          │
+Dec 16 17:37:17 debian singular[51816]: │                                                                              │
+Dec 16 17:37:17 debian singular[51816]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:576 in           │
+Dec 16 17:37:17 debian singular[51816]: │ get_command_from_info                                                        │
+Dec 16 17:37:17 debian singular[51816]: │                                                                              │
+Dec 16 17:37:17 debian singular[51816]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:552 in           │
+Dec 16 17:37:17 debian singular[51816]: │ get_params_convertors_ctx_param_name_from_function                           │
+Dec 16 17:37:17 debian singular[51816]: │                                                                              │
+Dec 16 17:37:17 debian singular[51816]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/main.py:898 in           │
+Dec 16 17:37:17 debian singular[51816]: │ get_click_param                                                              │
+Dec 16 17:37:17 debian singular[51816]: │                                                                              │
+Dec 16 17:37:17 debian singular[51816]: │ /home/jvk/pro_py/lib/python3.13/site-packages/typer/core.py:450 in __init__  │
+Dec 16 17:37:17 debian singular[51816]: │                                                                              │
+Dec 16 17:37:17 debian singular[51816]: │ /home/jvk/pro_py/lib/python3.13/site-packages/click/core.py:2733 in __init__ │
+Dec 16 17:37:17 debian singular[51816]: │                                                                              │
+Dec 16 17:37:17 debian singular[51816]: │ /home/jvk/pro_py/lib/python3.13/site-packages/click/core.py:2152 in __init__ │
+Dec 16 17:37:17 debian singular[51816]: │                                                                              │
+Dec 16 17:37:17 debian singular[51816]: │ /home/jvk/pro_py/lib/python3.13/site-packages/click/core.py:2900 in          │
+Dec 16 17:37:17 debian singular[51816]: │ _parse_decls                                                                 │
+Dec 16 17:37:17 debian singular[51816]: ╰──────────────────────────────────────────────────────────────────────────────╯
+Dec 16 17:37:17 debian singular[51816]: AttributeError: 'bool' object has no attribute 'isidentifier'
+Dec 16 17:59:54 debian singular[54541]: 2025-12-16 17:59:54,501 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:59:54 debian singular[54541]: 2025-12-16 17:59:54,502 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:59:54 debian singular[54541]: 2025-12-16 17:59:54,503 - singular.logger - INFO - Data base loaded
+Dec 16 17:59:54 debian singular[54541]: 2025-12-16 17:59:54,542 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:59:54 debian singular[54541]: 2025-12-16 17:59:54,542 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:59:54 debian singular[54541]: 2025-12-16 17:59:54,543 - singular.logger - INFO - Data base loaded
+Dec 16 17:59:54 debian singular[54541]: 2025-12-16 17:59:54,551 - singular.logger - INFO - Singular started
+Dec 16 17:59:54 debian singular[54551]: 2025-12-16 17:59:54,999 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:59:55 debian singular[54551]: 2025-12-16 17:59:54,999 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:59:55 debian singular[54551]: 2025-12-16 17:59:55,000 - singular.logger - INFO - Data base loaded
+Dec 16 17:59:55 debian singular[54551]: 2025-12-16 17:59:55,022 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:59:55 debian singular[54551]: 2025-12-16 17:59:55,023 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:59:55 debian singular[54551]: 2025-12-16 17:59:55,023 - singular.logger - INFO - Data base loaded
+Dec 16 17:59:55 debian singular[54551]: 2025-12-16 17:59:55,027 - singular.logger - INFO - Singular started
+Dec 16 17:59:55 debian singular[54554]: 2025-12-16 17:59:55,528 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:59:55 debian singular[54554]: 2025-12-16 17:59:55,528 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:59:55 debian singular[54554]: 2025-12-16 17:59:55,528 - singular.logger - INFO - Data base loaded
+Dec 16 17:59:55 debian singular[54554]: 2025-12-16 17:59:55,548 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:59:55 debian singular[54554]: 2025-12-16 17:59:55,548 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:59:55 debian singular[54554]: 2025-12-16 17:59:55,549 - singular.logger - INFO - Data base loaded
+Dec 16 17:59:55 debian singular[54554]: 2025-12-16 17:59:55,553 - singular.logger - INFO - Singular started
+Dec 16 17:59:56 debian singular[54556]: 2025-12-16 17:59:56,023 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:59:56 debian singular[54556]: 2025-12-16 17:59:56,023 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:59:56 debian singular[54556]: 2025-12-16 17:59:56,024 - singular.logger - INFO - Data base loaded
+Dec 16 17:59:56 debian singular[54556]: 2025-12-16 17:59:56,044 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:59:56 debian singular[54556]: 2025-12-16 17:59:56,044 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:59:56 debian singular[54556]: 2025-12-16 17:59:56,045 - singular.logger - INFO - Data base loaded
+Dec 16 17:59:56 debian singular[54556]: 2025-12-16 17:59:56,049 - singular.logger - INFO - Singular started
+Dec 16 17:59:56 debian singular[54558]: 2025-12-16 17:59:56,504 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:59:56 debian singular[54558]: 2025-12-16 17:59:56,504 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:59:56 debian singular[54558]: 2025-12-16 17:59:56,504 - singular.logger - INFO - Data base loaded
+Dec 16 17:59:56 debian singular[54558]: 2025-12-16 17:59:56,525 - singular.logger - INFO - {'DATA_BASE_PATH': '/var/lib/singular', 'SCOPE_DIRECTORY': '/home/jvk', 'LOG_FILE': '/var/log/singular/singular.log', 'ACCESS_HIDDEN_FILES': False, 'DEBUG': False}
+Dec 16 17:59:56 debian singular[54558]: 2025-12-16 17:59:56,525 - singular.logger - INFO - DATA_BASE_PATH  we got /var/lib/singular
+Dec 16 17:59:56 debian singular[54558]: 2025-12-16 17:59:56,525 - singular.logger - INFO - Data base loaded
+Dec 16 17:59:56 debian singular[54558]: 2025-12-16 17:59:56,530 - singular.logger - INFO - Singular started
