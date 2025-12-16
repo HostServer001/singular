@@ -82,7 +82,7 @@ Currently supports only linux
 ```bash
 git clone https://github.com/HostServer001/singular/
 ```
-- Chage direcotry
+- Change direcotry
 ```bash
 cd singular
 ```
@@ -98,7 +98,7 @@ sudo chmod +x daemon.sh
 ```bash
 systemctl status singular.service
 ```
-- Ananlysis
+- Analysis
 ```bash
 singular analysis
 ```
