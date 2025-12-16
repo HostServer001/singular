@@ -47,15 +47,24 @@ def daemon():
 @app.command(help=config_cmd_help)
 def config(
     set_: Annotated[list[str], typer.Option("--set", "-s", help=set_opt_help)],
-    default_: Annotated[bool, typer.Option("--default", "-d", help=default_opt_help)] = False
+    default_: Annotated[bool, typer.Option("--default", "-d", help=default_opt_help)] = False,
 ):
     if default_:
         for key, value in config_class.default_env_dict.items():
             config_class._change_config(key, value)
-    else:
+    elif set_:
         for pair in set_:
-            key, value = pair.split("=")
-            config_class._change_config(key, value.strip('"'))
+            if "=" not in pair:
+                typer.echo(f"Invalid format: {pair}. Use KEY=VALUE.")
+                raise typer.Exit(code=1)
+            key, value = pair.split("=", 1)
+            val = value.strip('"').strip("'")
+            if val.lower() in ("false", "0", "no"):
+                val = False
+            elif val.lower() in ("true", "1", "yes"):
+                val = True
+            config_class._change_config(key, val)
+
 
 @app.command(help=analysis_cmd_help)
 def analysis():

@@ -97,6 +97,13 @@ sudo chmod +x daemon.sh
 ```bash
 systemctl status singular.service
 ```
+```bash
+singular analysis
+```
+- More help
+```bash
+singular --help
+```
 
 ---
 
@@ -132,7 +139,7 @@ Licensed under the terms specified in the LICENSE file.
 
 ---
 
-Author Notes
+## Author Notes
 
 Singular is built as a systems-level learning project with real-world constraints in mind: performance, correctness, and long-running reliability.
 
