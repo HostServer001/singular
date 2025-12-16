@@ -100,19 +100,19 @@ systemctl status singular.service
 
 ---
 
-Design Philosophy
+## Design Philosophy
 
-Avoid SQL when flexibility matters
-JSON storage allows evolving metadata without migrations.
+- Avoid SQL when flexibility matters
+  JSON storage allows evolving metadata without migrations.
 
-Disk I/O is the real bottleneck
-The system is optimized to reduce repeated reads and writes.
+- Disk I/O is the real bottleneck
+  The system is optimized to reduce repeated reads and writes.
 
-Composable internals
-Each component (scanner, database, analyzer) can evolve independently.
+- Composable internals
+  Each component (scanner, database, analyzer) can evolve independently.
 
-Future-proof
-Rust is used selectively where Python overhead becomes significant.
+- Future-proof
+  Rust is used selectively where Python overhead becomes significant.
 
 
 
