@@ -140,6 +140,14 @@ Licensed under the terms specified in the LICENSE file.
 
 ---
 
+## Future Ideas
+
+- More analyzing fucntions
+- File similarity feature , idk how but yeah :)
+- More Rust optimizations for data base read wirte also
+
+---
+
 ## Author Notes
 
 Singular is built as a systems-level learning project with real-world constraints in mind: performance, correctness, and long-running reliability.
