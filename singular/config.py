@@ -23,6 +23,7 @@ class Config:
         self.default_env_dict = {
             "DATA_BASE_PATH": f"{str(parent_folder/"data_base")}",
             "SCOPE_DIRECTORY": f"/home/{os.getlogin()}",
+            "LOG_FILE":f"{str(Path(parent_folder)/"data_base"/"singular.log")}",
             "ACCESS_HIDDEN_FILES": "False",
             "DEBUG": "False"
         }
@@ -38,6 +39,7 @@ class Config:
         """
         self.data_base_path = os.getenv("DATA_BASE_PATH")
         self.scope_diretory = os.getenv("SCOPE_DIRECTORY")
+        self.log_file = os.getenv("LOG_FILE")
         self.access_hidden_files = os.getenv("ACCESS_HIDDEN_FILES")
         self.debug = os.getenv("DEBUG")
 
@@ -51,6 +53,9 @@ class Config:
             for value in self.get.values():
                 if self.get.get(key,None) == None or value == "None":
                     self._change_config(key, self.default_env_dict.get(key))
+        if not Path(self.log_file).exists():#type:ignore
+            file = open(self.log_file,"w")#type:ignore
+            file.close()
 
     def _change_config(self, key, value):
         """What? Chanegs the config"""
@@ -65,6 +70,7 @@ class Config:
         return {
             "DATA_BASE_PATH": self.data_base_path,
             "SCOPE_DIRECTORY": self.scope_diretory,
+            "LOG_FILE": self.log_file,
             "ACCESS_HIDDEN_FILES": self.access_hidden_files,
             "DEBUG": self.debug
         }

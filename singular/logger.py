@@ -5,6 +5,7 @@ config = Config()
 
 class Logger:
     def __init__(self) -> None:
+        logging.basicConfig(filename=config.get["LOG_FILE"])
         self.logger = logging.getLogger(__name__)
         self.handler = logging.StreamHandler()
         self.formatter = logging.Formatter(
