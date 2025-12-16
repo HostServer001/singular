@@ -12,7 +12,7 @@ fi
 if [ -f "$VENV_PATH/bin/activate" ]; then
     source "$VENV_PATH/bin/activate"
     if command -v pip >/dev/null 2>&1; then
-        pip install python-dotenv rustimport
+        pip install rustimport
     else
         echo "pip not available, skipping dependency install"
     fi
@@ -37,13 +37,13 @@ sudo mkdir -p /etc/singular
 sudo chown $CURRENT_USER:$CURRENT_USER /var/log/singular
 sudo chown $CURRENT_USER:$CURRENT_USER /var/lib/singular
 
-# Copy .env safely
-if [ -f "$SCRIPT_DIR/.env" ]; then
-    sudo tee /etc/singular/.env < "$SCRIPT_DIR/.env" > /dev/null
-    sudo chown $CURRENT_USER:$CURRENT_USER /etc/singular/.env
-    sudo chmod 600 /etc/singular/.env
+# Copy config if singular_config.json exists
+if [ -f "$SCRIPT_DIR/singular_config.json" ]; then
+    sudo cp "$SCRIPT_DIR/singular_config.json" /etc/singular/singular_config.json
+    sudo chown $CURRENT_USER:$CURRENT_USER /etc/singular/singular_config.json
+    sudo chmod 600 /etc/singular/singular_config.json
 else
-    echo "Warning: no .env file found in $SCRIPT_DIR"
+    echo "Warning: no singular_config.json file found in $SCRIPT_DIR"
 fi
 
 # Reload and start service

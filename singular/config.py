@@ -1,6 +1,6 @@
 import os
+import json
 from pathlib import Path
-from dotenv import load_dotenv, set_key
 
 class Config:
     """What? Config class handels configurations for singular"""
@@ -14,13 +14,9 @@ class Config:
     def __init__(self):
         "Initialzation of Config"
         #defined parrent folder path and .env file path using the path of config.py (__file__)
-        config_file_path = __file__
-        parent_folder = Path(Path(config_file_path).parent)
+        self.config_file_path = "/etc/sigular/singular_config.json"
+        # parent_folder = Path(Path(config_file_path).parent)
         # self.env_path = str(parent_folder/".env")
-        self.env_path = "/etc/singular/.env"
-
-        #load .env, load config, check if configs are useable if not fix
-        load_dotenv(self.env_path)
         self.default_env_dict = {
             "DATA_BASE_PATH": "/var/lib/singular",
             "SCOPE_DIRECTORY": os.path.expanduser("~"),
@@ -28,6 +24,16 @@ class Config:
             "ACCESS_HIDDEN_FILES": "False",
             "DEBUG": "False"
         }
+        try:
+            self.config = json.load(open(self.config_file_path,"r"))
+        except FileNotFoundError:
+            os.makedirs("/etc/singular",exist_ok=True)
+            file = open("/etc/singular/singular_config.json","w")
+            json.dump(self.default_env_dict,file,indent=4)
+            file.close()
+
+        #load .env, load config, check if configs are useable if not fix
+        # load_dotenv(self.env_path)
         self._load_config()
         self._config_health_fix()
 
@@ -38,11 +44,14 @@ class Config:
         but if these variables are in __init__ this means we are re initializing the whole class,
         this in my opinion was risky and inconsistent thats why this approach
         """
-        self.data_base_path = os.getenv("DATA_BASE_PATH")
-        self.scope_diretory = os.getenv("SCOPE_DIRECTORY")
-        self.log_file = os.getenv("LOG_FILE")
-        self.access_hidden_files = os.getenv("ACCESS_HIDDEN_FILES")
-        self.debug = os.getenv("DEBUG")
+        file = open(self.config_file_path,"r")
+        config_dict = json.load(file)
+        file.close()
+        self.data_base_path = config_dict["DATA_BASE_PATH"]
+        self.scope_diretory = config_dict["SCOPE_DIRECTORY"]
+        self.log_file = config_dict["LOG_FILE"]
+        self.access_hidden_files = config_dict["ACCESS_HIDDEN_FILES"]
+        self.debug = config_dict["DEBUG"]
 
     def _config_health_fix(self):
         """What? Checking health of config"""
@@ -57,11 +66,20 @@ class Config:
         if not Path(self.log_file).exists():#type:ignore
             file = open(self.log_file,"w")#type:ignore
             file.close()
-
+    
+    def set_key(self,key,value):
+        file = open(self.config_file_path,"r")
+        config_dict = json.load(file)
+        file.close()
+        config_dict[key] = value
+        file = open(self.config_file_path,"w")
+        json.dump(config_dict,file,indent=4)
+        file.close
+        
     def _change_config(self, key, value):
         """What? Chanegs the config"""
         """Why? Code should be abel to change the configs on user demand :)"""
-        set_key(self.env_path, key, value)
+        self.set_key(key, value)
         self._load_config()  # reload values only
 
     @property
