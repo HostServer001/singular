@@ -61,7 +61,7 @@ class Config:
             self._change_config("DATA_BASE_PATH", self.default_env_dict["DATA_BASE_PATH"])
         for key in self.default_env_dict.keys():
             for value in self.get.values():
-                if self.get.get(key,None) == None or value == "None":
+                if self.get.get(key,None) == None or value == None:
                     self._change_config(key, self.default_env_dict.get(key))
         if not Path(self.log_file).exists():#type:ignore
             file = open(self.log_file,"w")#type:ignore
