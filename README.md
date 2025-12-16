@@ -66,23 +66,33 @@ Support long-running background operation, and allow future extensibility withou
 
 ---
 
-[include](CONFIGURATION.md)
+##Configuration
+Check out [this](CONFIGURATION.md)
 
 ---
 
-## Running Singular
+## Installation
 
-### Run Manually
+### Linux
+
+Currently supports only linux
+
+1
 ```bash
-python -m singular
-
-Run as a Daemon (systemd)
-
-sudo cp singular.service /etc/systemd/system/
-sudo systemctl daemon-reload
-sudo systemctl enable singular
-sudo systemctl start singular
-
+git clone https://github.com/HostServer001/singular/
+```
+2
+```bash
+cd singular
+```
+3
+```
+sudo chmod +x daemon.sh
+```
+4
+```
+./daemon.sh
+```
 
 ---
 
