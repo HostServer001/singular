@@ -129,9 +129,7 @@ singular --help
 
 ## Current Status
 
-Early but functional
-Actively evolving
-Performance characteristics already measurable and improving
+Early but functional, actively evolving and performance characteristics already measurable and improving
 
 ---
 
