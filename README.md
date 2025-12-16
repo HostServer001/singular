@@ -66,6 +66,7 @@ Support long-running background operation, and allow future extensibility withou
 
 ---
 
+[include](File:CONFIGURATION.md)
 
 ---
 
