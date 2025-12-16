@@ -1,12 +1,10 @@
 from pathlib import Path
-from .config import Config
 from multiprocessing import Pool,cpu_count
 from .utils import _get_chuncked_files
 from .logger import Logger
 from .data_base_manager import DataBase
 from .file import File
 
-config = Config()
 logger = Logger()
 data_base = DataBase()
 

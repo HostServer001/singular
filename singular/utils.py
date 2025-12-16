@@ -18,14 +18,14 @@ def _get_file_paths(
             if item.is_dir() and item.name in ["pro_py"]:
                 continue
             if item.is_dir():
-                if item.name.startswith(".") and config.get["ACCESS_HIDDEN_FILES"] == "False":
+                if item.name.startswith(".") and config.get["ACCESS_HIDDEN_FILES"] == False:
                     continue
                 _get_file_paths(item,list_to_store)
             
             elif item.is_file():
                 if item.name == "FileSystemDataBase.json":
                     continue
-                if item.name.startswith(".") and config.get["ACCESS_HIDDEN_FILES"] == "False":
+                if item.name.startswith(".") and config.get["ACCESS_HIDDEN_FILES"] == False:
                     continue
                 list_to_store.append(item.resolve())
         

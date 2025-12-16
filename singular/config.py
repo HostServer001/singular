@@ -21,8 +21,8 @@ class Config:
             "DATA_BASE_PATH": "/var/lib/singular",
             "SCOPE_DIRECTORY": os.path.expanduser("~"),
             "LOG_FILE":"/var/log/singular",
-            "ACCESS_HIDDEN_FILES": "False",
-            "DEBUG": "False"
+            "ACCESS_HIDDEN_FILES": False,
+            "DEBUG": False
         }
         try:
             self.config = json.load(open(self.config_file_path,"r"))

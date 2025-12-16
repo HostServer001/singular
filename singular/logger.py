@@ -16,7 +16,7 @@ class Logger:
         if not self.logger.handlers:
             self.logger.addHandler(self.handler)
 
-        self.debug_mode = str(config.get.get("DEBUG", "False")).lower() == "true"
+        self.debug_mode = str(config.get.get("DEBUG", False)) == True
         self.logger.setLevel(logging.DEBUG if self.debug_mode else logging.INFO)
 
     def debug(self, text: str) -> None:

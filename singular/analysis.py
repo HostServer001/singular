@@ -1,11 +1,9 @@
 from .logger import Logger
 from .data_base_manager import DataBase
-from .config import Config
 from .file import File
 from pathlib import Path
 
 logger = Logger()
-config = Config()
 data_base = DataBase()
 
 class Analyzer:
