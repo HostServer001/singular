@@ -66,7 +66,7 @@ Support long-running background operation, and allow future extensibility withou
 
 ---
 
-##Configuration
+## Configuration
 Check out [this](CONFIGURATION.md)
 
 ---
@@ -77,21 +77,25 @@ Check out [this](CONFIGURATION.md)
 
 Currently supports only linux
 
-1
+- Clone git repo
 ```bash
 git clone https://github.com/HostServer001/singular/
 ```
-2
+- Chage direcotry
 ```bash
 cd singular
 ```
-3
+- Change permissions
 ```
 sudo chmod +x daemon.sh
 ```
-4
+- Start singular daemon
 ```
 ./daemon.sh
+```
+- Confirm
+```bash
+systemctl status singular.service
 ```
 
 ---
