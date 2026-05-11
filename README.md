@@ -1,3 +1,6 @@
+#Notice
+Half cooked and no longer continued
+
 # Singular
 
 **Singular** is a high-performance file analysis and deduplication daemon that scans the filesystem, fingerprints files using SHA-256, and maintains a persistent metadata database to detect duplicates efficiently over time.
